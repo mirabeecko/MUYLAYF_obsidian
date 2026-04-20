@@ -1,0 +1,455 @@
+{
+  "main": {
+    "id": "31494b428149c7e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4973a33573f7a2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d13f0bfe9e868ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/ALFA DASHBOARD.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ALFA DASHBOARD"
+            }
+          },
+          {
+            "id": "c329cfebbbd6fbdc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "⭐️ webdo24.cz"
+            }
+          },
+          {
+            "id": "f627b5e1095acac9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01-PROJEKTY/❤️ webdo24.cz/webdo24.cz PIPELINE.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "webdo24.cz PIPELINE.excalidraw"
+            }
+          },
+          {
+            "id": "90136b80cb2a8fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "master_prompt.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "master_prompt"
+            }
+          },
+          {
+            "id": "ea73d865ba6aa901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📈 ANALÝZA KONKURENCE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📈 ANALÝZA KONKURENCE"
+            }
+          },
+          {
+            "id": "fc4d9824fb55517a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-PRAVNI/TJ-Krupka/80-TJ/otázky/T-MOBILE/T-MOBILE  🍌 TJ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "T-MOBILE  🍌 TJ"
+            }
+          },
+          {
+            "id": "06b810545f03eac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOTORKY.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOTORKY"
+            }
+          },
+          {
+            "id": "cc73ae13c8bb4326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/KTM FREERIDE 350.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KTM FREERIDE 350"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd753d4bbd28459f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed116d2e7e79f806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4782c4063e44f9e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Průzkumník souborů"
+            }
+          },
+          {
+            "id": "cb6a555cd5ccf9f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Hledat"
+            }
+          },
+          {
+            "id": "8f1776c24a6a15d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Záložky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d747d256b563506f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c3090cd4dbaca7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e3e75b30feaf32",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/mb/Documents/MUYLAYF",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "Terminal: ✳ Nápad monetizace komárce"
+            }
+          },
+          {
+            "id": "0c3fb29a2971858a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy pro 📀 API ONE"
+            }
+          },
+          {
+            "id": "6248b7bd77e5a6b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy z 📀 API ONE"
+            }
+          },
+          {
+            "id": "d89744790510d9b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f494b392c1dd926",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "documents",
+              "title": "chatGPT"
+            }
+          },
+          {
+            "id": "bbc4cecd1ad2494d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Vytvořit novou základnu": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mxmind:Mxmind": false,
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Vytvořit nový canvas": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "terminal:Open terminal": false,
+      "supabase-sync:Sync se Supabase": false,
+      "obsidian-google-tasks:Google Tasks": false
+    }
+  },
+  "active": "90136b80cb2a8fd6",
+  "lastOpenFiles": [
+    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "📈 ANALÝZA KONKURENCE.md",
+    "03-LIDI/People 1/⭐️ PÁREK 🌭 DOKTOR MOTOR.md",
+    "master_prompt.md",
+    "SERVER | VPS strukture.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/otázky/T-MOBILE/T-MOBILE  🍌 TJ.md",
+    "MOTORKY.md",
+    "99-PUVODNI/KTM FREERIDE 350.md",
+    "MOJE VPS.md",
+    "99-PUVODNI/ALFA DASHBOARD.md",
+    "01-PROJEKTY/❤️ webdo24.cz/webdo24.cz PIPELINE.excalidraw.md",
+    "99-PUVODNI/Excalidraw/nextlevel_prompt.md",
+    "99-PUVODNI/KONTROLNÍ PROMPT.md",
+    "99-PUVODNI/Excalidraw/html_milada_prompt.md",
+    "99-PUVODNI/Vehicles/FIAT Ducato 2.3 Diesel.md",
+    "99-PUVODNI/Vehicles/AJP PR4.md",
+    "99-PUVODNI/Vehicles/KTM FREERIDE 350.md",
+    "Bez názvu 1.base",
+    "Bez názvu.base",
+    "ALL 🏍️ MOTO POWER TRICKS.md",
+    "GA4 Architektura automatizace.md",
+    "99-PUVODNI/Excalidraw/webdo24 .excalidraw.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/⚜ VEŘEJNÉ PROHLÁŠENÍ FB ČERVENEC 2024.md",
+    "03-LIDI/People 1/⭐ VÁZA.md",
+    "03-LIDI/People 1/⭐ SVOBI.md",
+    "03-LIDI/People 1/⭐ Belková - lyžařská škola.md",
+    "MANUS - TELEKOMUNIKAČNÍ PLÁN.md",
+    "03-LIDI/People 1/⭐️.md",
+    "00-DASHBOARD/main.canvas",
+    "Bez názvu.canvas",
+    "01-PROJEKTY/❤️ webdo24.cz/Srovnání LLM 2026 - Finální Report.pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/Srovnání LLM 2026 - Extended.pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/Srovnání LLM 2026.pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/Profesionální VOP WebDo24.pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/VOP WebDo24 Shield.pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/FérováDohodaGatedDelivery (1).pdf",
+    "01-PROJEKTY/❤️ webdo24.cz/Nepotvrzeno 469541.crdownload",
+    "01-PROJEKTY/❤️ webdo24.cz/FérováDohodaGatedDelivery.pdf",
+    "01-PROJEKTY/Komarka/🗺 MAPA AREÁLU.png",
+    "01-PROJEKTY/❤️ webdo24.cz/WebDo24-cz-Tržní-Analýza-a-PPC-Strategie-04-12-2026_05_08_PM.png",
+    "01-PROJEKTY/❤️ webdo24.cz/WebDo24-cz-Strategický-Dashboard-04-12-2026_05_08_PM.png",
+    "01-PROJEKTY/❤️ webdo24.cz/Video-Script-PPC-Copy-WebDo24-cz-04-12-2026_05_08_PM.png",
+    "🦴 PŘÍLOHY/Pasted Image 20260409150237_702.png",
+    "🦴 PŘÍLOHY/Pasted Image 20260408161302_372.png",
+    "99-PUVODNI/Bez názvu.canvas",
+    "99-PUVODNI/Bez názvu 1.canvas",
+    "99-PUVODNI/tvary kličů dozický zámek.jpg",
+    "99-PUVODNI/Snímek obrazovky 2024-06-22 v 6.55.31.png",
+    "99-PUVODNI/Snímek obrazovky 2024-05-17 v 18.11.36.png",
+    "99-PUVODNI/Snímek obrazovky 2024-03-22 v 20.15.08.png",
+    "99-PUVODNI/Canvasy/TJK MĚSTU KRUPKA.canvas",
+    "99-PUVODNI/Canvasy/TJK 2025 - PRÁVNÍ ROZUZLENÍ.canvas",
+    "99-PUVODNI/Canvasy/🥁🥁🥁 TJ 2024 - LISTINY, ZÁPISY apod..canvas",
+    "99-PUVODNI/Canvasy/🔫 MÁM PLÁN CANVAS.canvas",
+    "99-PUVODNI/Canvasy/🔥🔥🔥🔥🔥 TJ 2024.canvas",
+    "99-PUVODNI/Canvasy/🔥🔥🔥 ÚČETNICTVÍ.canvas"
+  ]
+}

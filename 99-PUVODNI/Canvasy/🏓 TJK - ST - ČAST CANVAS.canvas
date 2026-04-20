@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"ff7f7c2f360e3eb0","type":"group","x":-1612,"y":40,"width":2912,"height":2080,"label":"Untitled group"},
+		{"id":"a1e5b34172ff82e8","type":"file","file":"80 🎪 TJ/⚜ ŽALOBA NA TJ.md","x":-242,"y":100,"width":698,"height":900},
+		{"id":"fd78f2b993a3c299","type":"file","file":"80 🎪 TJ/🏓 ST PŘESTUP HRÁČŮ.md","x":-960,"y":100,"width":668,"height":900},
+		{"id":"6bda5d32ea2c178c","type":"file","file":"80 🎪 TJ/📢 VYJÁDŘENÍ TJK k 2021-2024.md","x":520,"y":100,"width":760,"height":900},
+		{"id":"0a06bf13cfb2c190","type":"file","file":"🧨 TJ vs ČAST - DALŠÍ POSTUP.md","x":-1592,"y":100,"width":566,"height":900},
+		{"id":"e69ee4e30bf32d78","type":"file","file":"80 🎪 TJ/🩸 SHRNUTÍ ROKŮ 2021 - 2023.md","x":-1592,"y":1060,"width":1133,"height":1000},
+		{"id":"f5bc5bdffe642f60","type":"file","file":"80 🎪 TJ/Poslaný Henžel.md","x":-421,"y":1060,"width":620,"height":1020},
+		{"id":"4c28d0b9c3799cbf","type":"file","file":"Trestné činny.md","x":-692,"y":-410,"width":542,"height":320},
+		{"id":"128417215c002253","type":"text","text":"# ČAST , KSSTÚK","x":-1309,"y":-280,"width":298,"height":60},
+		{"id":"8126040f1a7f659c","type":"text","text":" **čl. 412** - Jakákoliv manipulace s registrací nebo porušení ustanovení Registračního řádu se považuje za disciplinární provinění, které se projednává podle Disciplinárního řádu (kap. 6)","x":-692,"y":-660,"width":800,"height":100},
+		{"id":"55e2b3aa9e303d97","x":67,"y":-249,"width":250,"height":60,"type":"text","text":"[[🏓 Stolní tenis]]"}
+	],
+	"edges":[
+		{"id":"aca3d7d57f5d5107","fromNode":"128417215c002253","fromSide":"top","toNode":"8126040f1a7f659c","toSide":"left"}
+	]
+}

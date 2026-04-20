@@ -1,0 +1,31 @@
+
+/* Základní styly pro šablonu */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a2e;
+  color: #fff;
+  text-align: left; /* Vycentrování textu */
+}
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+.box, .large-box {
+  border: 1px dashed #4e4e50;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center; /* Vycentrování textu uvnitř boxů */
+}
+.large-box {
+  height: 150px; /* Přizpůsobte podle potřeby */
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.row > .box {
+  flex-basis: calc(33.333% - 10px);
+}
+.footer {
+  margin-top: 20px;
+}

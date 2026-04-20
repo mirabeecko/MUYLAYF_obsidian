@@ -1,0 +1,33 @@
+@media print {
+
+	/* Nastaví bílé pozadí a sytě černý text pro všechno */
+	* {
+		background-color: white !important;
+		color: black !important;
+		-webkit-print-color-adjust: exact;
+	}
+
+	/* Zvětšení písma a tloušťky pro lepší čitelnost z dálky */
+	body {
+		font-size: 1.2rem !important;
+		/* Zvětší text */
+		line-height: 1.5 !important;
+		/* Větší rozestupy řádků */
+	}
+
+	h1,
+	h2,
+	h3,
+	h4 {
+		color: black !important;
+		font-weight: bold !important;
+		border-bottom: 2px solid black !important;
+		/* Podtržení nadpisů pro orientaci */
+	}
+
+	/* Zajistí, že odkazy nebudou modré/světlé */
+	a {
+		color: black !important;
+		text-decoration: underline !important;
+	}
+}

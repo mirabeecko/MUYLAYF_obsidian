@@ -1,0 +1,12 @@
+---
+tags:
+  - filmy
+---
+# MÁMA FILMY
+
+- UČITELKA
+- NIKDY NEJSME SAMI
+- ZLODĚJI ...
+- KAŽDÝ MILION DOBRÝ
+
+#claude_reference

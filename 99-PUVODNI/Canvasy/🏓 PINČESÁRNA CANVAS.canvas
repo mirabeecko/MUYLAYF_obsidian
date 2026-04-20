@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c33101e7fe30a72e","x":-155,"y":-300,"width":250,"height":60,"type":"text","text":""},
+		{"id":"fd75babe23e0c7fd","type":"file","file":"0 0 CANVASY ALL/🔥🔥🔥 Moye TJK 2021-2026.canvas","x":-174,"y":-180,"width":400,"height":400},
+		{"id":"12344054107284a5","type":"file","file":"0 0 CANVASY ALL/💥TJ BRAiNSTORMiNG.canvas","x":-654,"y":-180,"width":400,"height":400},
+		{"id":"7dc25103b5101d07","type":"file","file":"0 0 CANVASY ALL/TJ MOC.canvas","x":286,"y":-180,"width":400,"height":400}
+	],
+	"edges":[]
+}

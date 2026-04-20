@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "translucency": true,
+  "cssTheme": "LYT Mode",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "topmenu",
+    "awesome-brain-manager",
+    "cards",
+    "custom-admonitions.e8f25e",
+    "clenitemplate_style",
+    "presentace-size",
+    "pdf-skryty-text"
+  ]
+}

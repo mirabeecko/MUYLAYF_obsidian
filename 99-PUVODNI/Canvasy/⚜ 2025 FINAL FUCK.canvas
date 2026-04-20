@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f5b74146ece4a479","type":"text","text":"# ÚVOD","x":-388,"y":-232,"width":250,"height":60},
+		{"id":"b6215441df7d9d4b","type":"text","text":"# VÝCHOZÍ POZICE","x":-12,"y":-300,"width":308,"height":50},
+		{"id":"f9e4511519295237","type":"file","file":"⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md","x":-1000,"y":80,"width":862,"height":680},
+		{"id":"3a76185fc8ac44e2","type":"file","file":"🕺 mb VEŘEJNÝ PROHLÁŠENÍ.md","x":300,"y":587,"width":700,"height":875},
+		{"id":"b15d7f5537f0929d","type":"file","file":"80 🎪 TJ/⚜ VYJÁDŘENÍ TJK k 2021-2024.md","x":-294,"y":1062,"width":400,"height":400},
+		{"id":"ea74969e3bc91b56","type":"text","text":"## ZDŮRAZNIT","x":596,"y":44,"width":250,"height":60},
+		{"id":"022f9f41500fe3fe","type":"text","text":"","x":1483,"y":390,"width":250,"height":60},
+		{"id":"d6cae0771b2238d3","type":"text","text":"# ZÁPLETKA","x":1302,"y":-646,"width":250,"height":60},
+		{"id":"2aebaea779601bbe","type":"text","text":"### KOMÁRKA","x":1443,"y":-468,"width":159,"height":52},
+		{"id":"fdc49cdbe01843f3","type":"text","text":"### PINČESÁRNA","x":1059,"y":-466,"width":343,"height":50},
+		{"id":"fc874388e30725ab","type":"text","text":"# FAKTA","x":1139,"y":-316,"width":225,"height":50},
+		{"id":"ca726476a0940be6","type":"text","text":"# KDO JSEM\n","x":924,"y":-586,"width":270,"height":50},
+		{"id":"27df4853b3d548e5","type":"file","file":"NEJSOU TO CHUDINKY.md","x":1000,"y":124,"width":608,"height":266},
+		{"id":"b1d73eedcd79cbfa","type":"text","text":"","x":1046,"y":44,"width":200,"height":70},
+		{"id":"64fcedc9903b1791","x":-1000,"y":920,"width":520,"height":1280,"type":"file","file":"🔑 Definitivní prohlášení.md"},
+		{"id":"1b111209f3ba4068","x":145,"y":1697,"width":400,"height":400,"type":"file","file":"🕸 FACEBOOK KOMÁRKA.md"}
+	],
+	"edges":[
+		{"id":"b5ca096094db1f98","fromNode":"ea74969e3bc91b56","fromSide":"right","toNode":"27df4853b3d548e5","toSide":"left"},
+		{"id":"667279dec20b3f34","fromNode":"ea74969e3bc91b56","fromSide":"right","toNode":"b1d73eedcd79cbfa","toSide":"left"},
+		{"id":"94eacb9a5335c829","fromNode":"d6cae0771b2238d3","fromSide":"bottom","toNode":"fdc49cdbe01843f3","toSide":"top"},
+		{"id":"595a36ba036eb5d0","fromNode":"d6cae0771b2238d3","fromSide":"bottom","toNode":"2aebaea779601bbe","toSide":"top"},
+		{"id":"4a0c951b4b1c2350","fromNode":"ca726476a0940be6","fromSide":"right","toNode":"d6cae0771b2238d3","toSide":"left"}
+	]
+}

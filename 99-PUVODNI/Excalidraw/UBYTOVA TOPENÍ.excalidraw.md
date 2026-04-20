@@ -1,0 +1,291 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Otevřený systém
+Kotel na tuhá paliva ^p8m1OM2f
+
+- Potřeba napustit systém vodou
+- Odvzdušnit topení
+- Spustit kotel ATMOS C 50 S ^Yi9336ij
+
+TEPLÁ VODA , KDYŽ SE TOPÍ ? ^YKDR8SkS
+
+
+# Embedded files
+bcb4f6da93c71b893ee15361e1d67364f4ce9f76: [[Pasted Image 20241126121342_304.png]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.22",
+	"elements": [
+		{
+			"id": "90eM15lIwzmLp19xQpNHR",
+			"type": "image",
+			"x": -156.42392461324346,
+			"y": -278.1028101002504,
+			"width": 466.3955622576287,
+			"height": 396.4362279189844,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1163560587,
+			"version": 1114,
+			"versionNonce": 953821067,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732625174656,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bcb4f6da93c71b893ee15361e1d67364f4ce9f76",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "p8m1OM2f",
+			"type": "text",
+			"x": -537.261769567077,
+			"y": -195.70182304871196,
+			"width": 163.13592529296875,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2112036747,
+			"version": 443,
+			"versionNonce": 1277772971,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732678597290,
+			"link": null,
+			"locked": false,
+			"text": "Otevřený systém\nKotel na tuhá paliva",
+			"rawText": "Otevřený systém\nKotel na tuhá paliva",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "Otevřený systém\nKotel na tuhá paliva",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Yi9336ij",
+			"type": "text",
+			"x": -537.4985269731903,
+			"y": -59.668461335787754,
+			"width": 265.07183837890625,
+			"height": 60,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 129548267,
+			"version": 476,
+			"versionNonce": 1438382699,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732678682190,
+			"link": null,
+			"locked": false,
+			"text": "- Potřeba napustit systém vodou\n- Odvzdušnit topení\n- Spustit kotel ATMOS C 50 S",
+			"rawText": "- Potřeba napustit systém vodou\n- Odvzdušnit topení\n- Spustit kotel ATMOS C 50 S",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 54,
+			"containerId": null,
+			"originalText": "- Potřeba napustit systém vodou\n- Odvzdušnit topení\n- Spustit kotel ATMOS C 50 S",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 689,
+			"versionNonce": 1178218731,
+			"isDeleted": false,
+			"id": "YKDR8SkS",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -531.7652976793818,
+			"y": 45.43094946683573,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 336.81988525390625,
+			"height": 25,
+			"seed": 1274649221,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1732678580021,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "TEPLÁ VODA , KDYŽ SE TOPÍ ?",
+			"rawText": "TEPLÁ VODA , KDYŽ SE TOPÍ ?",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "TEPLÁ VODA , KDYŽ SE TOPÍ ?",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "NugvX2RB",
+			"type": "text",
+			"x": -536.8325748535239,
+			"y": -121.08054640334598,
+			"width": 146.639892578125,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 962051403,
+			"version": 444,
+			"versionNonce": 491688517,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1732678612176,
+			"link": null,
+			"locked": false,
+			"text": "Techická místnost\n- rozvod do pokojů",
+			"rawText": "Techická místnost\n- rozvod do pokojů",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "Techická místnost\n- rozvod do pokojů",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "xT8PyuHn",
+			"type": "text",
+			"x": -541.6156309963584,
+			"y": -174.63873820528465,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 798733515,
+			"version": 2,
+			"versionNonce": 1409391813,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1732678597256,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#f08c00",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 796.0224815032122,
+		"scrollY": 227.4519500987973,
+		"zoom": {
+			"value": 1.0377079055616374
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%
+
+#claude_reference

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4474007b5712246c","x":-660,"y":-480,"width":362,"height":60,"type":"text","text":"{{name}} {{surname}}"},
+		{"id":"7a609b5982b53589","type":"text","text":"{{born}}","x":-660,"y":-400,"width":362,"height":60},
+		{"id":"8396c61e2b96db46","type":"text","text":"{{street}} , {{zip_code}}  {{city}}","x":-200,"y":-480,"width":440,"height":60},
+		{"id":"ab80426d5e1309c3","type":"text","text":"{{id_cus}}","x":-660,"y":-550,"width":180,"height":50},
+		{"id":"8f4d096cb9b57593","type":"text","text":"{{phone_parents}}","x":-103,"y":-550,"width":343,"height":50},
+		{"id":"492b412bff1aa236","type":"text","text":"{{oddil}}","x":-298,"y":-550,"width":169,"height":50},
+		{"id":"69ba3c24fdcab84e","type":"text","text":"{{zarazeni}}","x":89,"y":-400,"width":151,"height":60},
+		{"id":"f3959f61391a1212","type":"text","text":"{{dluh}}","x":-54,"y":-400,"width":122,"height":60},
+		{"id":"61576a7f76b3de48","x":-660,"y":-280,"width":897,"height":420,"type":"text","text":"2023-1Q : {{2023-1Q}}\n\n2023-2Q : {{2023-2Q}}\n\n2023-3Q : {{2023-3Q}}\n\n2023-4Q : {{2023-4Q}}\n\n\n2024-1Q : {{2024-1Q}}\n\n2024-2Q : {{2024-2Q}}\n\n2024-3Q : {{2024-3Q}}\n\n2024-4Q : {{2024-4Q}}"},
+		{"id":"684e381766f7d717","x":-522,"y":400,"width":645,"height":148,"type":"text","text":"vytvoř html kod podle tohoto obrázku.. jedná se o šablonu do které budou přes csv importována data"}
+	],
+	"edges":[]
+}

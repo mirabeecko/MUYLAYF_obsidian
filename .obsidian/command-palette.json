@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "app:toggle-right-sidebar",
+    "app:toggle-left-sidebar",
+    "workspace:split-horizontal"
+  ]
+}

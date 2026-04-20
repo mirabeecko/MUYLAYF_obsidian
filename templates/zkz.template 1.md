@@ -1,0 +1,46 @@
+---
+tags:
+  - sun/zkz
+  - POUŽITÉ_TEMPLATES
+up:
+  - "[[🔆 SUN MOC 1]]"
+API_url: "{{API_url}}"
+solaxcloud_url: "{{solaxcloud_url}}"
+jméno: "{{name}}"
+příjmení: "{{surname}}"
+kon_cena: "{{kon_cena}}"
+kod_op: "{{kod_op}}"
+born: "{{born}}"
+e-mail: "{{e-mail}}"
+tel: "{{tel}}"
+sn: "{{sn}}"
+rn: "{{rn}}"
+adresa: "{{adresa}}"
+EAN: "{{EAN}}"
+jistic: "{{jistic}}"
+vykon_fve: "{{vykon_fve}}"
+LiFePO4: "{{LiFePO4}}"
+wallbox: "{{wallbox}}"
+typ_panel: "{{typ_panel}}"
+vykon_panel: "{{vykon_panel}}"
+počet panelů: "{{pocet_panel}}"
+brand_panel: "{{brand_panel}}"
+SVT_panel: "{{SVT_panel}}"
+invertor: "{{invertor}}"
+vykon_invertor: "{{vykon_invertor}}"
+SVT_invertor: "{{SVT_invertor}}"
+distr_sazba: "{{distr_sazba}}"
+majitel OM: "{{majitel_om}}"
+typ_strecha: "{{typ_strecha}}"
+stringy: "{{stringy}}"
+orientace_strecha: "{{orientace_strecha}}"
+stav_prip: "{{stav_prip}}"
+optimizery: "{{optimizery}}"
+ds: "{{ds}}"
+zkz: "{{zkz}}"
+HDO: "{{hdo}}"
+sklon střechy: "{{sklon_strecha}}"
+uhrazeno: "{{uhrazeno}}"
+---
+
+#claude_reference

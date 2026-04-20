@@ -1,0 +1,6 @@
+#software 
+
+
+https://nemanahi.cz/nove/?utm_source=500leadu&utm_medium=dekovacka-upsell&kct=5cbaa157-328f-44ef-a2fa-05d1509b196d&fbclid=PAY2xjawH8wUJleHRuA2FlbQEwAGFkaWQBqxdgPGOdkAGmXic7pTccJklo6brwbPhX5pDKJ3KRzW7xBFtUZRQGfX8ob9HEvbDorm19_aem_wjSWubdaJZT4HQ6mDZEIJQ
+
+#claude_reference

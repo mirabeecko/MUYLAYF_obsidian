@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"e4471a09e742b7cf","type":"text","text":"### Co když to odfláknou ?","x":-480,"y":-380,"width":250,"height":90,"color":"1"},
+		{"id":"5373a474f64ea675","type":"text","text":"### Na čí jsou straně ?","x":-174,"y":83,"width":250,"height":60},
+		{"id":"b1cfab3e79252870","type":"text","text":"### Chápou to ?","x":-174,"y":-20,"width":250,"height":60},
+		{"id":"389d9a81d9d64d83","type":"text","text":"### Vyslýchaj ?","x":-480,"y":83,"width":250,"height":60},
+		{"id":"4a72fa8d5e35d2ee","type":"text","text":"### Řeší to ?","x":-480,"y":-20,"width":250,"height":60},
+		{"id":"331c50cc38cdefd0","type":"text","text":"### NEVADÍ","x":-174,"y":-440,"width":250,"height":60,"color":"5"},
+		{"id":"f8d5e518e02ca534","type":"text","text":"### TAK TAKHLE NE","x":-174,"y":-320,"width":250,"height":60,"color":"1"},
+		{"id":"eb9eebd7f0f39da0","type":"text","text":"## Oni ze mě udělali takovýho čuráka a před tolika lidma, že ","x":606,"y":-680,"width":394,"height":120},
+		{"id":"437e79c34e8f3fbd","type":"text","text":"### Neměli byste je třeba vyřešit ???","x":622,"y":-90,"width":341,"height":100},
+		{"id":"36bff09cbe2c8e3e","type":"text","text":"### Neměli byste je třeba vyřešit ???","x":622,"y":15,"width":341,"height":98},
+		{"id":"98778ac8c73c5d24","type":"text","text":"### POTŘEBUJU TO K NĚČEMU ?","x":0,"y":-800,"width":360,"height":60},
+		{"id":"4d864b63e5f5231d","type":"text","text":"## TO, ŽE MĚ NEPUSTÍ DO TÉ HERNY TEĎ V TUHLE CHVÍLI - JE TRESTNEJ ČINN.","x":606,"y":-500,"width":580,"height":120,"color":"1"},
+		{"id":"8f21d5c08e24553b","type":"text","text":"### POMLUVA JE TRESTNEJ ČIN","x":606,"y":-335,"width":420,"height":50,"color":"1"},
+		{"id":"a0b33b6d8f23095a","x":-407,"y":220,"width":105,"height":50,"type":"text","text":"ANO"}
+	],
+	"edges":[
+		{"id":"4b1eed9459f76ff3","fromNode":"e4471a09e742b7cf","fromSide":"top","toNode":"331c50cc38cdefd0","toSide":"left","color":"1"},
+		{"id":"00f0b23d0569e913","fromNode":"e4471a09e742b7cf","fromSide":"bottom","toNode":"f8d5e518e02ca534","toSide":"left","color":"1"},
+		{"id":"4d18daa4dd49106e","fromNode":"98778ac8c73c5d24","fromSide":"right","toNode":"eb9eebd7f0f39da0","toSide":"left"},
+		{"id":"ed499409dda8556f","fromNode":"98778ac8c73c5d24","fromSide":"right","toNode":"4d864b63e5f5231d","toSide":"left"},
+		{"id":"abdd1196efd527ab","fromNode":"98778ac8c73c5d24","fromSide":"right","toNode":"8f21d5c08e24553b","toSide":"left"},
+		{"id":"0a296097d37c142e","fromNode":"389d9a81d9d64d83","fromSide":"bottom","toNode":"a0b33b6d8f23095a","toSide":"top"}
+	]
+}

@@ -1,0 +1,14 @@
+---
+tags: ["#RiKO","#MYSLIM-TO-VÁŽNĚ","#Kolabo"]
+---
+# OTOKAR KOLABO
+
+POKUD TI VADÍ, JAK TO CHODÍ
+MŮŽEME SI PROHODIT ROLE A ZNOVA ZAČÍT
+TY BUDEŠ RADIKÁL A JÁ SOLIDNÍ DÁMA
+
+KAŽDÁ VYLÍZANÁ KRÁVA, BUDE MÍT RÁDA
+
+VOBJEDNÁM NÁM KURVU K VÁNOCŮM
+
+#claude_reference

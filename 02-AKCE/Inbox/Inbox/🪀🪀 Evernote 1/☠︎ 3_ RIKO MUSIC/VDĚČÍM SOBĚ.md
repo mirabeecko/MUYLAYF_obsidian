@@ -1,0 +1,15 @@
+---
+tags: ["#RiKO","#MYSLIM-TO-VÁŽNĚ","#RADICAL-MIXXX"]
+---
+# VDĚČÍM SOBĚ
+
+ZA VŠECHNO, CO MAM VDĚČÍM SOBĚ
+MÝ DÍKY PATŘÍ VŠEM VOKOLO MĚ 
+MAM TENDENCI VRÁTIT ZPĚT, 
+ASPON ZLOMEK 
+
+BÁL BYCH SE, VRÁTIT V ČASE
+BÁL BYCH SE PŘIJÍT O COKOLIV VE MĚ
+ZMĚNILO MĚ
+
+#claude_reference

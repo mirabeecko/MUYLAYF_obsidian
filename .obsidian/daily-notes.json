@@ -1,0 +1,6 @@
+{
+  "template": "templates/newDaily.template",
+  "autorun": true,
+  "folder": "📆 KALENDÁŘ/DAILY",
+  "format": "YYYY-MM-DD"
+}

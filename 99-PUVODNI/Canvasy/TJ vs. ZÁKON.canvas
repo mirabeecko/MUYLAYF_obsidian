@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"7471f873696f4094","x":-451,"y":-130,"width":807,"height":455,"type":"group","label":"shromáždění"},
+		{"id":"814b291d7822aa77","x":480,"y":-130,"width":565,"height":416,"type":"group","label":"ÚTOK"},
+		{"id":"43cb43cb051ef1b2","type":"text","text":"ŽÁDALI JSME PROSTÉ DOLOŽENÍ ČLENSTVÍ","x":-100,"y":40,"width":320,"height":50},
+		{"id":"12885f3e1fd259e1","type":"text","text":"SHROMÁŽDĚNÍ DELEGÁTŮ JIŽ PROBĚHLO.","x":-100,"y":140,"width":320,"height":50},
+		{"id":"4582067d159baeef","type":"text","text":"NENÍ PRAVDA TVRZENÍ, ŽE ","x":-100,"y":255,"width":320,"height":50},
+		{"id":"045ffc0d8d896107","type":"text","text":"*21.11.2023* ZASLÁNA POZVÁNKA NA SHROMÁŽDĚNÍ DELEGÁTŮ ","x":-100,"y":-60,"width":436,"height":50},
+		{"id":"3266b993071ed9b5","type":"text","text":"### FAKE SHROMÁŽDĚNÍ","x":-431,"y":-110,"width":301,"height":50},
+		{"id":"f036d797228fca1e","x":775,"y":-110,"width":250,"height":60,"type":"text","text":"ROUSEK"},
+		{"id":"168198a487b7c1ab","x":775,"y":-19,"width":250,"height":60,"type":"text","text":"STAROSTA - MĚSTO - SPORT"},
+		{"id":"0a647dddc5c02cda","x":500,"y":16,"width":180,"height":50,"type":"text","text":"# ÚTOK\n"},
+		{"id":"bc0b6ff1702fa1f7","type":"text","text":"VADY ŽÁDOSTI","x":775,"y":86,"width":250,"height":60},
+		{"id":"e81942aca4425e73","type":"text","text":"V ZASTOUPENÍ VYLOUČENÝCH ČLENŮ A NYNÍ TO STEJNÉ ZA ANTONÍNA ŠNAJDRA.","x":775,"y":177,"width":250,"height":89},
+		{"id":"e636432a82ed4015","type":"text","text":"### VYLOUČENÍ VANIŠ + PIVOŇKA","x":-1040,"y":-130,"width":361,"height":50}
+	],
+	"edges":[]
+}

@@ -1,0 +1,21 @@
+---
+tags: ["#RiKO","#MYSLIM-TO-VÁŽNĚ"]
+---
+# RADIKAL JASNÝ INSTRA
+
+DON'T YOU WANNA PARTY / THE FUNK HUNTERS - _**KÁPNI BOŽSKOU**_ 
+
+STREET HAGS
+
+VESPERS MOONTRICKS   2:00
+FORT KNOX FIVE
+
+beats like rytmus kmeto  - NIKDO NECHCE
+
+**GLITCHHOP VOLUME 2 mixed by SugarBeats**
+21:24 
+
+NECHCI ZAČÍT KECAMA VO LÁSCE..
+ALE UŽ VÁM MŮŽU PROZDRADIT, ŽE VÁM TED UKÁŽU, JAK VYPADÁ LÁSKA
+
+#claude_reference

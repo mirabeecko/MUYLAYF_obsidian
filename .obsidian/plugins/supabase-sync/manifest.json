@@ -1,0 +1,10 @@
+{
+  "id": "supabase-sync",
+  "name": "Supabase Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Synchronizace poznámek s Supabase databází pro správu Komárky",
+  "author": "TJ Krupka",
+  "authorUrl": "https://tjkrupka.cz",
+  "isDesktopOnly": false
+}

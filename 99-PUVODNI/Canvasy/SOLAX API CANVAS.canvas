@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dc7ee8696344d88d","x":339,"y":1527,"width":400,"height":400,"type":"link","url":"HTTPS://chat.openai.com"},
+		{"id":"0354e62d8205d6d9","x":-960,"y":1040,"width":760,"height":720,"color":"4","type":"link","url":"http://seznam.cz"},
+		{"id":"5ac42326a6bb5794","x":500,"y":880,"width":360,"height":440,"type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/Solax_API_for_End-user_V1.0.pdf"},
+		{"id":"33fbd705e071a309","x":600,"y":1420,"width":400,"height":400,"type":"file","file":"🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/🛠 TOOLS vývojáře/json Formát.md"}
+	],
+	"edges":[]
+}

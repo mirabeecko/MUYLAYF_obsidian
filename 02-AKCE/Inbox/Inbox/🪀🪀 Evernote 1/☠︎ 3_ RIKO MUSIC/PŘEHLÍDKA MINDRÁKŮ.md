@@ -1,0 +1,9 @@
+# PŘEHLÍDKA MINDRÁKŮ
+
+CELÁ TA TEPLICKÁ PŘEHLÍDKA MINDRÁKŮ
+
+ZÁVODY LHÁŘŮ
+
+VYŠLECHTĚNEJ NOVEJ TYP SRÁČŮ
+
+#claude_reference

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8c07c33cf5c13030","x":-680,"y":-380,"width":337,"height":82,"type":"text","text":"# ŽALOBA NA NEPLATNOST VYLOUČENÍ"},
+		{"id":"b9d7c6a45325f9f1","x":-660,"y":100,"width":250,"height":60,"type":"text","text":"## KRIMI BLAŽÍČEK"},
+		{"id":"a378223b25e60390","x":-366,"y":103,"width":250,"height":60,"type":"text","text":"## SKŘÍŇ"},
+		{"id":"45be9fe9dc2c7501","x":-660,"y":200,"width":290,"height":50,"type":"text","text":"## STOLY V PINČESÁRNĚ"},
+		{"id":"be672297d7008718","x":-660,"y":380,"width":113,"height":50,"type":"text","text":"# ČAST"},
+		{"id":"e9629dbbf3cb25db","x":-800,"y":760,"width":566,"height":120,"type":"text","text":""},
+		{"id":"d2597fda01f1990b","x":-240,"y":-480,"width":250,"height":60,"type":"text","text":"[[⚜ ODVOLÁNÍ - krajský soud]]"},
+		{"id":"91187ea971148a74","x":-680,"y":-160,"width":416,"height":57,"type":"text","text":"# ZMĚNY V OBCHODNÍM REJSTŘÍKU"}
+	],
+	"edges":[
+		{"id":"7ab03a527177a990","fromNode":"8c07c33cf5c13030","fromSide":"right","toNode":"d2597fda01f1990b","toSide":"left"}
+	]
+}

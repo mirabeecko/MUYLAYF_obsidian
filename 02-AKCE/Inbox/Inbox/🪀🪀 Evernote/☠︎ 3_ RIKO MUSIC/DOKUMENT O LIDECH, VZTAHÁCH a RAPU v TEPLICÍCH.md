@@ -1,0 +1,49 @@
+# DOKUMENT O LIDECH, VZTAHÁCH a RAPU v TEPLICÍCH
+
+**DOKUMENT O LIDECH, VZTAHÁCH a RAPU v TEPLICÍCH i MIMO**
+
+\- **real TRUE, ÚROVEŇ**
+\- **ADEKVÁTNÍ** LIDI, **BĚLOUŠI**
+\- 
+
+\- JÁ STŘÍHÁM , TOČÍM, VŠECHNO, RADICAL CHANNEL - PŘEZE MĚ
+
+**OTÁZKY**
+\- rychlovka - ostatní rapeři
+\- životní postoje
+\- PROČ to dělaj
+\- SPOKOJENOST s minulostí
+\- BUDOUCNOST
+\- PRVNÍ IMPULS ?
+
+**ÚVODNÍ VIDEO - kdo co jak ???** 
+
+RIKO
+KONE
+MOKA
+ZAWY
+OWNIE ONE
+GRAWIS
+DZEPE
+SLÍWA
+PAN DAN
+MIKY
+ZOOLA
+DAVE
+PHORMA
+CHAD 
+DOGS Z PROSETIC
+SWEETO
+RIVI
+MAC MAN
+
+FRÁŇA
+SKIPO
+ČONIN
+KANO
+JIRKA
+SIGI
+HOLKY ???
+BATTLE LADY
+
+#claude_reference

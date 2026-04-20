@@ -1,0 +1,4718 @@
+{
+  "workspaces": {
+    "TJ WORKSPACE": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "851ccf82bda6b775",
+            "type": "tabs",
+            "dimension": 51.71385991058122,
+            "children": [
+              {
+                "id": "8a982734b9016100",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🍀 0 1/📌 TJ shrnutí DASHBOARD.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "01b6a1b8cc281965",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "💥💥💥 TJ Rodiče ZPRÁVA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9f54c4c89b3226ea",
+            "type": "split",
+            "dimension": 48.28614008941878,
+            "children": [
+              {
+                "id": "3a34417020254f94",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "35f3075d8b8e99d3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0 0 CANVASY ALL/🥁🥁🥁 TJ 2024 - LISTINY, ZÁPISY apod. 🥁🥁🥁.canvas",
+                        "viewState": {
+                          "x": -439.5,
+                          "y": -6631.5,
+                          "zoom": -4
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "e0250f2af6795fa5",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6436d47f5d3b5289",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "příspěvky+dluh 3 dataview.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "hospodaření",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "🔥🔥🔥 MĚÚ Krupka ŽÁDOST O VYJÁDŘENÍ.md"
+                  }
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {}
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🔥🔥🔥 MĚÚ Krupka ŽÁDOST O VYJÁDŘENÍ.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🔥🔥🔥 MĚÚ Krupka ŽÁDOST O VYJÁDŘENÍ.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "878461d391733d48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71ce1ac22f531f6d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "☠️☠️☠️ KOOOOO.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "b9b82cbbc2990ee5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca584b7f291ddf50",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "🔥🔥🔥 MĚÚ Krupka ŽÁDOST O VYJÁDŘENÍ.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "dbfolder:Create a new database table": false,
+          "link-tree:Link Tree": false,
+          "cmdr:Exportovat do PDF": false,
+          "cmdr:Otevřít nastavení": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "cmdr:Najít a vyměnit v aktivním souboru": false,
+          "cmdr:Add internal link": false,
+          "cmdr:Add file property": true,
+          "cmdr:Set as heading 5": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "chronology:Open Chronology": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "open-vscode:VSCode": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "time-ruler:Open Time Ruler": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "dangerzone-writing-plugin:Dangerzone Writing": false,
+          "templater-obsidian:Templater": false,
+          "ai-summary:Summarize referenced notes": false,
+          "obsidian-importer:Open Importer": false,
+          "float-search:Search Obsidian In Modal": false,
+          "sync-google-calendar:Sync Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false,
+          "awesome-brain-manager:Awesome Brain Manager": false
+        }
+      },
+      "active": "35f3075d8b8e99d3",
+      "workspaces-plus:settings-v1": {}
+    },
+    "API OPENAI VÝVOJÁŘ": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "5da1a46c757a6575",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82c47f84e37adf38",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "dimension": 56.97445972495089,
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tj dashboard",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "247bba586b6dd9c9",
+            "type": "tabs",
+            "dimension": 43.02554027504912,
+            "children": [
+              {
+                "id": "024260e92697c0e6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🏹 Inbox/⌨️ 👾 ✍︎ VÝVOJÁŘ/API ONE.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 432.5
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "dimension": 61.94690265486725,
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {}
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {}
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "982b29a7327abcea",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "11c532d816b8ba40",
+            "type": "tabs",
+            "dimension": 38.05309734513274,
+            "children": [
+              {
+                "id": "6eae679a3958c43b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PYTHON ZKOUŠKA.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 419.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "dbfolder:Create a new database table": false,
+          "link-tree:Link Tree": false,
+          "cmdr:Exportovat do PDF": false,
+          "cmdr:Otevřít nastavení": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "cmdr:Najít a vyměnit v aktivním souboru": false,
+          "cmdr:Add internal link": false,
+          "cmdr:Add file property": true,
+          "cmdr:Set as heading 5": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "chronology:Open Chronology": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "open-vscode:VSCode": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "time-ruler:Open Time Ruler": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "dangerzone-writing-plugin:Dangerzone Writing": false,
+          "templater-obsidian:Templater": false,
+          "ai-summary:Summarize referenced notes": false,
+          "obsidian-importer:Open Importer": false,
+          "float-search:Search Obsidian In Modal": false,
+          "sync-google-calendar:Sync Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false,
+          "awesome-brain-manager:Awesome Brain Manager": false
+        }
+      },
+      "active": "82c47f84e37adf38",
+      "workspaces-plus:settings-v1": {}
+    },
+    "VAN LIFE DIY": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "481112af913999e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6c22444b194123af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🚐🔧⚒️🧰🔩🗜️VAN DIY PARTS.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "TÍM, ŽE PŘIJÍMAL",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "🚐🔧⚒️🧰🔩🗜️VAN DIY PARTS.md"
+                  }
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {}
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🚐🔧⚒️🧰🔩🗜️VAN DIY PARTS.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🚐🔧⚒️🧰🔩🗜️VAN DIY PARTS.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "878461d391733d48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71ce1ac22f531f6d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "☠️☠️☠️ KOOOOO.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 303.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "dbfolder:Create a new database table": false,
+          "link-tree:Link Tree": false,
+          "cmdr:Exportovat do PDF": false,
+          "cmdr:Otevřít nastavení": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "cmdr:Najít a vyměnit v aktivním souboru": false,
+          "cmdr:Add internal link": false,
+          "cmdr:Add file property": true,
+          "cmdr:Set as heading 5": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "chronology:Open Chronology": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "open-vscode:VSCode": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "time-ruler:Open Time Ruler": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "dangerzone-writing-plugin:Dangerzone Writing": false,
+          "templater-obsidian:Templater": false,
+          "ai-summary:Summarize referenced notes": false,
+          "obsidian-importer:Open Importer": false,
+          "float-search:Search Obsidian In Modal": false,
+          "sync-google-calendar:Sync Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false,
+          "awesome-brain-manager:Awesome Brain Manager": false
+        }
+      },
+      "active": "b172f596fd1492da",
+      "workspaces-plus:settings-v1": {}
+    },
+    "clean_ONE": {
+      "main": {
+        "id": "c69f0c84fbe91b4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "d817ca65485a4097",
+            "type": "tabs",
+            "dimension": 46.202036021926375,
+            "children": [
+              {
+                "id": "92ba6e2b712727c8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜ TJK MOC.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "⚜ TJK MOC"
+                }
+              },
+              {
+                "id": "16d7938cd56a1520",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NewAge ⚜️ TJK.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "NewAge ⚜️ TJK"
+                }
+              },
+              {
+                "id": "379f4bd5e64bb6ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "80 🎪 TJ/⚜ ❌  TJ PRÁVNÍ a OSTATNÍ.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "⚜ ❌  TJ PRÁVNÍ a OSTATNÍ"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b8aee55a5de12a20",
+            "type": "tabs",
+            "dimension": 53.797963978073625,
+            "children": [
+              {
+                "id": "63f5b2f7356edb5e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "KOM ⛺️ AREÁL.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "KOM ⛺️ AREÁL"
+                }
+              },
+              {
+                "id": "8c58557da902ed21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜️ KOMÁRKA BUSINESS.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "⚜️ KOMÁRKA BUSINESS"
+                }
+              },
+              {
+                "id": "45a2d4e570b708e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🪂 🎓Kurzy Kitesurfing.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "🪂 🎓Kurzy Kitesurfing"
+                }
+              },
+              {
+                "id": "52769872f7b00ea0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "80 🎪 TJ/88 Webové stránky/TJK 2024 WEBOVÉ STRÁNKY.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "TJK 2024 WEBOVÉ STRÁNKY"
+                }
+              },
+              {
+                "id": "a514930bc774b68c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/KAMERY BEZPEČNOST.canvas",
+                    "viewState": {
+                      "x": -120,
+                      "y": -50,
+                      "zoom": -1.2399045309952388
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "KAMERY BEZPEČNOST"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6170c70fe212cbfc",
+        "type": "split",
+        "children": [
+          {
+            "id": "bfb1b06a970ab06e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1ae39857f908655e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "0637e16f4373ecdb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "trampoli",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              },
+              {
+                "id": "9d96c89e98262c6e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 220.50247192382812
+      },
+      "right": {
+        "id": "8265f39c914e6f84",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ac01e1a9afa260e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93cfa2a11c94e8b7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/NewAge TJK.cavas.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy pro NewAge TJK.cavas"
+                }
+              },
+              {
+                "id": "868fa90c19f45d95",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/NewAge TJK.cavas.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy z NewAge TJK.cavas"
+                }
+              },
+              {
+                "id": "c547e7829bc6a4e2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "1c44d990dbc8e7a5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "e0fa1969e576cb8c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/NewAge TJK.cavas.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Přehled NewAge TJK.cavas"
+                }
+              },
+              {
+                "id": "6a25f47b77b2a898",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Chronology"
+                }
+              },
+              {
+                "id": "3eba509d5c66d039",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "📆 KALENDÁŘ/DAILY/2025-09-14.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro 2025-09-14"
+                }
+              },
+              {
+                "id": "81ae509ca7d3689f",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8e7c541319c808ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5be25191f9a68203",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "graph:Otevřít graf": false,
+          "canvas:Vytvořit nový canvas": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "templates:Vložit šablonu": false,
+          "command-palette:Otevřít paletu příkazů": false,
+          "markdown-importer:Otevřít importér Markdown formátu": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": false,
+          "obsidian-custom-frames:Open BOX": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-kanban:Create new board": false,
+          "chronology:Open Chronology": false,
+          "dbfolder:Create a new database table": false,
+          "iconic:Open rulebook": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-git:Open Git source control": false,
+          "map-of-content:Update Map of Content": false,
+          "workspaces-plus:Manage workspaces": false,
+          "awesome-brain-manager:Awesome Brain Manager": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "16d7938cd56a1520",
+      "mtime": "2025-09-30T11:19:14+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Chats",
+          "templates"
+        ]
+      }
+    },
+    "TJ WORKSPACE 1/2024": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "30f0b59c93fd6893",
+            "type": "split",
+            "children": [
+              {
+                "id": "851ccf82bda6b775",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8a982734b9016100",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "🍀 0 1/📌 TJ shrnutí DASHBOARD.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2eccbe97259d611d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "375e4cf8eeed3950",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "🍀🍀🍀 POSLEDNÍ OTÁZKY - Petrusová, atd..md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "all task",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "dimension": 41.733870967741936,
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "🍀🍀🍀 POSLEDNÍ OTÁZKY - Petrusová, atd..md"
+                  }
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {}
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🍀🍀🍀 POSLEDNÍ OTÁZKY - Petrusová, atd..md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🍀🍀🍀 POSLEDNÍ OTÁZKY - Petrusová, atd..md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "3ee2bbc1bad39fea",
+            "type": "tabs",
+            "dimension": 58.266129032258064,
+            "children": [
+              {
+                "id": "8eea45f1fb2acda9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🎳 🎳 🎳  ALL TASKS.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 387.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open Google": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "dbfolder:Create a new database table": false,
+          "link-tree:Link Tree": false,
+          "cmdr:Exportovat do PDF": false,
+          "cmdr:Otevřít nastavení": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "cmdr:Najít a vyměnit v aktivním souboru": false,
+          "cmdr:Add internal link": false,
+          "cmdr:Add file property": true,
+          "cmdr:Set as heading 5": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "chronology:Open Chronology": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "open-vscode:VSCode": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "time-ruler:Open Time Ruler": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "dangerzone-writing-plugin:Dangerzone Writing": false,
+          "templater-obsidian:Templater": false,
+          "ai-summary:Summarize referenced notes": false,
+          "obsidian-importer:Open Importer": false,
+          "float-search:Search Obsidian In Modal": false,
+          "sync-google-calendar:Sync Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false,
+          "awesome-brain-manager:Awesome Brain Manager": false,
+          "html-server:Turn Http Server On": false,
+          "html-server:Turn Http Server Off": false
+        }
+      },
+      "active": "375e4cf8eeed3950",
+      "workspaces-plus:settings-v1": {}
+    },
+    "TJ LAYOUT  3-2024": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "5705f5ec9e645358",
+            "type": "split",
+            "children": [
+              {
+                "id": "2dfd4b3bf5b6cf59",
+                "type": "tabs",
+                "dimension": 52.023809523809526,
+                "children": [
+                  {
+                    "id": "f057c8ce25fb6d81",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "People/⭐️ Vojta Hasman.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⭐️ Vojta Hasman"
+                    }
+                  },
+                  {
+                    "id": "6750ba80de97e04c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/🛏 UBYTOVNA PROPERTY.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "🛏 UBYTOVNA PROPERTY"
+                    }
+                  },
+                  {
+                    "id": "67d4e5fce82b0b6c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "§ 241 NOZ.md",
+                        "mode": "source",
+                        "source": true,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "§ 241 NOZ"
+                    }
+                  },
+                  {
+                    "id": "72cef64b6d82fb95",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "§ 6 NOZ.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "§ 6 NOZ"
+                    }
+                  },
+                  {
+                    "id": "15ca9d1fbb01bfbf",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ ŘEŠENÍ SOUDNÍHO SHITU.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ ŘEŠENÍ SOUDNÍHO SHITU"
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "2a1397fc0f271ad4",
+                "type": "tabs",
+                "dimension": 47.976190476190474,
+                "children": [
+                  {
+                    "id": "61642b32f9f06616",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚜ ŽALOBA NA TJ.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ ŽALOBA NA TJ"
+                    }
+                  },
+                  {
+                    "id": "e385dbe297d6d5cc",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ ODVOLÁNÍ - krajský soud.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ ODVOLÁNÍ - krajský soud"
+                    }
+                  },
+                  {
+                    "id": "9b83455456e316a3",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "People/⚜ TJK MOC.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ TJK MOC"
+                    }
+                  },
+                  {
+                    "id": "b37ca503b4da9762",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0 0 CANVASY ALL/SOUD - ŽALOBA NA NEPLATNOST.canvas",
+                        "viewState": {
+                          "x": -710.0116429413451,
+                          "y": -2508.324338483215,
+                          "zoom": -1.5266666666666668
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-layout-dashboard",
+                      "title": "SOUD - ŽALOBA NA NEPLATNOST"
+                    }
+                  },
+                  {
+                    "id": "6fc09bff650fdac8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PROVINĚNÍ SOUDU.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "PROVINĚNÍ SOUDU"
+                    }
+                  }
+                ],
+                "currentTab": 4
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "dimension": 59.64730290456431,
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "peoplelist",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5aa0a5fa575520b3",
+            "type": "tabs",
+            "dimension": 40.35269709543569,
+            "children": [
+              {
+                "id": "d28437e639e674a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⛑ Muy HOME.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "⛑ Muy HOME"
+                }
+              },
+              {
+                "id": "fe57337a5370b420",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/SOUD - ŽALOBA NA NEPLATNOST.canvas",
+                    "viewState": {
+                      "x": -34.246217996419205,
+                      "y": -757.3489652714161,
+                      "zoom": -2.126666666666664
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "SOUD - ŽALOBA NA NEPLATNOST"
+                }
+              },
+              {
+                "id": "3d69574ade85926e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/⚜ TJK MOC.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "⚜ TJK MOC"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 269.5
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "dimension": 79.42386831275721,
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Chronology"
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/SOUD - ŽALOBA NA NEPLATNOST.canvas"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro SOUD - ŽALOBA NA NEPLATNOST"
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "chat BARD"
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/SOUD - ŽALOBA NA NEPLATNOST.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy pro SOUD - ŽALOBA NA NEPLATNOST"
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0 0 CANVASY ALL/SOUD - ŽALOBA NA NEPLATNOST.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy z SOUD - ŽALOBA NA NEPLATNOST"
+                }
+              },
+              {
+                "id": "84a03190211407a2",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-chat-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "56c7ee1959178558",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "32802da674d11792",
+            "type": "tabs",
+            "dimension": 20.5761316872428,
+            "children": [
+              {
+                "id": "f61725219082fabb",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              },
+              {
+                "id": "114baf88fe4c0c46",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8388683088718358,
+                      "close": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graf"
+                }
+              },
+              {
+                "id": "242423428a4f3db6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graf"
+                }
+              },
+              {
+                "id": "ca584b7f291ddf50",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "§ 6 NOZ.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Přehled § 6 NOZ"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Vytvořit nový canvas": false,
+          "publish:Publish changes": false,
+          "dbfolder:Create a new database table": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "smart-memos:Record smart memo": false,
+          "smart-gantt:Smart Gantt": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "obsidian-kanban:Create new board": false,
+          "link-tree:Link Tree": false,
+          "chronology:Open Chronology": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-ocr:Search OCR": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "graph:Otevřít graf": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "workspaces:Manage workspace layouts": false,
+          "iconic:Open rulebook": false,
+          "map-of-content:Update Map of Content": false,
+          "workspaces-plus:Manage workspaces": false,
+          "smart-connections:Open: View Smart Connections": false,
+          "smart-connections:Open: Smart Chat Conversation": false,
+          "card-board:CardBoard": false
+        }
+      },
+      "floating": {
+        "id": "ed7cf4263ce9f498",
+        "type": "floating",
+        "children": [
+          {
+            "id": "2fb66318f2ede44d",
+            "type": "window",
+            "children": [
+              {
+                "id": "460eed3b53553e79",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b479715983c072f5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0 0 CANVASY ALL/2024 SOUD S ČURÁKAMA a DÁLE.canvas",
+                        "viewState": {
+                          "x": 981.4682499750779,
+                          "y": 726.0215365291849,
+                          "zoom": -1.413333333333334
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "2024 SOUD S ČURÁKAMA a DÁLE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 537,
+            "y": 25,
+            "width": 603,
+            "height": 945,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "72cef64b6d82fb95",
+      "mtime": "2025-02-25T17:06:37+01:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    },
+    "KOMÁRKA LAYOUT": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "5705f5ec9e645358",
+            "type": "split",
+            "children": [
+              {
+                "id": "2dfd4b3bf5b6cf59",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e6c17404053fa0f4",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Verča ASISTENTKA.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Verča ASISTENTKA"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "1fb6b9ed3f1e2ec6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "217f9ddf6850fc73",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "beautitab-react-view",
+                      "state": {},
+                      "pinned": true,
+                      "title": "New tab"
+                    }
+                  },
+                  {
+                    "id": "1251995762653b35",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "📆 KALENDÁŘ/DAILY/2025-01-07.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-01-07"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "dimension": 46.45748987854251,
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5aa0a5fa575520b3",
+            "type": "tabs",
+            "dimension": 53.54251012145749,
+            "children": [
+              {
+                "id": "d28437e639e674a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⛑ Muy HOME.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "⛑ Muy HOME"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "📆 KALENDÁŘ/DAILY/2025-01-07.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro 2025-01-07"
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "chat BARD"
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy"
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy"
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "878461d391733d48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4c71e51cdc269b7a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "ca584b7f291ddf50",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {},
+                  "icon": "lucide-list",
+                  "title": "Přehled"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9e16f9a56c9032af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af88cd40bcdf3eaa",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 303.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes": false,
+          "dbfolder:Create a new database table": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "ai-summary:Summarize referenced notes": false,
+          "smart-memos:Record smart memo": false,
+          "smart-gantt:Smart Gantt": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-ocr:Search OCR": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "workspaces:Manage workspace layouts": false,
+          "map-of-content:Update Map of Content": false,
+          "workspaces-plus:Manage workspaces": false,
+          "smart-connections:Open: View Smart Connections": false,
+          "smart-connections:Open: Smart Chat Conversation": false,
+          "card-board:CardBoard": false
+        }
+      },
+      "active": "1251995762653b35",
+      "mtime": "2025-01-07T07:10:52+01:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ",
+          "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/node.JS",
+          "0 0 CANVASY ALL"
+        ]
+      }
+    },
+    "TJK 2024": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "38811a435fed0ae6",
+            "type": "split",
+            "dimension": 48.41075794621027,
+            "children": [
+              {
+                "id": "e4ebe344c13f5cb6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "380c7b06126628c4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⛑ Muy HOME.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⛑ Muy HOME"
+                    }
+                  },
+                  {
+                    "id": "bcd435dea7644ccf",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚜TJK MOC.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜TJK MOC"
+                    }
+                  },
+                  {
+                    "id": "38477dffb2a7c3ec",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ Výsledek hospodaření 2021-2023.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⚜ Výsledek hospodaření 2021-2023"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "e22b2462e802a5b8",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bea01077b33ad95c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ TJ starý MOC.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ TJ starý MOC"
+                    }
+                  },
+                  {
+                    "id": "f37a82cf178a120c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⛰ KOMÁRKA.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⛰ KOMÁRKA"
+                    }
+                  },
+                  {
+                    "id": "bb9a0e71b1e14801",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⁉ OTÁZKY TJK BUSINESS a NEMOVITOSTI.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⁉ OTÁZKY TJK BUSINESS a NEMOVITOSTI"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "9fb3d625076f6aa7",
+            "type": "split",
+            "dimension": 51.58924205378973,
+            "children": [
+              {
+                "id": "88f976201b22e91e",
+                "type": "tabs",
+                "dimension": 66.39676113360323,
+                "children": [
+                  {
+                    "id": "9bc5f57e97d2741d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚠️ TJK Zprávy o všem možném.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⚠️ TJK Zprávy o všem možném"
+                    }
+                  },
+                  {
+                    "id": "efbb22e499379041",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚠️ TJK Zprávy o všem možném.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⚠️ TJK Zprávy o všem možném"
+                    }
+                  },
+                  {
+                    "id": "c75f5bf614f79c5a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "❌  ZADÁNÍ RESUMÉ TJK.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "❌  ZADÁNÍ RESUMÉ TJK"
+                    }
+                  }
+                ],
+                "currentTab": 2
+              },
+              {
+                "id": "16fbfa9f41645225",
+                "type": "tabs",
+                "dimension": 33.60323886639676,
+                "children": [
+                  {
+                    "id": "fb6baf74f0c554b3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⭐️ Hönig Michal.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⭐️ Hönig Michal"
+                    }
+                  },
+                  {
+                    "id": "25edb2c55b69dcaa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "People/⭐️ OTOKAR HÁJEK.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⭐️ OTOKAR HÁJEK"
+                    }
+                  },
+                  {
+                    "id": "fbe56e2e7d8c4283",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⭐️ Radka Michalová.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⭐️ Radka Michalová"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "dimension": 46.45748987854251,
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "5aa0a5fa575520b3",
+            "type": "tabs",
+            "dimension": 53.54251012145749,
+            "children": [
+              {
+                "id": "d28437e639e674a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "dimension": 59.59595959595959,
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "da881cc4982d5820",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "80 🎪 TJ/⚜TJK MOC.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro ⚜TJK MOC"
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "chat BARD"
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "ZIMA 2025.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy pro ZIMA 2025"
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "ZIMA 2025.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy z ZIMA 2025"
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "878461d391733d48",
+            "type": "tabs",
+            "dimension": 20.2020202020202,
+            "children": [
+              {
+                "id": "4c71e51cdc269b7a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "ca584b7f291ddf50",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "ZIMA 2025.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Přehled ZIMA 2025"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6271a13d7937c857",
+            "type": "tabs",
+            "dimension": 20.2020202020202,
+            "children": [
+              {
+                "id": "81dc961c96515be6",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 256.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes": false,
+          "dbfolder:Create a new database table": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-ocr:Search OCR": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": false,
+          "obsidian-custom-frames:Open BOX": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": false,
+          "command-palette:Otevřít paletu příkazů": false,
+          "markdown-importer:Otevřít importér Markdown formátu": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "workspaces:Manage workspace layouts": false,
+          "map-of-content:Update Map of Content": false
+        }
+      },
+      "floating": {
+        "id": "1895a1a4d1d12989",
+        "type": "floating",
+        "children": [
+          {
+            "id": "c5074172ba5d90b7",
+            "type": "window",
+            "children": [
+              {
+                "id": "91d6a424c6022017",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9bfa23a4cda599cf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "🗺 MAPA AREÁLU.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "🗺 MAPA AREÁLU"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 328,
+            "y": 69,
+            "width": 1024,
+            "height": 800,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "bcd435dea7644ccf",
+      "mtime": "2024-11-08T11:10:35+01:00",
+      "workspaces-plus:settings-v1": {}
+    },
+    "TJ 2025-1 SHARESPACE": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a0125b9f7469609",
+            "type": "split",
+            "dimension": 54.79744136460555,
+            "children": [
+              {
+                "id": "b7b513a54dbfb22f",
+                "type": "tabs",
+                "dimension": 48.46743295019157,
+                "children": [
+                  {
+                    "id": "f37a82cf178a120c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⛰ KOMÁRKA.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⛰ KOMÁRKA"
+                    }
+                  },
+                  {
+                    "id": "58b595ce78600a56",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚜TJK MOC.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜TJK MOC"
+                    }
+                  },
+                  {
+                    "id": "8a240dbe879fe8c8",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/🍀 Hlavní hashTagy.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "🍀 Hlavní hashTagy"
+                    }
+                  },
+                  {
+                    "id": "bab44211159e0634",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ REAKCE na FB konec 2024.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ REAKCE na FB konec 2024"
+                    }
+                  },
+                  {
+                    "id": "5e0a92d3e7638b7a",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "🔑 Definitivní prohlášení.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "🔑 Definitivní prohlášení"
+                    }
+                  },
+                  {
+                    "id": "3747f3ec2e1f33f3",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0 0 CANVASY ALL/2024 SOUD S ČURÁKAMA a DÁLE.canvas",
+                        "viewState": {
+                          "x": 133.39805820352566,
+                          "y": -1146.4779806220565,
+                          "zoom": -0.41258061965306375
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-layout-dashboard",
+                      "title": "2024 SOUD S ČURÁKAMA a DÁLE"
+                    }
+                  },
+                  {
+                    "id": "ec05e606b8c382a5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/🍻 ZELEŇÁK HUSITSKÁ.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "🍻 ZELEŇÁK HUSITSKÁ"
+                    }
+                  }
+                ],
+                "currentTab": 6
+              },
+              {
+                "id": "a9b7410a3c59fbaa",
+                "type": "tabs",
+                "dimension": 51.53256704980843,
+                "children": [
+                  {
+                    "id": "9b231b5c175444a2",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ"
+                    }
+                  },
+                  {
+                    "id": "def846fa14dc4d19",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ KOMÁRKA POUZE FAKTA.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ KOMÁRKA POUZE FAKTA"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "93d845e815243c3b",
+            "type": "split",
+            "dimension": 45.20255863539446,
+            "children": [
+              {
+                "id": "86a3e0073ed4d4ff",
+                "type": "tabs",
+                "dimension": 40.138067061143985,
+                "children": [
+                  {
+                    "id": "d0144b9e9b8a202c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ představení PRÁVNÍK POZEMKY.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ představení PRÁVNÍK POZEMKY"
+                    }
+                  },
+                  {
+                    "id": "29dd1a3ec3e000a7",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ TJK 2021 - 2023.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ TJK 2021 - 2023"
+                    }
+                  },
+                  {
+                    "id": "fd859b5a38a567a8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "202501071019.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "202501071019"
+                    }
+                  },
+                  {
+                    "id": "ac7a9160a46ca951",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/🛏 UBYTOVNA PROPERTY.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "🛏 UBYTOVNA PROPERTY"
+                    }
+                  },
+                  {
+                    "id": "4ab72ddfc0cc0ca0",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "80 🎪 TJ/⚜ VYJÁDŘENÍ TJK k 2021-2024.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⚜ VYJÁDŘENÍ TJK k 2021-2024"
+                    }
+                  }
+                ],
+                "currentTab": 4
+              },
+              {
+                "id": "0b6e51c8f2842c6c",
+                "type": "tabs",
+                "dimension": 59.86193293885601,
+                "children": [
+                  {
+                    "id": "cd9924b42c9e1f7c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "🕸 FACEBOOK KOMÁRKA.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "🕸 FACEBOOK KOMÁRKA"
+                    }
+                  },
+                  {
+                    "id": "42dcf0cab291350f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "💰 ÚK - Sport2025.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "💰 ÚK - Sport2025"
+                    }
+                  },
+                  {
+                    "id": "faec8a52bf048c85",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⁉️ Proč se nelyžuje na Komárce.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "⁉️ Proč se nelyžuje na Komárce"
+                    }
+                  },
+                  {
+                    "id": "c1a3ea885aa820dd",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "⚜ REAKCE na FB konec 2024.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "⚜ REAKCE na FB konec 2024"
+                    }
+                  },
+                  {
+                    "id": "8d49e7fd44cfcc72",
+                    "type": "leaf",
+                    "state": {
+                      "type": "beautitab-react-view",
+                      "state": {},
+                      "title": "New tab"
+                    }
+                  }
+                ],
+                "currentTab": 2
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "dimension": 54.30944963655244,
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5aa0a5fa575520b3",
+            "type": "tabs",
+            "dimension": 45.69055036344756,
+            "children": [
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              },
+              {
+                "id": "1bff9b73a668a297",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7657257545166704,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graf ⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ"
+                }
+              },
+              {
+                "id": "71bdd5023f0f9d84",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graf"
+                }
+              },
+              {
+                "id": "1ea13d263bdb14d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🎳 🎳 🎳  ALL TASKS.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "🎳 🎳 🎳  ALL TASKS"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 282.5
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "⛑ Muy HOME.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro ⛑ Muy HOME"
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy"
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy"
+                }
+              },
+              {
+                "id": "d4770a6fbe5dd148",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "📆 KALENDÁŘ/DAILY/2024-12-03.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-12-03"
+                }
+              },
+              {
+                "id": "b4eb8853abf51cf8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "86fe179806e1f6c8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {},
+                  "icon": "lucide-list",
+                  "title": "Přehled"
+                }
+              },
+              {
+                "id": "f2a35ac2a5e555cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "📆 KALENDÁŘ/DAILY/2024-12-03.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-12-03"
+                }
+              },
+              {
+                "id": "513bbe4a4f0c381a",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-gantt",
+                  "state": {},
+                  "icon": "egg",
+                  "title": "Smart Gantt"
+                }
+              },
+              {
+                "id": "de7aab151859eab8",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              },
+              {
+                "id": "b6066f69ce618040",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Chronology"
+                }
+              }
+            ],
+            "currentTab": 10
+          },
+          {
+            "id": "f7a441c9d68610ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "803dd1b809ba4f45",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 370.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes": false,
+          "dbfolder:Create a new database table": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-ocr:Search OCR": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Otevřít graf": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": false,
+          "obsidian-custom-frames:Open BOX": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": false,
+          "command-palette:Otevřít paletu příkazů": false,
+          "markdown-importer:Otevřít importér Markdown formátu": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "workspaces:Manage workspace layouts": false,
+          "smart-memos:Record smart memo": false,
+          "smart-gantt:Smart Gantt": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "obsidian-kanban:Create new board": false,
+          "link-tree:Link Tree": false,
+          "chronology:Open Chronology": false,
+          "map-of-content:Update Map of Content": false,
+          "workspaces-plus:Manage workspaces": false,
+          "smart-connections:Open: View Smart Connections": false,
+          "smart-connections:Open: Smart Chat Conversation": false,
+          "card-board:CardBoard": false
+        }
+      },
+      "floating": {
+        "id": "e05c38ac3c61af11",
+        "type": "floating",
+        "children": [
+          {
+            "id": "772ea1ba91b4410a",
+            "type": "window",
+            "children": [
+              {
+                "id": "f3861700cd81dc74",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c6805774575b9aba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0 0 CANVASY ALL/KOOO. CANVAS.canvas",
+                        "viewState": {
+                          "x": 38.43862526212661,
+                          "y": -684.7359733232025,
+                          "zoom": -0.6899999999999998
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "KOOO. CANVAS"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "b172f596fd1492da",
+      "mtime": "2025-01-23T05:27:58+01:00",
+      "workspaces-plus:settings-v1": {
+        "mode": null,
+        "explorerFoldState": [
+          "✏️ obsidian",
+          "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ",
+          "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/AI/🤖 chatGPT 💬",
+          "🍀 0 1/🐱‍👤  konflikty",
+          "🍀 0 1/👈 0 2 Actions",
+          "🏹 Inbox/🪀🪀 Evernote 1/ILINCEV",
+          "📆 KALENDÁŘ/DAILY",
+          "🗂 DOKUMENTY",
+          "🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY",
+          "🗂 DOKUMENTY/ALMOST FINAL TJ",
+          "🦴 PŘÍLOHY",
+          "80 🎪 TJ/82 TJ oddíly/STOLNÍ TENIS",
+          "80 🎪 TJ/88 Webové stránky/TĚLOVÝCHOVNÁ JEDNOTA KRUPKA",
+          "80 🎪 TJ/89 TJ MINULOST/😡👊 TAK POJĎTE/DETAILY",
+          "80 🎪 TJ/otázky/T-MOBILE",
+          "export/SLIDER ZKOUŠKA ADVANCED",
+          "export/SLIDER ZKOUŠKA ADVANCED/css",
+          "ChatGPT_MD/chats",
+          "ChatGPT_MD/templates",
+          "templates/MOC templates",
+          "templates/TJ"
+        ]
+      }
+    },
+    "3-2025": {
+      "main": {
+        "id": "a4876b1f296e8251",
+        "type": "split",
+        "children": [
+          {
+            "id": "499f849909e69dd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17c4ab01a82045a6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜ TJK MOC.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "⚜ TJK MOC"
+                }
+              },
+              {
+                "id": "44a3850319a023f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "80 🎪 TJ/Absolutní shrnutí.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Absolutní shrnutí"
+                }
+              },
+              {
+                "id": "9c88220f745a9f1b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜ ŘEŠENÍ SOUDNÍHO SHITU.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "⚜ ŘEŠENÍ SOUDNÍHO SHITU"
+                }
+              },
+              {
+                "id": "75cb385b00dea126",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Neexistence řádného členství žalobců jako překážka jejich nároků.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Neexistence řádného členství žalobců jako překážka jejich nároků"
+                }
+              },
+              {
+                "id": "7db6026fd53ee449",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BODY - Usnesení krajského soudu.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "BODY - Usnesení krajského soudu"
+                }
+              },
+              {
+                "id": "56db8ec9badba1f4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Soud nedostatečně posoudil klíčové zásady občanského zákoníku.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Soud nedostatečně posoudil klíčové zásady občanského zákoníku"
+                }
+              },
+              {
+                "id": "ffebce1e03c8c924",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FINAL PROMPT ODVOLÁNÍ.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "FINAL PROMPT ODVOLÁNÍ"
+                }
+              },
+              {
+                "id": "15666ac13521a993",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜ ODVOLÁNÍ - krajský soud.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "⚜ ODVOLÁNÍ - krajský soud"
+                }
+              },
+              {
+                "id": "5a4d681c704bb371",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VYLOUČENÍ ČLENA STATUTÁREM.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "VYLOUČENÍ ČLENA STATUTÁREM"
+                }
+              },
+              {
+                "id": "e942da5898111125",
+                "type": "leaf",
+                "state": {
+                  "type": "beautitab-react-view",
+                  "state": {},
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "757a2234d1d91771",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OBHAJOBA JEDNÁNÍ PŘEDSEDY.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "OBHAJOBA JEDNÁNÍ PŘEDSEDY"
+                }
+              },
+              {
+                "id": "21a75027bbf97195",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⚜ ODVOLÁNÍ - krajský soud.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "⚜ ODVOLÁNÍ - krajský soud"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b622c4aa6326929",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb88d7291688e58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b172f596fd1492da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Průzkumník souborů"
+                }
+              },
+              {
+                "id": "0ef1e20baf637584",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Záložky"
+                }
+              },
+              {
+                "id": "82ae725852a748cc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-file-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "ad6f29287572f0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "nemo turpitudinem suam allegare potest",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Hledat"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d1f1891f30e80028",
+        "type": "split",
+        "children": [
+          {
+            "id": "755ff4bc1ef4008e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca2043a8811e6d59",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d421641c3cfeb715",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Všechny vlastnosti"
+                }
+              },
+              {
+                "id": "2e0253ce3d07c34c",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Chronology"
+                }
+              },
+              {
+                "id": "81cdb54d9e170eaf",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "fb126662a59276fd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "TEAMofDREAM/Untitled database.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Vlastnosti souborů pro Untitled database"
+                }
+              },
+              {
+                "id": "07277158d4bcfc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chat-bard",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "chat BARD"
+                }
+              },
+              {
+                "id": "299244e510eeaba1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "TEAMofDREAM/Untitled database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Zpětné odkazy pro Untitled database"
+                }
+              },
+              {
+                "id": "b72dcc495ce7c149",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "TEAMofDREAM/Untitled database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Odchozí odkazy z Untitled database"
+                }
+              },
+              {
+                "id": "715a57abafb60cad",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "TEAMofDREAM/Untitled database.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Přehled Untitled database"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "878461d391733d48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71ce1ac22f531f6d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "1916aa527a25420a",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "chatGPT"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b07b9fd387d1c99b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c419cf131f23d0dc",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 1292,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "map-of-content:Update Map of Content": false,
+          "workspaces-plus:Manage workspaces": false,
+          "card-board:CardBoard": false,
+          "canvas:Vytvořit nový canvas": false,
+          "publish:Publish changes": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "smart-gantt:Smart Gantt": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-ocr:Search OCR": false,
+          "iconic:Open rulebook": false,
+          "daily-notes:Otevřít dnešní poznámku": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "dbfolder:Create a new database table": false,
+          "link-tree:Link Tree": false,
+          "graph:Otevřít graf": false,
+          "chronology:Open Chronology": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open Prezentace GOOGLE": true,
+          "obsidian-custom-frames:Open BOX": false,
+          "switcher:Otevřít rychlé přepínání": false,
+          "templates:Vložit šablonu": true,
+          "command-palette:Otevřít paletu příkazů": true,
+          "markdown-importer:Otevřít importér Markdown formátu": true,
+          "zk-prefixer:Create new unique note": true,
+          "audio-recorder:Spustit/zastavit nahrávání": false,
+          "obsidian-importer:Open Importer": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-projects:Open projects": false
+        }
+      },
+      "active": "17c4ab01a82045a6",
+      "mtime": "2025-03-20T12:48:05+01:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    }
+  },
+  "active": "clean_ONE"
+}

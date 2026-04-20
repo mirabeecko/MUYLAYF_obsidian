@@ -1,0 +1,28 @@
+/* Supabase Sync Plugin Styles */
+
+.supabase-sync-notice {
+  background-color: #3ecf8e;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.supabase-sync-error {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Ribbon icon styling */
+.supabase-sync-ribbon-icon {
+  color: #3ecf8e;
+}
+
+/* Settings page styling */
+.setting-item-description code {
+  background-color: var(--background-secondary);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+}

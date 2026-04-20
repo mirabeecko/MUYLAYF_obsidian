@@ -1,0 +1,46 @@
+---
+tags: ["#MIRABEE"]
+---
+# rozpis KAMPAŇ GROŠ
+
+**
+ROZPIS:
+Inzerce v měsíčníku NAŠE TEPLICE**
+\- titulní strana + 2 strany uvnitř
+HOTOVO
+
+**Výroba vizitek 5.000 ks**
+HOTOVO, PŘEDÁNO
+
+**Výroba letáků 15.000 Ks**
+PŘIPRAVENO - PO DOHODĚ S DESIGNEREM JSME SE SHODLI, ŽE BY BYLO DOBRÉ VLOŽIT FOTO HOTOVÝCH PROSTOR KVŮLI ZVÝŠENÍ ZÁJMU O NAVŠTÍVENÍ. NAŠE INICIATIVA, NEMUSÍME ČEKAT A ZAČÍT I BEZ TOHO.
+
+**ROZNOS LETÁKŮ TEPLICE - 8.000 domácností**
+VŠE PŘIPRAVENO
+
+**Tvorba webových stránek**
+STRÁNKY JSOU HOTOVÉ. DOMINANTNÍ PRVKY WEBU TVOŘÍ FOTKY INTERIÉRU A FOTKY JÍDEL. ZATÍM VLOŽENY ZÁKLADNÍ INFORMACE A ŽE SE BRZY OTEVÍRÁ.
+SPUŠTĚNÍ JE MOŽNÉ DO 24 HODIN.
+
+**Doprovodné webové služby**
+DO 24 HODIN OD SPUŠTĚNÍ WEBU
+
+**Facebook PROMO - 3 MĚSÍCE**
+VYTVOŘENA STRÁNKA, PŘIPRAVENÝ ČLOVĚK + SKUPINA LIDÍ PRO OSLOVENÍ.
+JAKMILE SE OTEVŘE, ZAČÍNÁME. ZATÍM JSEM DÁVAL ZÁKLADNÍ INFO PŘES SVŮJ SOUKROMÝ PROFIL.
+
+**Opakované oslovení firem v okolí pomocí emailu a tištěné propagace**
+JAKMILE SE OTEVŘE, VŠE PŘIPRAVENO.
+
+**Reklamní plochy v centru Teplic - NÁDRAŽÍ, MASARYKOVA -PRONÁJEM 3 MĚSÍCE**
+BILLBOARDY JSOU VYROBENÉ A PLOCHY REZERVOVANÉ.
+KDYŽ BUDU VĚDĚT PŘESNÝ DEN OTEVŘENÍ S PŘEDSTIHEM, BUDOU UŽ TEN DEN VISET.
+
+**Přímé oslovení potencionálních zákazníků**
+JEDINÉ, S ČÍM SE JEŠTĚ NEZAČALO. DLE PLÁNU NEJDŘÍVE 2.MĚSÍC PROVOZU.
+STRATEGII OSLOVENÍ A CELKOVÝ KONCEPT JE KOMPLETNĚ PŘIPRAVENÝ.
+
+**Promo akce na slevovém portálu + POUKAZY**
+DLE PLÁNU ZAČÁTEK 2. MĚSÍC PROVOZU ( KOMBINACE S FACEBOOKEM )
+
+#claude_reference

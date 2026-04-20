@@ -1,0 +1,7 @@
+{
+  "supabaseUrl": "https://mljqltwcdqknezuqpisb.supabase.co",
+  "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1sanFsdHdjZHFrbmV6dXFwaXNiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUzMTMzNTgsImV4cCI6MjA2MDg4OTM1OH0.rG9nXbN7uY8GaVVB3xh6sKwIIe4-HoVAFY_HOzaLZSs",
+  "autoSync": true,
+  "syncOnStartup": false,
+  "debugMode": false
+}

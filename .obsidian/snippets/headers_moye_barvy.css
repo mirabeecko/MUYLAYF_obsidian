@@ -1,0 +1,55 @@
+
+
+
+h1 { 
+color: greenyellow!Important;
+font-size: 24px!Important;
+
+}  
+
+h2 { 
+color: red!Important; 
+font-size: 20px!Important;
+
+}
+
+h3 { 
+color: #00FFFF!Important; 
+font-size: 18px!Important;
+
+}
+
+h4 { 
+color: orange!Important; 
+font-size: 16px!Important;
+
+}
+
+
+
+h5 { 
+color: green!Important; 
+
+}
+
+
+
+h6 { 
+color: #C0C0C0!Important; 
+
+}
+
+
+
+body {
+  --text-normal: grey;
+  font-family: Tahoma!Important;
+
+}
+
+body {
+  --ribbon-background: black!Important;
+
+}
+
+

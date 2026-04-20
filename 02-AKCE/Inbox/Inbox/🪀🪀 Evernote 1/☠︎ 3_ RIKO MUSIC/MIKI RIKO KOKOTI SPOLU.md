@@ -1,0 +1,17 @@
+# MIKI RIKO KOKOTI SPOLU
+
+V RÁJI
+ČERTI
+DEALER ( jirko ) 
+PORNO
+POBLITÝ GYMPLÁCI
+
+LÁSKA ZDARMA
+
+MŮJ OBRAZ
+
+NA DÝZE
+
+MŮJ SEN JE BĚHAT PO LUNĚ BOS
+
+#claude_reference

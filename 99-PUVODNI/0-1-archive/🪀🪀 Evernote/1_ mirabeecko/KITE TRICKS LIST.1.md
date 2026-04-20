@@ -1,0 +1,34 @@
+# KITE TRICKS LIST
+
+VIDEO
+
+Protidronu - já upwind
+
+**Dnes**
+
+	* [x] TOESIDE
+	* [x] TOESIDE TRANSITION
+	* [ ] TOESIDE BACKFLIP
+
+	* [x] BACKROLL  TRANSITION REGULAR
+	* [x] BACKROLL TRANSITION GOOFY
+	* [ ] BACKROLL INVERT
+	* [x] DOUBLE BACKROLL
+	* [ ] HELLILOOP
+
+	* [ ] RAILEY
+	* [x] POŘÁDNEJ POP
+	* [ ] FAAAKT POŘÁDNEJ POP
+
+	* [ ] FRONTROLL
+	* [ ] 360 OTOČKA DO PROTIPOHYBU
+
+	* [ ] SENT JUMP
+
+	* [ ] BACKFLIP FROM TOESIDE
+
+	* [ ] HAND DRAG BACKROLL
+	* [ ] JESUS WALK
+	* [ ] DARKSLIDE
+
+#claude_sporty

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"7a82b344030e64fb","x":-239,"y":-430,"width":250,"height":60,"type":"text","text":""},
+		{"id":"491256cce95747b6","type":"text","text":"[[⭐ Předsedkyně JÁJA]]","x":-880,"y":443,"width":250,"height":60},
+		{"id":"11a87ce1326cb870","type":"text","text":"[[⭐ RADEK Beyer]]","x":-880,"y":360,"width":250,"height":60},
+		{"id":"640de4c26d8adbba","type":"text","text":"[[⭐ Pavel Bouša]]","x":-880,"y":540,"width":250,"height":60},
+		{"id":"4eefdeed5d3650a4","type":"text","text":"[[⭐️  Péťa Křesťan]]","x":-880,"y":280,"width":250,"height":60},
+		{"id":"a6c8ebac3b51d8aa","type":"text","text":"[[⭐️ Pém SuperKoncerty]]","x":-880,"y":640,"width":250,"height":60},
+		{"id":"cbec71c5714505e7","type":"text","text":"[[⭐️ Péťa a David a malí bouráci]]","x":-880,"y":200,"width":312,"height":60},
+		{"id":"cf98ad58960f37b5","x":-101,"y":395,"width":250,"height":60,"type":"text","text":"[[TRAIL PARK KOMÁRKA.jpg]]"},
+		{"id":"43315b9b5d58bd96","type":"text","text":"[[KOM 🚡 VLEKY]]","x":-101,"y":310,"width":250,"height":60,"color":"1"},
+		{"id":"107611c303286682","type":"text","text":"[[⭐ JARDA VESELÝ st.]]","x":-849,"y":1043,"width":250,"height":60},
+		{"id":"494fb3e0ca2eba1f","type":"text","text":"[[⭐ RADEK Beyer]]","x":-849,"y":960,"width":250,"height":60},
+		{"id":"ae59b17cf1f6daef","type":"text","text":"[[⭐ JARDA VESELÝ ml.]]","x":-849,"y":1140,"width":250,"height":60},
+		{"id":"f850311aa7180131","type":"text","text":"[[⭐️ HANS HAMPL]]","x":-849,"y":880,"width":250,"height":60},
+		{"id":"984ad26eab8c4c65","type":"text","text":"[[⭐️ VENCA KRÁL]]","x":-849,"y":1240,"width":250,"height":60},
+		{"id":"2d87c87bc1dfb57b","type":"text","text":"[[⭐ DAN SOUDEK]]","x":-849,"y":800,"width":250,"height":50}
+	],
+	"edges":[]
+}

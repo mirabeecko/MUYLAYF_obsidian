@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"264492457281e761","x":-352,"y":-260,"width":1052,"height":1320,"color":"1","type":"group","label":"..."},
+		{"id":"76fd6d52ec260c1c","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nsort by due\nshort mode\n\n```","x":-332,"y":-160,"width":480,"height":500,"color":"4"},
+		{"id":"df49bcc871997a72","type":"text","text":"# READY LIST","x":-332,"y":-240,"width":312,"height":50,"color":"4"},
+		{"id":"0829f9aad36cd160","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date) OR (has start date) AND ((due after this week) AND (due in or next 4 weeks))\nhide tags\n\n```","x":-332,"y":460,"width":480,"height":580,"color":"1"},
+		{"id":"cd50f37bdea9328b","type":"text","text":"# THIS MONTH","x":-332,"y":380,"width":312,"height":50,"color":"1"},
+		{"id":"9bdac6b5320dbdec","type":"text","text":"# SCHEDULED","x":200,"y":380,"width":312,"height":50,"color":"5"},
+		{"id":"1a62afdf5cb94bf4","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date) OR (has start date)\nhide tags\nshort mode\n\n```","x":200,"y":460,"width":480,"height":580,"color":"5"},
+		{"id":"726adeff05c307cb","type":"text","text":"**ZDROJ** : \nhttps://www.google.com/search?q=obsidian+tassk&oq=obsidian+tassk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMjEwNmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:48e3bb5b,vid:ZjVBQHyLyMM,st:0","x":480,"y":-240,"width":160,"height":50,"color":"4"}
+	],
+	"edges":[]
+}

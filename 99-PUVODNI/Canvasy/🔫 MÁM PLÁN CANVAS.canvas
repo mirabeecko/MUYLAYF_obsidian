@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"8aaa5779a91512bb","type":"file","file":"CHÁBR dataview.md","x":-145,"y":135,"width":400,"height":505},
+		{"id":"4caafef55ffd4236","type":"file","file":"⭐️ KOM-PARTNEŘI.md","x":320,"y":135,"width":400,"height":400},
+		{"id":"c82f086a4407da5e","type":"file","file":"PEOPLELIST dataview.md","x":-600,"y":135,"width":400,"height":2625},
+		{"id":"ca54c22cc42724ec","type":"file","file":"TRAILBUILDER dataview.md","x":-1920,"y":135,"width":1196,"height":1029},
+		{"id":"84baaaf0bc565883","type":"file","file":"kom2025 dataview.md","x":800,"y":240,"width":600,"height":1305}
+	],
+	"edges":[]
+}

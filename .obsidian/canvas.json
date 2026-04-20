@@ -1,0 +1,8 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "zoomBreakpoint": 0.45,
+  "defaultWheelBehavior": "zoom",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 0 CANVASY ALL"
+}

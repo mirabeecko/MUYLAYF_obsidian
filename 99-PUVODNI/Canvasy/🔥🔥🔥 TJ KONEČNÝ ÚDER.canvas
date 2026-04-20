@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2c752fc55174748d","type":"text","text":"MĚSTO KRUPKA","x":-140,"y":40,"width":172,"height":60},
+		{"id":"890210f91141d8fe","type":"text","text":"**ČAST**","x":80,"y":40,"width":180,"height":60,"color":"3"},
+		{"id":"3f88c540f22d3f5f","type":"text","text":"Okresní státní zástupkyně","x":-680,"y":40,"width":250,"height":60},
+		{"id":"c3938f714512ab14","type":"text","text":"VŠENASTOLNÍTENIS","x":360,"y":40,"width":250,"height":60,"color":"5"},
+		{"id":"7ba96bf348ccd116","type":"file","file":"ČAST 2. pokus.md","x":20,"y":-420,"width":260,"height":340,"color":"3"},
+		{"id":"d0c2011c174e449a","type":"file","file":"🗂 DOKUMENTY/ALMOST FINAL TJ/ODESLANÉ PARTNERŮM apod/TJ Důležité oznámení pro dodavatele a partnery Tělovýchovné jednoty Krupka z.s..pdf","x":322,"y":260,"width":358,"height":540,"color":"5"},
+		{"id":"9090f42f4ab2d28d","type":"text","text":"POLICIE ČR - Krupka","x":-380,"y":40,"width":203,"height":60},
+		{"id":"7d2ac6c00fce21dd","type":"text","text":"SKŘÍŇ","x":-478,"y":-240,"width":113,"height":50},
+		{"id":"e33ebc46ed443d03","type":"text","text":"**Mají pachatele**, \nale chtějí to odložit","x":-555,"y":-420,"width":230,"height":93,"color":"1"},
+		{"id":"1b0cb08e1d068701","type":"text","text":"TO","x":-680,"y":-215,"width":97,"height":50},
+		{"id":"8f9c792182d2cc13","type":"text","text":"STOLY","x":-231,"y":-190,"width":177,"height":50},
+		{"id":"753bfc690ec33edb","type":"file","file":"🗂 DOKUMENTY/ALMOST FINAL TJ/OZNÁMENÍ MĚSTŮ.pdf","x":-102,"y":261,"width":424,"height":539,"color":"1"},
+		{"id":"7fc63a6f5333046e","type":"file","file":"80 🎪 TJ/🍌 TJ KRIMI TOGETHER.md","x":-680,"y":261,"width":525,"height":860}
+	],
+	"edges":[
+		{"id":"28e7e18aefd78ece","fromNode":"3f88c540f22d3f5f","fromSide":"right","toNode":"9090f42f4ab2d28d","toSide":"left","toEnd":"none"},
+		{"id":"f7470a6c3e3c16c2","fromNode":"890210f91141d8fe","fromSide":"right","toNode":"c3938f714512ab14","toSide":"left","toEnd":"none"},
+		{"id":"ca09d902413687e2","fromNode":"2c752fc55174748d","fromSide":"right","toNode":"890210f91141d8fe","toSide":"left","toEnd":"none"},
+		{"id":"a7a93cc2c752a77a","fromNode":"7d2ac6c00fce21dd","fromSide":"bottom","toNode":"9090f42f4ab2d28d","toSide":"top","toEnd":"none"},
+		{"id":"b8db5b3be8d44b35","fromNode":"890210f91141d8fe","fromSide":"top","toNode":"7ba96bf348ccd116","toSide":"bottom"},
+		{"id":"7788a873c2c46cd0","fromNode":"c3938f714512ab14","fromSide":"bottom","toNode":"d0c2011c174e449a","toSide":"top"},
+		{"id":"064039f065330e60","fromNode":"9090f42f4ab2d28d","fromSide":"bottom","toNode":"7fc63a6f5333046e","toSide":"top"},
+		{"id":"c98d0f8d6c0e10e9","fromNode":"9090f42f4ab2d28d","fromSide":"top","toNode":"8f9c792182d2cc13","toSide":"bottom"},
+		{"id":"fdcb887036f57472","fromNode":"9090f42f4ab2d28d","fromSide":"top","toNode":"1b0cb08e1d068701","toSide":"bottom"},
+		{"id":"7ba0ab45f0602eec","fromNode":"e33ebc46ed443d03","fromSide":"bottom","toNode":"7d2ac6c00fce21dd","toSide":"top"},
+		{"id":"5e53a24b9546fcea","fromNode":"2c752fc55174748d","fromSide":"bottom","toNode":"753bfc690ec33edb","toSide":"top","color":"1"}
+	]
+}

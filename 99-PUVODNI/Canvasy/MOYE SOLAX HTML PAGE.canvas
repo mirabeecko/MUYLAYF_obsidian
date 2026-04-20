@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"45b142b74d29f557","x":0,"y":-160,"width":575,"height":256,"type":"group","label":"zákazník 2"},
+		{"id":"48df0d8d5bb5b71c","x":-620,"y":-160,"width":575,"height":256,"type":"group","label":"zákazník 1"},
+		{"id":"3a2670cb61de297f","type":"text","text":"Aktuální spotřeba","x":-600,"y":-60,"width":250,"height":60,"color":"1"},
+		{"id":"8ffd84901ed74434","type":"text","text":"Aktuální výroba","x":-600,"y":16,"width":250,"height":60,"color":"4"},
+		{"id":"e97c42f5e2b0fc19","x":-315,"y":-60,"width":250,"height":60,"color":"5","type":"text","text":"Napětí FV pole 1"},
+		{"id":"e63ecd351a88c9dd","type":"text","text":"Napětí FV pole 2","x":-315,"y":16,"width":250,"height":60,"color":"5"},
+		{"id":"9ee931667c23287b","x":-600,"y":-140,"width":535,"height":60,"type":"text","text":"Jméno zákazníka 1"},
+		{"id":"352f6469b4b5c86b","type":"text","text":"Aktuální spotřeba","x":20,"y":-60,"width":250,"height":60,"color":"1"},
+		{"id":"15473e85dbb0670f","type":"text","text":"Aktuální výroba","x":20,"y":16,"width":250,"height":60,"color":"4"},
+		{"id":"16d46e2c274aca08","type":"text","text":"Napětí FV pole 1","x":305,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"7a27672cc908aec8","type":"text","text":"Napětí FV pole 2","x":305,"y":16,"width":250,"height":60,"color":"5"},
+		{"id":"3555e6aa64537598","type":"text","text":"Jméno zákazníka 2","x":20,"y":-140,"width":535,"height":60}
+	],
+	"edges":[]
+}

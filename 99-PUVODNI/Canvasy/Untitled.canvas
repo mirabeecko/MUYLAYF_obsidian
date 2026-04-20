@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"238bf7d74ff88490","type":"text","text":"PYTHON","x":-269,"y":80,"width":173,"height":50},
+		{"id":"865b9d1855d123aa","type":"text","text":"PYTHON","x":-186,"y":380,"width":206,"height":50},
+		{"id":"f366df5fd9574069","type":"text","text":"PHP","x":180,"y":258,"width":164,"height":62},
+		{"id":"cfd414e63bb50ba4","type":"text","text":"PYTHON","x":-380,"y":258,"width":222,"height":62},
+		{"id":"1456a057a6917072","type":"text","text":"JAVASCRIPT","x":40,"y":130,"width":224,"height":70}
+	],
+	"edges":[]
+}

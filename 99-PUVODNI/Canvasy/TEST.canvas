@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"0346d489db1e0c41","type":"text","text":"","x":286,"y":273,"width":250,"height":60},
+		{"id":"dc84f76633061441","type":"file","file":"KONVERTOVANÁ KARTA.md","x":302,"y":-60,"width":414,"height":140},
+		{"id":"592e002382d14551","type":"text","text":"TOHLE JE KARTA\nneexistuje nikde  |   jen v **CANVAS**","x":-220,"y":80,"width":390,"height":58},
+		{"id":"10fbaa2a4a839955","type":"text","text":"TOHLE JE TAKY KARTA\n","x":259,"y":138,"width":250,"height":60},
+		{"id":"e1dd1df01f65e0ce","type":"file","file":"Evernote/☠︎ 3_ RIKO MUSIC/Udělal jsem tisíce jen věci v rámci radikálů. Všechny byly super a rád je opakuj.md","x":-1160,"y":-320,"width":400,"height":400},
+		{"id":"ca78698b4cbe980f","type":"file","file":"Evernote/ILINCEV/_resources/Ondřej_Ilinčev_na_Performance_2020_jak_na_vstupní_stránky.resources/unknown_filename.png","x":-227,"y":-320,"width":397,"height":221},
+		{"id":"b4e6f65334783a0d","type":"text","text":"","x":-231,"y":498,"width":250,"height":60},
+		{"id":"f6a68b27dcbd44a0","type":"link","url":"https://app.raynet.cz/slunicko/login","x":800,"y":730,"width":1040,"height":620},
+		{"id":"105bea37ef4d72e7","type":"link","url":"https://docs.google.com/spreadsheets/d/1H4cXIPiaVO9ASkoaMedm6zZDm34xtJb5NQCkltLJeT4/edit#gid=565236275","x":-1840,"y":800,"width":980,"height":900}
+	],
+	"edges":[
+		{"id":"b1eb8a4c69208be8","fromNode":"592e002382d14551","fromSide":"bottom","toNode":"10fbaa2a4a839955","toSide":"bottom"},
+		{"id":"5ee170bf170c58ab","fromNode":"592e002382d14551","fromSide":"right","toNode":"dc84f76633061441","toSide":"left"},
+		{"id":"9ca0399244bf89ba","fromNode":"ca78698b4cbe980f","fromSide":"left","toNode":"e1dd1df01f65e0ce","toSide":"right","label":"motherFUCKER"},
+		{"id":"a5f5d3bbc281a624","fromNode":"592e002382d14551","fromSide":"left","toNode":"105bea37ef4d72e7","toSide":"top","label":"TOHLE JE BOMBA"},
+		{"id":"b799788bed9505c9","fromNode":"592e002382d14551","fromSide":"bottom","toNode":"f6a68b27dcbd44a0","toSide":"left","label":"NO TY PIČO\n\n"}
+	]
+}

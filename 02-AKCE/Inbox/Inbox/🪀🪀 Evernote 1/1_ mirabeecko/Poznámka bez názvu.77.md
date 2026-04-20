@@ -1,0 +1,8 @@
+# Poznámka bez názvu
+
+DO KSICHTU MI NIKDO Z VÁS HRDINŮ NIC NEŘEKNE
+TAK POJDTE ZKUSÍME TO TAKHLE
+ČUMÍTE JAKO, ŽE NĚCO UMÍTE
+VÍTĚŽNĚ ŠPITÁTE JAK MALÝ XINDLOVÉ V DRUŽINĚ
+
+#claude_reference

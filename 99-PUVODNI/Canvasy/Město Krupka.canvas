@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"3c67af1ea24c5039","type":"group","x":-3720,"y":-80,"width":1520,"height":560,"label":"jan bokoč"},
+		{"id":"20a04244eae71d50","type":"group","x":-1900,"y":-122,"width":250,"height":325,"label":" "},
+		{"id":"b4739657ea6ef66a","type":"group","x":-400,"y":-89,"width":280,"height":259,"label":" "},
+		{"id":"00572449eb6f943f","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/2023-03-01 Organizační schéma MÚ.pdf","subpath":"#page=1","x":-3480,"y":-1067,"width":1130,"height":762,"color":"1"},
+		{"id":"3c8ff1bba7ac634d","type":"file","file":"80 🎪 TJ/JAN BOKOČ.md","x":-2511,"y":100,"width":210,"height":55},
+		{"id":"c530a77c002c599a","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/SPORT KRUPKA vypis-631547 1.pdf","x":-2961,"y":-20,"width":400,"height":400},
+		{"id":"5c53624c498fc376","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/JAN BOKOČ - OR zápisy.png","x":-3669,"y":-20,"width":368,"height":400},
+		{"id":"8da20c92635ffd32","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/JAN BOKOČ FIRMY.png","x":-3254,"y":-20,"width":253,"height":400},
+		{"id":"cd3a12627c0d5cc3","type":"text","text":"ředitel \nSport Krupka","x":-1880,"y":132,"width":219,"height":50},
+		{"id":"04bbf600927206b7","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/ADOLF VÍTŮ.jpg","x":-1860,"y":-82,"width":179,"height":214},
+		{"id":"b7e73a75796bcb84","type":"text","text":"# Bytové družstvo Budoucnost","x":-1563,"y":220,"width":403,"height":70},
+		{"id":"200140a413dbf180","type":"text","text":"## PINČESÁRNA","x":-1234,"y":-305,"width":209,"height":60},
+		{"id":"2968a7ee50d9df22","type":"text","text":"# místostarosta Města Krupka","x":-725,"y":-82,"width":230,"height":107},
+		{"id":"a14489ac52fc8c89","type":"text","text":"# Starosta","x":-583,"y":-380,"width":223,"height":50},
+		{"id":"4aa6d7d926a82dac","type":"text","text":"Jan Kuzma","x":-551,"y":-270,"width":160,"height":50},
+		{"id":"b16398cc15e94611","type":"text","text":"","x":-405,"y":-22,"width":0,"height":0},
+		{"id":"14dc191d3b005460","type":"text","text":"Radek Jankura","x":-698,"y":374,"width":177,"height":60,"color":"1"},
+		{"id":"3c32b9becfa77baf","type":"text","text":"Honza Růžička","x":-698,"y":278,"width":177,"height":60,"color":"1"},
+		{"id":"36b4b35aaadbef17","type":"text","text":"### jaromír Pivoňka","x":-1073,"y":225,"width":213,"height":53},
+		{"id":"8c14313432e19e0d","type":"text","text":"# SPORT Krupka s.r.o.","x":-1361,"y":-4,"width":297,"height":59},
+		{"id":"0c9483486261df0f","type":"text","text":"### TJ Krupka","x":-1521,"y":-245,"width":160,"height":55,"color":"4"},
+		{"id":"17aa7e680fcc15bc","type":"text","text":"##### ZASTUPITELSTVO 2022-2025**\n\nVolební strana\tPříjmení, jméno, titul\tVěk\tPolitická příslušnost\n1\tZDRAVÁ KRUPKA\tBačová Miloslava, Mgr.\t68\tbez p. p.\n2\tANO 2011\tBence Jiří, Ing.\t56\tbez p. p.\n3\tObčanská demokratická strana\tBokoč Jan\t51\tODS\n4\tANO 2011\tGrünbaumová Andrea\t49\tbez p. p.\n5\tSNK MPV - MĚSTO PRO VÁS\tJankura Radek, Bc.\t47\tSTAN\n6\tZdraví Sport Prosperita\tJech Alexandr, Bc.\t44\tbez p. p.\n7\tKRUPKA NÁŠ DOMOV\tKadlec Rostislav, PaedDr.\n43\tKDU-ČSL\n8\tANO 2011\tKlaška Rudolf\t43\tANO\n9\tSvoboda a př. demokracie (SPD)\tKuchtová Andrea\t31\tSPD\n10\tANO 2011\tKuzma Jan\t56\tANO\n11\tZDRAVÁ KRUPKA\nLachman Jaroslav\t51\tbez p. p.\n12\tSPOLEČNĚ PRO KRUPKU\tMatouš Zdeněk, PhDr. Ing. Ph.D, MBA\t58\tČSSD\n13\tSPOLEČNĚ PRO KRUPKU\tPenc Jiří\t60\tČSSD\n14\tZDRAVÁ KRUPKA\tPříhoda Rostislav, Ing.\t51\tbez p. p.\n15\tSPOLEČNĚ PRO KRUPKU\tRouček Karel, Bc.\t58\tČSSD\n16\tKRUPKA NÁŠ DOMOV\tRůžička Jan, Ing.\t33\tKDU-ČSL\n17\tZDRAVÁ KRUPKA\tŘeháková Marcela, Mgr. Bc.\t46\tbez p. p.\n18\tSPOLEČNĚ PRO KRUPKU\tSaifert Zdeněk, Mgr. MBA\t50\tČSSD\n19\tSPOLEČNĚ PRO KRUPKU\tŠanda Václav\t56\tČSSD\n20\tSvoboda a př. demokracie (SPD)\tVaněk Tomáš\t64\tSPD\n21\tANO 2011\tVítů Adolf\t52\tANO","x":400,"y":-700,"width":605,"height":548},
+		{"id":"b50203eac0b935c5","type":"file","file":"🗂 DOKUMENTY/🦴 80.1 TJ PŘÍLOHY/Rostislav Kadlec.jpg","x":-357,"y":-28,"width":181,"height":146},
+		{"id":"a8cad7d86907cc79","type":"text","text":"","x":472,"y":517,"width":250,"height":60},
+		{"id":"19e4b0f557c4f3cc","type":"text","text":"# Město KRUPKA","x":-860,"y":-686,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"61a9e9173d8e017d","fromNode":"8c14313432e19e0d","fromSide":"left","toNode":"04bbf600927206b7","toSide":"right"},
+		{"id":"c938874472435578","fromNode":"2968a7ee50d9df22","fromSide":"right","toNode":"b50203eac0b935c5","toSide":"left"},
+		{"id":"f1c32c1db202e5d7","fromNode":"b7e73a75796bcb84","fromSide":"right","toNode":"36b4b35aaadbef17","toSide":"left"},
+		{"id":"6d427c80a1872056","fromNode":"b7e73a75796bcb84","fromSide":"top","toNode":"04bbf600927206b7","toSide":"right"},
+		{"id":"281356e5b69ea20a","fromNode":"a14489ac52fc8c89","fromSide":"bottom","toNode":"4aa6d7d926a82dac","toSide":"top"},
+		{"id":"536fd35f87e14df7","fromNode":"19e4b0f557c4f3cc","fromSide":"right","toNode":"a14489ac52fc8c89","toSide":"top"},
+		{"id":"72d09b125f4a85fb","fromNode":"19e4b0f557c4f3cc","fromSide":"bottom","toNode":"2968a7ee50d9df22","toSide":"left"},
+		{"id":"5e189eea993ba488","fromNode":"19e4b0f557c4f3cc","fromSide":"left","toNode":"200140a413dbf180","toSide":"top","label":"pronájem"},
+		{"id":"4ab5a64d0cb95cbd","fromNode":"200140a413dbf180","fromSide":"bottom","toNode":"8c14313432e19e0d","toSide":"top"},
+		{"id":"ac48c6c14927becf","fromNode":"8c14313432e19e0d","fromSide":"top","toNode":"0c9483486261df0f","toSide":"bottom"}
+	]
+}

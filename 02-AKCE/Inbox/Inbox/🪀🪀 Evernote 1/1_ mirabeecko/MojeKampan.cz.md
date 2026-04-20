@@ -1,0 +1,70 @@
+---
+tags: ["#INTERNETOVÁ","#Web","#BUSINESS","#SALES"]
+---
+# MojeKampan.cz
+
+**MojeKampan.cz**
+**
+
+* * *
+
+**
+
+**Nikdy** nebylo možné **jednodušejí** propagovat svou firmu.
+
+* * *
+
+STAČÍ DODAT GRAFIKU PRO VÁŠ LETÁK NEBO POPSAT JAK BY MĚL LETÁK VYPADAT A MY GRAFIKU VYTVOŘÍME ZA VÁS. **JAK JEDNODUCHÉ !**
+
+* * *
+
+ŽÁDNÉ JEDNÁNÍ S AGENTUROU.
+ŽÁDNÉ ČEKÁNÍ.
+ŽÁDNÁ STAROST.
+
+* * *
+
+ŘIĎTE SVOJI KAMPAŇ SAMI **Z DOMOVA**.
+
+ŘIĎTE SVOJI KAMPAŇ SAMI **Z DOVOLENÉ**.
+ŘIĎTE SVOJI KAMPAŇ SAMI **ON-LINE**.
+
+ŘIĎTE SVOJI KAMPAŇ **ODKAĎKOLIV CHCETE**.
+
+* * *
+
+NEMUSÍTE S NIKÝM DOHADOVAT CENU.
+NEMUSÍTE VYHODNOCOVAT NABÍDKY JEDNOTLIVÝCH SLUŽEB ZVLÁŠŤ A VYBÍRAT VHODNÉHO DODAVATELE. 
+
+NAOPAK MŮŽETE ZAČÍT HNED - **OKAMŽITĚ SPUSTIT KAMPAŇ**.
+**
+
+* * *
+
+**
+
+**
+
+* * *
+
+**
+
+**LETÁKY -** DISTRIBUCE LETÁKŮ DO DOMÁCNOSTÍ A JEJICH VÝROBA
+
+**BILLBOARDY** \- PRONÁJEM PLOCH, VÝROBA REKLAMY, MONTÁŽ
+
+**PLAKÁTY** \- VÝROBA A VÝLEP PLAKÁTŮ
+
+**RADIO** - SPONZORSKÉ SPOTY, REKLAMNÍ VSTUPY
+
+**TIŠTĚNÁ MÉDIA** \- 
+
+**INTERNET** - PPC REKLAMA, FACEBOOK, GOOGLE, SEZNAM
+
+**
+
+* * *
+
+**
+
+#claude_reference

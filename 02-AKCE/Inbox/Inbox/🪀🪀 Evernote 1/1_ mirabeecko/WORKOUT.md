@@ -1,0 +1,27 @@
+---
+tags: ["#fIGHTS","#FIT","#health"]
+---
+# WORKOUT
+
+**HIGH KNEES**
+15s
+**LOW PLANK TO HIGH PLANK**
+15s
+**HALF BURPEE**
+15s
+**TOE TOUCHES**
+15s
+**SQUAT JUMPS**
+15s
+**SIDE PLANK**
+15s
+**ALTERNATE LUNGS**
+15s
+**JUMPING JACK**
+15s
+**HIP THRUST**
+15s
+**BUTT KICKS**
+15s
+
+#claude_reference

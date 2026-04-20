@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"fa1670942696e0a1","type":"text","text":"# SME JEDNOTA","x":-668,"y":-480,"width":250,"height":46},
+		{"id":"5c225818259b6e18","type":"text","text":"**ČONIN**","x":105,"y":-494,"width":133,"height":60},
+		{"id":"603b9ac73a5cb0a2","type":"text","text":"**MOTEJL**","x":105,"y":-389,"width":133,"height":60},
+		{"id":"826525211cbd286d","type":"text","text":"**ČONIN**","x":-80,"y":-494,"width":133,"height":60},
+		{"id":"931f61e73950b81f","type":"text","text":"# #SMEJEDNOTA","x":-756,"y":-274,"width":236,"height":50},
+		{"id":"74fd347bbd9822bc","type":"text","text":"# SPANILÁ JÍZDA ","x":-881,"y":155,"width":250,"height":60},
+		{"id":"f3e0f83878b5e6b5","type":"text","text":"# FB GROUP","x":-608,"y":155,"width":250,"height":60},
+		{"id":"f6d73bf730e5dc96","type":"text","text":"## FOTKY  **CHCEME TRAIL NA KOMÁRCE**","x":-600,"y":-20,"width":485,"height":60},
+		{"id":"c79306afb103c77f","type":"text","text":"# DOMČA a MUNCHIES","x":-881,"y":240,"width":338,"height":50},
+		{"id":"daba4a0d1f0b748e","type":"text","text":"### HANKA","x":-80,"y":-389,"width":133,"height":60},
+		{"id":"0a6d8a19d44c8e8f","type":"text","text":"## HLEDÁME KOMU TO TAK VADÍ ???","x":-750,"y":-1000,"width":510,"height":50},
+		{"id":"bbf10a978bf19cf0","type":"text","text":"## KDE SI ??? - VYLEZ !!!","x":-750,"y":-880,"width":301,"height":50},
+		{"id":"5145b7d9ce558eed","type":"text","text":"#  FACEBOOK MESSAGE","x":150,"y":240,"width":325,"height":60},
+		{"id":"9edc0d24bb878724","type":"text","text":"#  FACEBOOK MESSAGE","x":-600,"y":65,"width":325,"height":60},
+		{"id":"c56c3d4daafc8417","type":"text","text":"#  FACEBOOK MESSAGE *mejm lidem*","x":-358,"y":-224,"width":325,"height":110},
+		{"id":"8ef39ce1045bb192","type":"text","text":"#   otevřený DOPIS STAROSTOVI ???","x":53,"y":-224,"width":325,"height":110},
+		{"id":"15cecd2dc954de8d","type":"text","text":"# DENÍK DEAL","x":-400,"y":-640,"width":250,"height":60},
+		{"id":"fbde1080eca4fe39","type":"file","file":"⚜ představení PRÁVNÍK POZEMKY.md","x":680,"y":-1104,"width":973,"height":1340},
+		{"id":"ec495707a7bd77cc","type":"text","text":"#  ZÁVODY - TRAILPARK","x":-495,"y":-1320,"width":325,"height":60}
+	],
+	"edges":[]
+}

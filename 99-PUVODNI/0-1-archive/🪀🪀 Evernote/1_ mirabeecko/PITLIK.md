@@ -1,0 +1,34 @@
+# PITLIK
+
+**PRAVIDLO 1:**  POKUD SI BUDETE MYSLET, ŽE LŽU, ZKUSTE REAGOVAT JAKO, KDYBYSTE MI VĚŘIL.  
+
+ŘIKÁM TO PROTO, ŽE 
+
+DÍVKA
+
+Je možnost
+
+Chtěl bych Vám udělat takovej svůj medailonek
+— — — —
+5 MINUT - MEDAILONEK
+
+NELŽU
+
+NEVZDĚLANOST
+NEKOMPETENTNOST
+
+* PŘEDČASNÁ DOSPĚLOST až do fáze HELE JE TI TŘICET
+
+MUZIKA
+
+**KARIÉRA**
+Přímej prodej - NEJKRÁSNĚJŠÍ OBDOBÍ MÝHO ŽIVOTA
+
+MILNÍKY
+
+**LITERATURA**
+
+* **TOMAN** - DEBORDELIZACE
+* HILL **NEBAVIL**
+
+#claude_reference

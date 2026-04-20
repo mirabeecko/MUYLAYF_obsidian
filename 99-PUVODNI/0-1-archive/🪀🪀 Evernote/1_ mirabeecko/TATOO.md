@@ -1,0 +1,11 @@
+# TATOO
+
+ECKHART TOLLE
+
+CARNEGIE
+
+NAPOLEON HILL
+
+RADIKÁL
+
+#claude_reference

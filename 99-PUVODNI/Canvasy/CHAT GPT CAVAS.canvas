@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2843fafc7e31660c","x":-480,"y":-340,"width":1040,"height":860,"type":"link","url":"https://docs.google.com/spreadsheets/d/1g0rjjEU0FBSiGbZUcNlsC14Vhd8nxJOBXDDBfI-h_V8/edit#gid=0"},
+		{"id":"3c0d3718d10dfbba","x":-433,"y":-569,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9a42956ad8326e57","x":600,"y":-340,"width":1080,"height":860,"type":"link","url":"https://chat.openai.com/"}
+	],
+	"edges":[]
+}

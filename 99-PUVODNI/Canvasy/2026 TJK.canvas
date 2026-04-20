@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ce856aa1da2ed800","type":"text","text":"# aby jste to přátelé pochopili,\n\nbyl jsem shledán jediným vhodným kandidátem, a panem Vanišem, vlachem, breiem, rozenkrancem zvolen statutárním orgánem spolku. \n","x":-320,"y":-560,"width":540,"height":160},
+		{"id":"b13498eac4b9d5ab","type":"text","text":"### KOLIK žádostí na ZÁPIS ZMĚN V OR ????","x":-320,"y":-320,"width":423,"height":50},
+		{"id":"dccecb01204a894f","type":"text","text":"Tak žaloby","x":-700,"y":-480,"width":200,"height":60},
+		{"id":"b32e66fb223ddc71","type":"text","text":"Důkazy","x":-700,"y":-560,"width":200,"height":60},
+		{"id":"a4030a2ff0e5fb6f","type":"text","text":"Tabulka s pozemky","x":-700,"y":-400,"width":200,"height":60},
+		{"id":"97156aa39ce1e83a","type":"text","text":"ROZHODNUTÍ O VLASTNICTVÍ  ČSSS","x":-700,"y":-320,"width":301,"height":60}
+	],
+	"edges":[]
+}

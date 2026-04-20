@@ -1,0 +1,99 @@
+.callout[data-callout="top"] {
+  --callout-color: var(--callout-example);
+   background: none;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 40px !important; /* Position the navbar at the top of the page */
+  width: 100% !important; /* Full width */
+  border-radius: 0px;
+  margin:0px !important;
+}
+.callout[data-callout="top"] .callout-content {
+	color: black;
+	text-align: center;
+	justify-content: center;
+	min-height: 1em;
+	margin-top: 0px !important;
+	display: flex;
+	flex-direction: column;
+	padding: none;
+	width: 100% !important;
+}
+.callout[data-callout="top"] .callout-content h1,
+.callout[data-callout="top"] .callout-content h2,
+.callout[data-callout="top"] .callout-content h3 {
+	text-align: center !important;
+	justify-content: center !important;
+	display: block;
+	padding: none;
+	width: 99% !important;
+	color: red;
+	margin-bottom: 20px;
+}
+
+
+
+.callout[data-callout="top"] .callout-content h4,
+.callout[data-callout="top"] .callout-content h5,
+.callout[data-callout="top"] .callout-content h6 {
+	text-align: left !important;
+}
+.callout[data-callout="top"] .callout-content p {
+	margin: 0;
+	padding: 0px;
+	justify-content: center;
+	text-align: center;
+}
+.callout[data-callout="top"] a.internal-link {
+	color: white;
+	font-family: Arial !important;
+	font-weight: 300;
+	text-align: center !important;
+	justify-content: center !important;
+	text-decoration: none;
+	letter-spacing: .08em;
+	transition: none;
+	transition: none;
+	align-items: center;
+	border-bottom: none !important;
+	border-style: none;
+	display: inline-flex;
+	border-radius: none !important;
+	height: 3px;
+	line-height: 20;
+	outline: none;
+	overflow: hidden;
+	padding: 10px;
+	opacity: none !important;
+	margin: 0px;
+}
+.callout[data-callout="top"] a.internal-link:hover {
+	border-bottom: 0px var(--text-accent) solid !important;
+	color: grey !important;
+	border-radius: 0px !important;
+	padding: 10px;
+	opacity: 90% !important;
+	background-color: none !important;
+}
+.callout[data-callout="top"] .callout-title,
+.callout[data-callout="top"] .callout-title-inner {
+	display: none !important;
+	padding: 0px !important;
+}
+.callout[data-callout="top"] .callout-fold,
+.callout[data-callout="top"] .callout-icon {
+	display: none;
+	font-size: 2em !important;
+}
+.callout[data-callout="top"] table {
+  width: 99% !important;
+  border: none !important;
+  border-radius: 0px !important;
+
+}
+/* CALLOUT METADATA */
+.callout[data-callout-metadata="menu"]  {
+	background-color: var(text-normal) !important;
+	--icon-size: 5em !important;
+    margin: 20px !important;
+}

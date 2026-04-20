@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d25d94e556688a97","type":"link","url":"https://notebooklm.google.com/","x":-757,"y":-900,"width":917,"height":720},
+		{"id":"97333a4c342cec8e","x":200,"y":-900,"width":420,"height":581,"type":"link","url":"https://chat.deepseek.com/"},
+		{"id":"253656868d086b48","x":220,"y":-280,"width":880,"height":542,"type":"link","url":"https://youtube.com"},
+		{"id":"7b5afbbc60f6fd11","type":"text","text":"# CHATGPT.COM","x":-640,"y":120,"width":400,"height":283},
+		{"id":"c358781c2b8a7ed8","type":"text","text":"# GEMiNi","x":-240,"y":120,"width":200,"height":283},
+		{"id":"f89b859403d4ec24","type":"text","text":"# deepSEEK","x":-40,"y":120,"width":200,"height":283},
+		{"id":"bad405f6dc5a2690","type":"text","text":"# NOTEBooKLLM","x":-640,"y":400,"width":400,"height":283},
+		{"id":"7749d80f2067da98","type":"text","text":"# obsidian\n","x":-240,"y":400,"width":166,"height":283},
+		{"id":"5e51d294bf928a03","type":"text","text":"# youTube.com\n","x":-80,"y":400,"width":240,"height":283},
+		{"id":"3406f50d709cc08c","type":"link","url":"https://gemini.google.com/app","x":680,"y":-900,"width":420,"height":581},
+		{"id":"f02edf96f4a1cc8e","x":-1840,"y":-900,"width":1020,"height":1380,"type":"link","url":"https://aistudio.google.com/"}
+	],
+	"edges":[]
+}

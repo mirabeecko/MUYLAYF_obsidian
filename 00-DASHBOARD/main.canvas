@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"projekty","type":"file","file":"01-PROJEKTY/Komarka/⛰ KOMÁRKA.md","label":"PROJEKTY","x":-800,"y":-300,"width":420,"height":300},
+		{"id":"akce","type":"file","file":"02-AKCE/dnes.md","label":"AKCE / DNES","x":-340,"y":-600,"width":480,"height":360},
+		{"id":"lidi","type":"file","file":"03-LIDI/People/👨 PEOPLELIST.md","label":"LIDI","x":200,"y":-400,"width":320,"height":160},
+		{"id":"penize","type":"file","file":"04-PENIZE","label":"PENÍZE","x":600,"y":-300,"width":220,"height":60},
+		{"id":"napady","type":"file","file":"05-NAPADY/AI-Tech","label":"NÁPADY","x":-600,"y":200,"width":220,"height":80},
+		{"id":"pravni","type":"file","file":"06-PRAVNI/prehled.md","label":"PRÁVNÍ – TJK","x":200,"y":200,"width":510,"height":200,"color":"2"},
+		{"id":"dashboard","type":"file","file":"00-DASHBOARD/dashboard.md","x":-200,"y":60,"width":320,"height":180},
+		{"id":"center","type":"text","text":"# MUYLAYF\n## Řídící centrum","x":-240,"y":-140,"width":280,"height":140,"color":"1"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"projekty","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"top","toNode":"akce","toSide":"bottom"},
+		{"id":"e3","fromNode":"center","fromSide":"top","toNode":"lidi","toSide":"bottom"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"penize","toSide":"left"},
+		{"id":"e5","fromNode":"center","fromSide":"left","toNode":"napady","toSide":"right"},
+		{"id":"e6","fromNode":"center","fromSide":"right","toNode":"pravni","toSide":"left"},
+		{"id":"e7","fromNode":"center","fromSide":"bottom","toNode":"dashboard","toSide":"top"}
+	]
+}

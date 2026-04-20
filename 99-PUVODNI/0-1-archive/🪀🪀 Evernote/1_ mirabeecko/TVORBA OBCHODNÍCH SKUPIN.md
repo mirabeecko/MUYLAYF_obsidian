@@ -1,0 +1,16 @@
+---
+tags: ["#MIRABEE"]
+---
+# TVORBA OBCHODNÍCH SKUPIN
+
+OBCHODNÍ SKUPINY NA TÝDEN 😃
+
+**VYTVOŘENÍ NOVÉ OBCHODNÍ SKUPINY**
+
+* NÁBOR A VÝBĚR LIDÍ
+* VYŠKOLENÍ 
+* MONITORING
+* KONTROLING
+* PŘEDÁNÍ VÝSLEDKŮ
+
+#claude_reference

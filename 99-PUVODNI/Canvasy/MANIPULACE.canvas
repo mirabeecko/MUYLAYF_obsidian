@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"0a5ac4a103717c7b","type":"link","url":"https://www.youtube.com/watch?v=L9Qg6Hk9CM4&ab_channel=Petr%C5%BD%C3%A1k","x":-340,"y":-480,"width":640,"height":360},
+		{"id":"56d0b639dd9c157b","type":"text","text":"Poruchy osobnosti","x":-465,"y":350,"width":250,"height":60},
+		{"id":"82cbd12ad4231702","type":"text","text":"Sociopat","x":-555,"y":550,"width":167,"height":50},
+		{"id":"3e38c1eca09756c0","type":"text","text":"Psychopat","x":-273,"y":520,"width":147,"height":50},
+		{"id":"094a0ae87227ad27","type":"text","text":"### DOBRO","x":170,"y":485,"width":150,"height":60},
+		{"id":"4368bbd7195b676f","type":"text","text":"### ZLO","x":400,"y":485,"width":120,"height":60},
+		{"id":"71ac18dd24a9a0e5","type":"text","text":"### INTELIGENCE","x":600,"y":485,"width":240,"height":60},
+		{"id":"151370d380c863c6","type":"text","text":"PREZENTACE","x":-680,"y":20,"width":250,"height":60},
+		{"id":"5d3d8ce3aa0251b6","type":"text","text":"HTTPS://GITMIND.COM","x":-823,"y":130,"width":268,"height":50},
+		{"id":"adc12efef4b54c75","type":"text","text":"MANIPULACE","x":-112,"y":-30,"width":185,"height":50,"color":"1"},
+		{"id":"5e3f8c6a03413e66","type":"link","url":"https://www.youtube.com/watch?v=-_SCP_2RCXQ&ab_channel=Cesta%C3%9Asp%C4%9B%C5%A1n%C3%BDch","x":640,"y":-100,"width":640,"height":360},
+		{"id":"982781a46c728c94","type":"text","text":"Typologie","x":360,"y":50,"width":160,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"02cebf6d8b8d81da","fromNode":"adc12efef4b54c75","fromSide":"top","toNode":"0a5ac4a103717c7b","toSide":"bottom"},
+		{"id":"2b8c124dc341d908","fromNode":"56d0b639dd9c157b","fromSide":"bottom","toNode":"82cbd12ad4231702","toSide":"top"},
+		{"id":"fd8350e01c09651f","fromNode":"56d0b639dd9c157b","fromSide":"bottom","toNode":"3e38c1eca09756c0","toSide":"top"},
+		{"id":"0df6574ac338eeb4","fromNode":"982781a46c728c94","fromSide":"right","toNode":"5e3f8c6a03413e66","toSide":"left"}
+	]
+}

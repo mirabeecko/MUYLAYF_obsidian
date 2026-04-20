@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"971c312a03b0a4aa","x":-400,"y":-1000,"width":1640,"height":840,"type":"link","url":"https://solaxcloud.com/blue/#/overview_site?siteId=1695731283888508931&siteName=Daniel%20Bal%C3%ADn&existDev=1000000000000000&feedEnable=1"},
+		{"id":"a358fc649d19f1dc","x":1160,"y":12,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

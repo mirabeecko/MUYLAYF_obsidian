@@ -1,0 +1,15 @@
+---
+tags:
+  - slovník
+---
+**Arenga** (z [fr.](https://cs.wikipedia.org/wiki/Francouz%C5%A1tina "Francouzština") _harangue_, _slavnostní řeč_; vzešlé z [germánského](https://cs.wikipedia.org/wiki/Germ%C3%A1nsk%C3%A9_jazyky "Germánské jazyky") _hariring_, tj. _Heeresring_ – shromáždění vojska do kruhu při slavnostní řeči) se nazývá v [diplomatice](https://cs.wikipedia.org/wiki/Diplomatika "Diplomatika") [rétorická](https://cs.wikipedia.org/wiki/R%C3%A9torika "Rétorika") formule v [listině](https://cs.wikipedia.org/wiki/Listina_(diplomatika) "Listina (diplomatika)"), zpravidla se jí uvádí [text listiny](https://cs.wikipedia.org/wiki/Text_(diplomatika) "Text (diplomatika)") (ovšem pozice může v konkrétních případech kolísat), kde je vyjádřena obecná motivace zlistinění, vydání listiny, není tedy právně zásadní. Jedná se o velmi starobylou součást listiny, která se objevuje již ve [starém Římě](https://cs.wikipedia.org/wiki/Starov%C4%9Bk%C3%BD_%C5%98%C3%ADm "Starověký Řím") a ve slavnostních listinách přežívá dodnes (je pravidelnou součástí [preambulí](https://cs.wikipedia.org/wiki/Preambule "Preambule")). V [byzantských](https://cs.wikipedia.org/wiki/Byzantsk%C3%A1_%C5%99%C3%AD%C5%A1e "Byzantská říše") listinách se označuje jako _prooimion_.
+
+## Užívání[[editovat](https://cs.wikipedia.org/w/index.php?title=Arenga&veaction=edit&section=1 "Editace sekce: Užívání") | [editovat zdroj](https://cs.wikipedia.org/w/index.php?title=Arenga&action=edit&section=1 "Edit section's source code: Užívání")]
+
+Arenga je zajímavá z několika důvodů. Arengy jsou zpravidla stylisticky nejvytříbenější částí listiny (záleží na způsobu provedení listiny, ty jednodušší arengu nemusely mít vůbec, případně mohla splývat s [narací](https://cs.wikipedia.org/wiki/Narace "Narace")), proto také nebyly vynechávány při přepisech listin do [formulářových sbírek](https://cs.wikipedia.org/w/index.php?title=Formul%C3%A1%C5%99ov%C3%A9_sb%C3%ADrky&action=edit&redlink=1 "Formulářové sbírky (stránka neexistuje)"). Z obecného shrnutí důvodů vydání lze také zachytit i ideologii vydavatele. Arenga, pokud nebyla pouze vyhotovena podle daného vzoru, může osvětlit i diktát listiny, tj. charakteristické obraty a dikci jednotlivých osob v kanceláři vydavatele.
+
+Do poloviny [10. století](https://cs.wikipedia.org/wiki/10._stolet%C3%AD "10. století") byly typické arengy jen krátké a stručné, později byly rozsáhlejší, např. zakládací listina [Univerzity Karlovy](https://cs.wikipedia.org/wiki/Univerzita_Karlova "Univerzita Karlova") je známa velmi rozpracovanou arengou.[[1]](https://cs.wikipedia.org/wiki/Arenga#cite_note-1) Za císaře [Jindřicha II.](https://cs.wikipedia.org/wiki/Jind%C5%99ich_II. "Jindřich II.") se příležitostně objevuje arenga i jako rýmovaná próza.
+
+Arenga předkládá všeobecné motivy, které vydavatele vedly k vydání listiny. Pojednává (často v [patetickém](https://cs.wikipedia.org/wiki/Patos "Patos") stylu) o vydavatelově ctnosti, o božské náklonnosti, právech nebo míru, může obsahovat i citáty z [bible](https://cs.wikipedia.org/wiki/Bible "Bible"), právnických knih či literárních děl.
+
+#claude_reference

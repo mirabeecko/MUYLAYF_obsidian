@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"e9ed1aec97a81dab","x":-640,"y":-740,"width":580,"height":440,"color":"4","type":"group","label":"Services"},
+		{"id":"c4d92886fb85b693","type":"group","x":-600,"y":-60,"width":760,"height":140,"color":"1","label":"Sports"},
+		{"id":"3e458c11b618cdc8","type":"text","text":"## INDOBOARDs","x":-580,"y":-40,"width":187,"height":60},
+		{"id":"7f3c83a273b06bfe","type":"text","text":"## SLACLINE","x":-360,"y":-40,"width":140,"height":60},
+		{"id":"2969eb43a620356d","type":"text","text":"## TRAMPOLINE","x":-200,"y":-40,"width":180,"height":60},
+		{"id":"aecffd5978d4e234","type":"text","text":"## AiRBAG","x":0,"y":-40,"width":140,"height":50},
+		{"id":"29330304cc6e6ba9","type":"text","text":"# ATRAKCE KOMÁRKA","x":20,"y":-340,"width":260,"height":50},
+		{"id":"fe069c83ad743215","type":"text","text":"## HÁZENÍ NOŽŮ","x":-620,"y":-380,"width":200,"height":60},
+		{"id":"8cd3e000e6f8a152","type":"text","text":"## BAR & GRiLL","x":-580,"y":-460,"width":200,"height":60},
+		{"id":"01740f220f84786c","type":"text","text":"## KITING KURZY","x":-480,"y":-540,"width":200,"height":50},
+		{"id":"9cf0d88da3666a23","type":"text","text":"Kites","x":-320,"y":-720,"width":80,"height":50},
+		{"id":"0963f5ff01c78f09","type":"text","text":"## PŮJČOVNA","x":-320,"y":-620,"width":200,"height":59},
+		{"id":"51358d0ea26e4c2e","type":"text","text":"MOTORKY","x":-200,"y":-720,"width":120,"height":50},
+		{"id":"336b6e3909d64872","type":"text","text":"## BIKE trenažér","x":400,"y":-240,"width":200,"height":61},
+		{"id":"46cf0f2bf06d8703","type":"text","text":"## MOTO trenažér","x":400,"y":-140,"width":200,"height":61}
+	],
+	"edges":[
+		{"id":"7c997475ebb66977","fromNode":"29330304cc6e6ba9","fromSide":"right","toNode":"336b6e3909d64872","toSide":"left"},
+		{"id":"bc6f2677e38d329a","fromNode":"29330304cc6e6ba9","fromSide":"right","toNode":"46cf0f2bf06d8703","toSide":"left"},
+		{"id":"6a475afef551ebf0","fromNode":"29330304cc6e6ba9","fromSide":"top","toNode":"01740f220f84786c","toSide":"bottom"},
+		{"id":"c0dc0315d2a90b4d","fromNode":"29330304cc6e6ba9","fromSide":"left","toNode":"8cd3e000e6f8a152","toSide":"right"},
+		{"id":"c50d30d1dcbed3d4","fromNode":"0963f5ff01c78f09","fromSide":"top","toNode":"9cf0d88da3666a23","toSide":"bottom"},
+		{"id":"f4a313e9dfaa243a","fromNode":"0963f5ff01c78f09","fromSide":"top","toNode":"51358d0ea26e4c2e","toSide":"bottom"},
+		{"id":"eef2a48343125e63","fromNode":"29330304cc6e6ba9","fromSide":"top","toNode":"0963f5ff01c78f09","toSide":"bottom"},
+		{"id":"f40b138b16c56b19","fromNode":"29330304cc6e6ba9","fromSide":"bottom","toNode":"7f3c83a273b06bfe","toSide":"top"},
+		{"id":"9af8368d8a522418","fromNode":"29330304cc6e6ba9","fromSide":"bottom","toNode":"2969eb43a620356d","toSide":"top"},
+		{"id":"d4254e1f65fc8438","fromNode":"29330304cc6e6ba9","fromSide":"bottom","toNode":"3e458c11b618cdc8","toSide":"top"},
+		{"id":"1f63cd3be5786ce4","fromNode":"29330304cc6e6ba9","fromSide":"bottom","toNode":"aecffd5978d4e234","toSide":"top"},
+		{"id":"645e51486ec165ad","fromNode":"29330304cc6e6ba9","fromSide":"left","toNode":"fe069c83ad743215","toSide":"right"}
+	]
+}
