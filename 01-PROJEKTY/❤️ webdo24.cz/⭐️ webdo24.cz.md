@@ -7,18 +7,59 @@ up:
 
 > [!IMPORTANT]  # Začni **HNED**. Zítra máš **web**.
 
+
+### CUSTOMERS WEBY 
+- Půjčovna horských kol - Krušné hory
+	- doladit rezervační systém a mít ho ready pro další zákazníky
+	- Dát tam i ty cesty ?
+
+
+
+
+
+
+
 ## GENEROVÁNÍ WEBU | ZMĚNY
 - jak naložit s GDPR
-- 
 - certifikát k webu
-- 
+
+---
+- VARIANTY PLATEB
+- [[STRIPE PLATBY]]
+---
+
+# VIDEO z WEBU
+- https://hyperframes.heygen.com/guides/website-to-video
+
+> [!important]
+> ### JEDNODUCHOST  |  **RYCHLOST**  |  BEZPEČÍ
 
 ## WEB ZMĚNY
 - formulář - **POUZE 1 KROK** - ne 2
-- agresivní rytmus notifikací
+- ~~agresivní **rytmus notifikací**~~
 - detail o webu 
 - uvést ZABEZPEČENÍ
+- nabízet **LANDING PAGE**
+- BANER S HLÁŠKAMA
+- SEKCE: Napsali o nás ? 
 - 
+
+
+---
+**~~SEO~~**
+	autor obsahu, 
+	Ikona webu
+	Meta description by měla obsahovat mezi 70 a 160 znaky (včetně mezer).
+	_Web nemá ve zdrojovém kódu uvedenu ikonu nebo ikona nebyla na serveru nalezena._
+	_Web nemá ikonu pro zařízení Apple._
+	Autor obsahu
+	Záhlaří a západní stránky 
+	Hlavní nadpisy, pořadí nadpisů, čárka, počet nadpisů ,  Délka nadpisů., Množství textu 
+	 Poměr textu a HTML 
+	 Robots, Sitemap 
+	 Strojově čitelná data pro vyhledávače Obsahuje chyby - Technologie
+
+
 ---
 
 - mluvit o výsledku , ne o procesu
@@ -26,15 +67,16 @@ up:
 - „Jaký web chceš?“
 - „Zadáš → my vytvoříme → máš hotovo do 24h“
 
-- - „Web do 24h. Hotovo. Bez starostí.“
-„Vypadá skvěle na mobilu i počítači.“
+-  „Web do 24h. Hotovo. Bez starostí.“
+- „Vypadá skvěle na mobilu i počítači.“
+
+
 👉 **„Hotovo bez zdržování.“**
 
-- „Stačí pár vět. O zbytek se postaráme.“
+Váš web je online za 24 hodin. 
+Pokud ne, nemusíte platit. 
 
 Nedodáme do 24h? Vracíme peníze.
-- „Do 24 hodin máte hotový web, který prodává.“
-Ptáš se? Tady máš odpovědi.
 
 - „Žádné složitosti. Jen výsledek.“
 - „Vyplníš krátký formulář. My dodáme hotový web.“
@@ -46,8 +88,20 @@ Ptáš se? Tady máš odpovědi.
 - 2. My vytvoříme web
 - 3. Do 24h ho máš hotový
 
-- - „Do 24 hodin máš hotový web připravený vydělávat“
+1. Napíšeš nám pár vět o webu.
+2. My vytvoříme web do 24 hodin.
+3. Pokud nebudeš spokojený, pošleš nám konkrétní úpravy a my to zapracujeme. 
+
+
+
+ROZDÍL MEZI VERZEMI. 
+
+
+
+
+
 - „Bez schůzek, bez zdržování“
+
 - „Napíšeš zadání → my doručíme výsledek“
 
 - [[KONTROLNÍ PROMPT]]

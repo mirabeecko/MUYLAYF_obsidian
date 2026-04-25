@@ -15,5 +15,7 @@
   "copy-as-source",
   "obsidian-paste-as-html",
   "convert-url-to-iframe",
-  "obsidian-google-tasks"
+  "obsidian-google-tasks",
+  "obsidian-git",
+  "buttons"
 ]

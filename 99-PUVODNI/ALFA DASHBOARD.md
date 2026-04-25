@@ -1,7 +1,26 @@
 ---
 tags:
   - claude_dashboard
+cssclasses:
+  - dashboard
 ---
+
+```button
+name GITHUB Pull 🔄
+type command
+action Git: Pull
+
+```
+
+.
+```button
+name GITHUB push 🔄
+type command
+action Git: Push
+
+```
+
+
 
 # 🎯 ALFA DASHBOARD
 

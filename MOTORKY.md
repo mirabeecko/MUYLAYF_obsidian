@@ -2,8 +2,6 @@
 tags:
   - MOTO
   - VOZOVÝ_PARK
+up:
+  - "[[🚦 Vozový park]]"
 ---
-```dataview
-table category, brand, model, objem, stk, motor, olej, chlazení 
-from #supabase-sync/vehicle 
-```

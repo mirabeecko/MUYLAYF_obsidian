@@ -4,17 +4,12 @@ tags:
   - nodataview
 ---
 ```dataview
-table
-from #VOZOVÝ_PARK 
-
+table category, brand, model, objem, stk, motor, olej, chlazení 
+from #supabase-sync/vehicle 
 ```
 
-#nodataview
+----
 
-```dataview
-table značka, palivo, nádrž, rok, STK, motor
-from #VOZOVÝ_PARK 
-where file.tags != "#nodataview"
-```
+
 
 #claude_vozovypark

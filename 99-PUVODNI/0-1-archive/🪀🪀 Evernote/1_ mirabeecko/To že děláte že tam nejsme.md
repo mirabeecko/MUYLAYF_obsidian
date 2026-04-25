@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - riko
+---
 # To že děláte že tam nejsme
 
 To že děláte že tam nejsme
