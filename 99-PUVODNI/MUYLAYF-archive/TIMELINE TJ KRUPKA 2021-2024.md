@@ -8,7 +8,7 @@ tags:
   - claude_obsidian
 created_date: 2024-10-24
 up:
-  - "[[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]"
+  - "[[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]"
   - "[[⚜ TJK MOC]]"
   - "[[80 🎪 TJ]]"
 ---
@@ -16,7 +16,7 @@ up:
 # TIMELINE TJ KRUPKA 2021-2024
 ## Chronologický přehled všech klíčových událostí
 
-> **📋 Kompletní analýza případu:** [[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
+> **📋 Kompletní analýza případu:** [[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
 
 ---
 
@@ -573,7 +573,7 @@ up:
 - Zpracování timeline
 
 **Vytvořené dokumenty:**
-- [[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
+- [[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
 - [[TIMELINE TJ KRUPKA 2021-2024]] (tento dokument)
 
 **Související dokumenty:**
@@ -758,7 +758,7 @@ Tento timeline dokumentuje **systematické porušování povinností** předsedy
 
 ---
 
-> **📋 Kompletní analýza případu:** [[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
+> **📋 Kompletní analýza případu:** [[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]]
 
 ---
 

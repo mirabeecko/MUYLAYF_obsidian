@@ -37,7 +37,7 @@ up:
 ## 🗂️ HLAVNÍ DOKUMENTY
 
 ### 📘 Klíčové analýzy a shrnutí
-- [[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]] - **⭐ HLAVNÍ DOKUMENT**
+- [[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]] - **⭐ HLAVNÍ DOKUMENT**
 - [[⚜ VYJÁDŘENÍ TJK k 2021-2024]] - Oficiální stanovisko
 - [[⚜ SHRNUTÍ ROKŮ 2021 - 2023]] - Chronologický přehled
 - [[🔥🔥🔥🔥🔥 TJ - ALFA DOC]] - Alfa dokument

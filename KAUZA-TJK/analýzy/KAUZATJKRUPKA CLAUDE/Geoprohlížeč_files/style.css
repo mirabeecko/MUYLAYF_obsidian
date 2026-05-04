@@ -1,0 +1,688 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.body-light {
+    background-color: white;
+}
+
+.esri-view .esri-view-surface--touch-none:focus::after {
+    outline: none !important;
+}
+
+.LLA {
+    padding: 5px;
+}
+
+.coordChoose {
+    margin: 0px 10px 5px 0px;
+}
+
+.coordBase {
+    cursor: pointer;
+    transition-duration: 100ms;
+}
+
+.rowHover::before {
+    content: "\2192\00a0";
+    opacity: 0;
+    visibility: hidden;
+    margin-left: -30px;
+    margin-right: 15px;
+    transition: opacity 0.3s, visibility 0.3s, margin 0.3s;
+}
+
+.rowHover:hover::before {
+    opacity: 1;
+    visibility: visible;
+    margin-left: -15px;
+    margin-right: 0px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 17px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #cacaca;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 17px;
+  }
+
+  .slider-dark {
+    background-color: #000;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 13px;
+    width: 13px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 50%;
+  }
+  
+  input:checked + .slider {
+    background-color: #337ab7;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #337ab7;
+  }
+
+  input:disabled + .slider {
+    background-color: #FF6666;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(13px);
+    -ms-transform: translateX(13px);
+    transform: translateX(13px);
+  }
+
+.widgetLight {
+    background-color: #fff;
+    color: #000;
+    padding: 5px;
+}
+
+.widgetDark {
+    background-color: #4c4c4c;
+    color: #fff;
+    padding: 5px;
+}
+
+.backOnTop {
+    vertical-align: text-bottom;
+}
+
+.back {
+    vertical-align: text-bottom;
+}
+
+.onTop {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 99;
+    background-color: rgba(51, 51, 51, 0.9);
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+}
+
+.onTop:hover {
+    background-color: rgba(51, 51, 51, 1);
+}
+
+#exportKreslitDiv, .mojeMistoToggleDiv {
+    border-left-style: solid;
+    border-left-width: thin;
+    padding-left: 10px;
+    border-left-color: #337ab7;
+}
+
+#panelInfo .esri-icon.esri-icon-map-pin {
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+#panelInfo .info-title {
+    font-size: 20px;
+}
+
+#klientLogo {
+    margin-right: 15px;
+    width: 40px;
+    height: 41px;
+    transition-duration: 100ms;
+}
+
+#klientLogo:hover {
+    filter: drop-shadow(1px 1px 1px #b5b5b5);
+    cursor: pointer;
+}
+
+.fRight {
+    float: right;
+}
+
+.fLeft {
+    float: left;
+}
+
+.mRight {
+    margin-right: 5px;
+}
+
+.mBottom {
+    margin-bottom: 10px;
+}
+
+.mTop {
+    margin-top: 10px;
+}
+
+#settingslangSelect {
+    background-position: 95% 50%;
+}
+
+.expandKm {
+    padding: 0px 3px 2px 0px;
+    transform: rotate(180deg);
+}
+
+#expandKatastr {
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+}
+
+.esri-popup__inline-actions-container>.esri-popup__action, .esri-popup__inline-actions-container:only-child>.esri-popup__action {
+    max-width: 50%;
+}
+
+.esri-popup__header-container {
+    text-align: left;
+}
+
+.form-box {
+    display: flex;
+    margin: 0px 15px;
+    padding: 15px 0;
+    border: 1px solid rgba(255,255,255,.35);
+    background-color: rgba(130,130,130,.1);
+}
+
+.btn-color-close {
+    margin-top: -17px;
+    margin-right: -21px;
+    font-size: 14px;
+    /*color: #828282;*/
+}
+
+    .btn-color-close:hover,
+    .btn-color-close:focus {
+        color: #000;
+    }
+
+.control-padding-top {
+    padding-top: 5px;
+}
+
+.padding-right-none {
+    padding-right: 0;
+}
+
+.info-title {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.hint {
+    float: right;
+    border-bottom: 1px dotted black;
+    cursor: help;
+    font-weight: normal;
+}
+
+#basemapInfoLabel {
+    display: initial;
+}
+
+.badgeOpenData {
+    position: relative !important;
+    top: -10px !important;
+    right: 20px;
+    float: left;
+    margin-right: -70px;
+    font-size: 10px;
+    animation: none;
+}
+
+video::-webkit-media-controls-timeline {
+    align-self: center;
+    width: calc(100% - 64px);
+}
+
+#showTutorial:hover {
+    color: yellow;
+    cursor: pointer;
+}
+
+.kresleniEshopTlacitko:hover {
+    font-weight: bold;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+#hlaseniChybIkonaUpresneni {
+    transition: transform 0.5s ease-out;
+}
+
+#stav_vyjadreni {
+    display: none;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#stav_hlaseni {
+    display: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#stav_vyjadreni_prubeh {
+    animation: infiniteRotate 2s linear infinite;
+    float: right;
+}
+
+#stav_export {
+    float: right;
+    animation: infiniteRotate 2s linear infinite;
+}
+
+#stav_exportAtom {
+    float: right;
+    animation: infiniteRotate 2s linear infinite;
+}
+
+.loadingProgress {    
+    float: right;
+    animation: infiniteRotate 2s linear infinite;
+}
+
+@keyframes visibility {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+#widgetExportAtom {
+    animation: visibility 200ms linear;
+    transition: 0.25s ease-out;
+}
+
+#widgetExport {
+    animation: visibility 200ms linear;
+    transition: 0.25s ease-out;
+}
+
+@keyframes countdown {
+    0% {
+        width: 100%;
+    }
+
+    100% {
+        width: 0%;
+    }
+}
+
+#exportCountdown {
+    margin-top: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #2e6da4;
+    animation: countdown 2000ms linear;
+}
+
+.zoomTo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#widgetMojeMisto {
+    animation: visibility 200ms linear;
+    transition: 0.25s ease-out;
+}
+
+@keyframes infiniteRotate {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.bold:hover {
+    font-weight: bold;
+}
+
+.bold:hover > span {
+    font-weight: bold;
+}
+
+.alert {
+    color: orangered;
+    margin-left: 10px;
+}
+
+.expandOdkaz {
+    cursor: pointer;
+    width: 100%;
+}
+
+.expandOdkaz:hover {
+    font-weight: bold;
+}
+
+.esri-expand__content {
+    z-index: 0;
+}
+
+.produkt {
+    width: 84%;
+    margin-bottom: 5px;
+}
+
+.tdProdukt {
+    padding: 2px;
+    width: 100%;
+}
+
+.produktZab {
+    width: 85%;
+    float: right;
+}
+
+.produktZabAdd {
+    width: 85%;
+    margin-left: 15%;
+}
+
+#zabagedButtons {
+    float: right;
+    width: 90%;
+}
+
+.kompozice {
+    font-size: 18px !important;
+}
+
+#kompoziceZakladniMapy {
+    font-size: 18px !important;
+    height: 325px;
+    width: 100%;
+}
+
+.atom {
+    font-size: 30px;
+    border-right-style: solid;
+    border-right-width: thin;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+#exportAreaAlert {
+    color: red;
+    font-weight: bold;
+    padding: 0px 7px 0px 7px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+.exportAtomSize {
+    margin-left: 5px;
+    float: right;
+}
+
+.exportAtomTime {
+    float: left;
+    margin-right: 5px;
+}
+
+.exportAtomRow {
+    margin-top: 20px;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: lightgrey;
+    display: grid;
+}
+
+#atomContent {
+    max-height: 300px; 
+    overflow-y: auto; 
+    display: block;
+}
+
+.rotate {
+    transform: rotate(180deg);
+}
+
+.esri-popup__header-title {
+    word-break: normal;
+}
+
+#indikaceKresleniProjektu {
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.claro .dijitTooltipContainer {
+    background-color: #333;
+    background-image: none;
+    font-size: 12px;
+    padding: 5px 10px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    opacity: 0.9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+}
+
+.claro .dijitTooltip .dijitTooltipContainer {
+    color: #fff;
+    border: 0 none;
+}
+
+.claro .dijitTooltipConnector {
+    background-image: none;
+    z-index: 2;
+    width: auto;
+    height: auto;
+    opacity: 0.9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+}
+
+.claro .dijitTooltipABRight .dijitTooltipConnector {
+    left: auto !important;
+    right: 10px;
+}
+
+.claro .dijitTooltipBelow {
+    padding-top: 4px;
+}
+
+    .claro .dijitTooltipBelow .dijitTooltipConnector {
+        width: auto;
+        height: auto;
+        top: 0;
+        left: 10px;
+        border-bottom: 4px solid #333;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        border-top: 0;
+    }
+
+.claro .dijitTooltipAbove {
+    padding-bottom: 4px;
+}
+
+    .claro .dijitTooltipAbove .dijitTooltipConnector {
+        width: auto;
+        height: auto;
+        bottom: 0;
+        left: 10px;
+        border-top: 4px solid #333;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        border-bottom: 0;
+    }
+
+.claro .dijitTooltipLeft {
+    padding-right: 4px;
+}
+
+    .claro .dijitTooltipLeft .dijitTooltipConnector {
+        width: auto;
+        height: auto;
+        right: 0;
+        border-left: 4px solid #333;
+        border-bottom: 4px solid transparent;
+        border-top: 4px solid transparent;
+        border-right: 0;
+    }
+
+.claro .dijitTooltipRight {
+    padding-left: 4px;
+}
+
+    .claro .dijitTooltipRight .dijitTooltipConnector {
+        width: auto;
+        height: auto;
+        left: 0;
+        border-bottom: 4px solid transparent;
+        border-top: 4px solid transparent;
+        border-right: 4px solid #333;
+    }
+
+.claro .dijitTooltipDialog .dijitTooltipContainer {
+    background-color: #fff;
+    border: 0 none;
+    padding: 10px 20px;
+    -webkit-box-shadow: 0 7px 3px -4px rgba(0,0,0,0.3), 0 8px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 7px 3px -4px rgba(0,0,0,0.3), 0 8px 8px rgba(0,0,0,0.2);
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+}
+
+.claro .dijitTooltipDialog.dijitTooltipBelow {
+    padding-top: 6px;
+}
+
+.claro .dijitTooltipDialog.dijitTooltipAbove {
+    padding-bottom: 6px;
+}
+
+.claro .dijitTooltipDialog.dijitTooltipLeft {
+    padding-right: 6px;
+}
+
+.claro .dijitTooltipDialog.dijitTooltipRight {
+    padding-left: 6px;
+}
+
+.claro .dijitTooltipDialog .dijitTooltipConnector {
+    height: 0;
+    width: 0;
+    position: absolute;
+    z-index: 2;
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+}
+
+    .claro .dijitTooltipDialog .dijitTooltipConnector:after {
+        content: "";
+        height: 0;
+        width: 0;
+        position: absolute;
+    }
+
+.claro .dijitTooltipDialog.dijitTooltipAbove .dijitTooltipConnector {
+    border-color: #ddd transparent transparent;
+    border-width: 7px 7px 0; 
+    border-style: solid;
+}
+
+    .claro .dijitTooltipDialog.dijitTooltipAbove .dijitTooltipConnector:after {
+        border-color: #fff transparent transparent;
+        border-width: 6px 6px 0;
+        border-style: solid;
+        left: -6px;
+        top: -7px;
+    }
+
+.claro .dijitTooltipDialog.dijitTooltipBelow .dijitTooltipConnector {
+    border-color: transparent transparent #ddd;
+    border-width: 0 7px 7px;
+    border-style: solid;
+}
+
+    .claro .dijitTooltipDialog.dijitTooltipBelow .dijitTooltipConnector:after {
+        border-color: transparent transparent #fff;
+        border-width: 0 6px 6px;
+        border-style: solid;
+        left: -6px;
+        bottom: -7px;
+    }
+
+.claro .dijitTooltipDialog.dijitTooltipLeft .dijitTooltipConnector {
+    border-color: transparent transparent transparent #ddd;
+    border-width: 7px 0 7px 7px;
+    border-style: solid;
+}
+
+    .claro .dijitTooltipDialog.dijitTooltipLeft .dijitTooltipConnector:after {
+        border-color: transparent transparent transparent #fff;
+        border-width: 6px 0 6px 6px;
+        border-style: solid;
+        top: -6px;
+        left: -7px;
+    }
+
+.claro .dijitTooltipDialog.dijitTooltipRight .dijitTooltipConnector {
+    border-color: transparent #ddd transparent transparent;
+    border-width: 7px 7px 7px 0;
+    border-style: solid;
+}
+
+    .claro .dijitTooltipDialog.dijitTooltipRight .dijitTooltipConnector:after {
+        border-color: transparent #fff transparent transparent;
+        border-width: 6px 6px 6px 0;
+        border-style: solid;
+        top: -6px;
+        right: -7px;
+    }

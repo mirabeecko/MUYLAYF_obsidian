@@ -3,19 +3,63 @@ tags:
   - webdo24
 up:
 ---
+
+[[WEBDO24-excalidraw]]
 # FINAL UPRAVY
 
 > [!IMPORTANT]  # Začni **HNED**. Zítra máš **web**.
 
+hero - SLIDER S HLÁŠKAMA 
 
+# Revoluce v tvorbě webu
+# 
+
+# PŘIDAT:
+Komunikujte tak, jak je Vám příjemné..
+	telefonní hovor  |  e-mail  |  whatsapp  |  hlasové zprávy
+
+
+**OMLOUVÁME** SE, ALE MOMENTÁLNĚ MÁME **VYTĚŽENOU** KAPACITU ZE **100%.**
+A NEJSME SCHOPNI DODRŽET TERMÍN 24 hodin.
+
+ZANECHTE KONTAKT 
+a jakmile se kapacita uvolní - informujeme Vás. 
+nezávazně - vyberte si způsob notifikace: 
+
+VYBERTE SI FORMU KOMUNIKACE !
+
+
+[[❤️ the NEW_DIRECTION of SALE]]    |   [[customers_webs]]
 ### CUSTOMERS WEBY 
-- Půjčovna horských kol - Krušné hory
+- **PAVEL** ELEKTRIKÁŘ
+- **Půjčovna** horských kol - Krušné hory
 	- doladit rezervační systém a mít ho ready pro další zákazníky
-	- Dát tam i ty cesty ?
+	- dát tam i ty cesty ?
+- **PADDLEBOARDY** MILADA
+- **NINJA** AKCE
+- **ROCK FOR HUMANS**
+- GIRLS **LONGBOARD** WEEKEND
+
+
+
+---
+
+**in Browser**
+file:///Users/mb/dev/kimi_webdo24/index.html
+
+---
+
+**HLÁŠKY**:
+- ZAČNI HNED A ZÍTRA MÁŠ WEB.
+- 
 
 
 
 
+~~**NOTIFIKACE**~~
+- neuvádět domény - pouze jména zákazníků
+- uvádět pouze existující služby
+- uvádět : dokončeno v čase : 15h 23min apod.
 
 
 

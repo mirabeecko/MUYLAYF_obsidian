@@ -11,6 +11,62 @@ https://drusop.aopk.gov.cz/ost/chrobjekty/evl/index.php?SHOW_ONE=1&ID=13375
 
 ---
 
+- 24.4.2026 - opravena voda
+
+
+### 1. Průvodní dopis
+
+
+**Předmět: Oficiální stanovisko Shromáždění delegátů TJ Krupka z.s. ze dne 26. 4. 2026 – Narovnání vztahů**
+
+Vážení,
+
+navazuji na naši páteční schůzku v lokalitě Komáří vížka a naši předchozí oficiální výzvu ze dne 14. 4. 2026.
+
+Informuji Vás, že včera, **v neděli 26. 4. 2026, proběhlo Shromáždění delegátů TJ Krupka z.s.**, které jako nejvyšší orgán našeho spolku projednalo neudržitelný stav provozu Vaší technologie v našem areálu. Delegáti v rámci jednání přijali následující závazná rozhodnutí:
+
+1. **Ukončení financování cizího provozu:** Spolek jako nezisková organizace, jejíž rozpočet je určen výhradně na sportovní činnost dětí a údržbu areálu, nemá možnosti ani povinnost dotovat provoz a elektrickou energii nadnárodního operátora. Stav, kdy Spolek od 1. 1. 2026 nese veškeré náklady za Vaši technologii ze svého rozpočtu, byl delegáty označen za dále nepřípustný.
+    
+2. **Schválení finálního návrhu smlouvy:** Byla schválena konečná podoba _Smlouvy o zajištění provozu a infrastruktury_ s paušální částkou **30 000 Kč měsíčně**, která reflektuje správu 800m energetické trasy a specifika horského areálu.
+    
+3. **Lhůta pro narovnání vztahů:** Delegáti mi jako statutárnímu orgánu uložili zajistit podpis této smlouvy **ve standardní lhůtě 10 pracovních dnů od doručení tohoto stanoviska.**
+    
+
+Musím konstatovat, že i přes neformální předání revizní zprávy v pátek (bod č. 3 naší výzvy) zůstává ostatních 6 klíčových bodů z 14. 4. 2026 z Vaší strany bez jakékoliv reakce (zejména určení kontaktní osoby, termín opravy poškozené vody, seznam oprávněných osob a harmonogram prací).
+
+**Pokud do uplynutí výše uvedené lhůty 10 pracovních dnů neobdržíme Vámi podepsanou smlouvu, budeme to považovat za potvrzení, že o další součinnost a využívání naší infrastruktury nestojíte. V takovém případě z důvodu ochrany rozpočtu Spolku a absence smluvního krytí pro odběr energií bezprostředně poté ukončíme současný provizorní režim a přistoupíme k technickému oddělení Vaší technologie od našich rozvodů.**
+
+Pokud by pro Vás byly schválené podmínky neakceptovatelné, budeme toto rozhodnutí respektovat. Ukončení spolupráce pro nás bude znamenat vítanou administrativní úlevu a eliminaci provozních rizik.
+
+V příloze zasílám mnou podepsanou smlouvu a vyčíslení nákladů za období od 1. 1. 2026.
+
+S pozdravem,
+
+**Miroslav Brožek** statutární orgán TJ Krupka z.s.
+
+---
+
+Dobrý den,
+
+v návaznosti na páteční schůzku zasílám návrh smlouvy. Naším cílem není vytvářet časový tlak, nicméně musíme konstatovat, že **současný stav, kdy technologie běží bez smluvního krytí a na naše náklady, je důsledkem chybějící včasné koordinace z vaší strany v uplynulém období.**
+
+Vzhledem k tomu, že již čtvrtý měsíc provozujeme lokalitu v právním vakuu, potřebujeme mít o smluvním rámci jasno **nejpozději do 10 pracovních dnů**. Tento termín je nezbytný pro to, abychom mohli garantovat pokračování dodávek energie a součinnosti při výstavbě vašeho nového stožáru.
+
+Věříme, že tento krok vnímáte jako snahu o narovnání vztahů, které mělo proběhnout již dříve.“
+> _„Zkušenosti z minulých období, kdy k finančnímu vypořádání docházelo s víceletým zpožděním a výhradně z iniciativy Spolku, potvrzují, že absentující smluvní rámec je pro obě strany neudržitelný. Spolek již není ochoten přebírat roli neformálního věřitele a nést provozní náklady za komerční subjekt bez jasných pravidel.“_
+
+V příloze naleznete vyčíslení nároků za období od 1. 1. 2026, které vznikly z titulu faktického využívání naší infrastruktury bez smluvního krytí. Řádný daňový doklad Vám bude vystaven obratem po doručení Vámi podepsané smlouvy.
+
+
+
+### 2. Podepsaný návrh smlouvy
+
+
+### 3. Vyčíslení spotřeby za rok 2026 a faktura
+
+
+
+
 
 
 ### Byli jste někdy na schůzi spolku ?  --> **GROTESKA**
@@ -19,8 +75,8 @@ Co jsem po nich chtěl :
 
 - **Požadavky viz. dopis z 14.4.2026**
 	1. určení **kontaktní osoby** pro technické záležitosti a komunikaci,
-	2. sdělení **termínu opravy poškozeného přívodu vody** (preferujeme co nejdříve),
-	3. doložení **dokumentace a revizní zprávy** k provedeným elektroinstalačním zásahům,
+	2. ~~sdělení **termínu opravy poškozeného přívodu vody** (preferujeme co nejdříve),~~
+	3. ~~doložení **dokumentace a revizní zprávy** k provedeným elektroinstalačním zásahům,~~
 	4. **seznam osob** oprávněných k přístupu (v nezbytném rozsahu),
 	5. **přehled technologií** umístěných v objektu a jejich požadavků na příkon (aktuálně i do budoucna),
 	6. **harmonogram plánovaných prací,** aby bylo možné předejít kolizím v provozu areálu,
@@ -31,6 +87,10 @@ Co jsem po nich chtěl :
 Žaludová - odp. pracovník T-Mobile
 Foud?? technik
 [[⭐ Klára Motejlová]] - elektrina@t-mobile.cz
+
+
+
+
 
 ### Dopis T-Mobile ze dne 14.4.2026 
 ```

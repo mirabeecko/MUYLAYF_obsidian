@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podklad – Neuhrazení výchovného a porušení sportovního řádu | TJ Krupka z.s.</title>
+<style>
+  :root {
+    --primary:  #1565c0;
+    --dark:     #0a1628;
+    --mid:      #0d1f3c;
+    --accent:   #1e88e5;
+    --gold:     #f9a825;
+    --red:      #c62828;
+    --green:    #2e7d32;
+    --orange:   #e65100;
+    --light:    #e3f2fd;
+    --border:   #1a3a5c;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #060f1e;
+    color: #d0dbe8;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  /* HEADER */
+  header {
+    background: linear-gradient(135deg, #0d2b5e 0%, #1565c0 50%, #0a1628 100%);
+    padding: 40px 40px 30px;
+    border-bottom: 4px solid var(--gold);
+  }
+  header .badge {
+    display: inline-block; background: rgba(0,0,0,0.35);
+    border: 1px solid var(--gold); color: var(--gold);
+    font-size: 11px; font-weight: 700; letter-spacing: 2px;
+    padding: 4px 12px; border-radius: 3px; margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  header h1 { font-size: 26px; font-weight: 800; line-height: 1.25; }
+  header h1 span { color: var(--gold); }
+  header .subtitle { margin-top: 8px; color: #90b4d8; font-size: 13px; }
+  header .meta { margin-top: 18px; display: flex; gap: 28px; flex-wrap: wrap; }
+  header .meta-item { font-size: 12px; color: #6a8faf; }
+  header .meta-item strong { color: #fff; display: block; font-size: 13px; }
+
+  /* CONTAINER */
+  .container { max-width: 1100px; margin: 0 auto; padding: 30px 30px 60px; }
+
+  /* SECTION HEADERS */
+  .section-header {
+    display: flex; align-items: center; gap: 14px;
+    background: linear-gradient(90deg, var(--mid) 0%, transparent 100%);
+    border-left: 5px solid var(--accent);
+    padding: 14px 20px; margin: 40px 0 20px;
+    border-radius: 0 6px 6px 0;
+  }
+  .section-header .num {
+    background: var(--accent); color: #fff;
+    width: 32px; height: 32px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px; flex-shrink: 0;
+  }
+  .section-header h2 { font-size: 17px; font-weight: 700; color: #fff; }
+
+  /* CARDS */
+  .card {
+    background: var(--mid); border: 1px solid var(--border);
+    border-radius: 8px; padding: 22px 26px; margin-bottom: 18px;
+  }
+  .card h3 { font-size: 15px; font-weight: 700; color: var(--gold); margin-bottom: 12px; }
+  .card p { margin-bottom: 8px; color: #b8c8d8; }
+
+  /* ROLES GRID */
+  .roles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .role-card {
+    background: #0b1a30; border: 1px solid #1a3a5c;
+    border-radius: 8px; padding: 18px 20px;
+  }
+  .role-card.poškozený   { border-left: 5px solid var(--green); }
+  .role-card.obviněný    { border-left: 5px solid var(--red); }
+  .role-card.spolupachatel { border-left: 5px solid var(--orange); }
+  .role-card.svědek      { border-left: 5px solid var(--accent); }
+  .role-card h4 { font-size: 14px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .role-card .role-badge {
+    display: inline-block; font-size: 10px; font-weight: 700;
+    letter-spacing: 1px; text-transform: uppercase; padding: 2px 8px;
+    border-radius: 10px; margin-bottom: 10px;
+  }
+  .role-badge.rb-green  { background: rgba(46,125,50,0.25); color: #66bb6a; border: 1px solid #2e7d32; }
+  .role-badge.rb-red    { background: rgba(198,40,40,0.25); color: #ef5350; border: 1px solid #c62828; }
+  .role-badge.rb-orange { background: rgba(230,81,0,0.25);  color: #ff9800; border: 1px solid #e65100; }
+  .role-badge.rb-blue   { background: rgba(30,136,229,0.25); color: #64b5f6; border: 1px solid #1565c0; }
+  .role-card p { font-size: 12.5px; color: #a0b4c8; margin-bottom: 4px; }
+  .role-card ul { list-style: none; margin-top: 8px; }
+  .role-card ul li { font-size: 12.5px; color: #c0d0e0; padding: 3px 0; border-bottom: 1px solid #1a3a5c; }
+  .role-card ul li::before { content: "▸ "; color: var(--gold); font-size: 10px; }
+
+  /* VIOLATION ITEMS */
+  .violation {
+    background: #0b1a30; border: 1px solid #1a3a5c;
+    border-radius: 8px; margin-bottom: 14px; overflow: hidden;
+  }
+  .violation .v-header {
+    background: linear-gradient(90deg, #0f2540 0%, #0b1a30 100%);
+    padding: 12px 18px; display: flex; align-items: center; gap: 12px;
+    border-bottom: 1px solid #1a3a5c;
+  }
+  .violation .v-num {
+    background: var(--red); color: #fff;
+    min-width: 28px; height: 28px; border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 13px;
+  }
+  .violation .v-title { font-weight: 700; color: #fff; font-size: 14px; }
+  .violation .v-ref { font-size: 11px; color: var(--gold); margin-left: auto; }
+  .violation .v-body { padding: 14px 18px; }
+  .violation .v-body p { font-size: 13px; color: #b8c8d8; margin-bottom: 6px; }
+  .violation .v-evidence {
+    background: rgba(30,136,229,0.08); border: 1px solid rgba(30,136,229,0.2);
+    border-radius: 4px; padding: 8px 12px; margin-top: 8px;
+    font-size: 12px; color: #82b1d6;
+  }
+  .violation .v-evidence::before { content: "📎 Důkaz: "; font-weight: 700; color: var(--accent); }
+  .violation .v-penalty {
+    background: rgba(198,40,40,0.1); border: 1px solid rgba(198,40,40,0.3);
+    border-radius: 4px; padding: 8px 12px; margin-top: 6px;
+    font-size: 12px; color: #ef9a9a;
+  }
+  .violation .v-penalty::before { content: "⚖️ Sankce / Právní základ: "; font-weight: 700; color: #ef5350; }
+
+  /* FINANCIAL TABLE */
+  .fin-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+  .fin-table th {
+    background: #060f1e; color: var(--gold);
+    padding: 10px 14px; text-align: left; font-size: 12px;
+    letter-spacing: 1px; text-transform: uppercase;
+    border-bottom: 2px solid var(--border);
+  }
+  .fin-table td { padding: 9px 14px; border-bottom: 1px solid #1a3a5c; font-size: 13px; }
+  .fin-table tr:hover td { background: rgba(255,255,255,0.02); }
+  .fin-table .total { font-weight: 700; color: var(--red); font-size: 14px; }
+  .fin-table tfoot td { background: #060f1e; }
+  .fin-table .red  { color: #ef5350; }
+  .fin-table .gold { color: var(--gold); }
+  .fin-table .grn  { color: #66bb6a; }
+
+  /* TIMELINE */
+  .timeline { position: relative; padding-left: 30px; }
+  .timeline::before { content: ''; position: absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: var(--border); }
+  .tl-item { position: relative; margin-bottom: 18px; }
+  .tl-item::before {
+    content: ''; position: absolute; left: -26px; top: 6px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent); border: 2px solid #060f1e;
+  }
+  .tl-item.key::before { background: var(--gold); width: 14px; height: 14px; left: -28px; }
+  .tl-item .date { font-size: 11px; color: var(--gold); font-weight: 700; text-transform: uppercase; }
+  .tl-item .desc { font-size: 13px; color: #b8c8d8; margin-top: 3px; }
+
+  /* ARTICLE BLOCK */
+  .article-block {
+    background: #0a1628; border-left: 3px solid var(--gold);
+    padding: 12px 16px; margin: 10px 0; border-radius: 0 6px 6px 0;
+    font-size: 12.5px; color: #90b4d8;
+  }
+  .article-block strong { color: var(--gold); }
+
+  /* SUMMARY BOX */
+  .summary-box {
+    background: linear-gradient(135deg, #0a1a35 0%, #091426 100%);
+    border: 2px solid var(--accent); border-radius: 10px;
+    padding: 26px 30px; margin: 30px 0;
+  }
+  .summary-box h3 { color: var(--accent); font-size: 17px; margin-bottom: 16px; }
+  .summary-box .s-row { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 12px; }
+  .summary-box .s-row .icon { font-size: 18px; flex-shrink: 0; }
+  .summary-box .s-row p { font-size: 13px; color: #b8c8d8; }
+
+  /* PILL */
+  .pill { display: inline-block; padding: 2px 9px; border-radius: 12px; font-size: 11px; font-weight: 700; }
+  .pill-red    { background: rgba(198,40,40,0.2); color: #ef5350; border: 1px solid #c62828; }
+  .pill-gold   { background: rgba(249,168,37,0.15); color: var(--gold); border: 1px solid #f9a825; }
+  .pill-blue   { background: rgba(30,136,229,0.15); color: #64b5f6; border: 1px solid #1565c0; }
+  .pill-green  { background: rgba(46,125,50,0.15); color: #66bb6a; border: 1px solid #2e7d32; }
+
+  .hl-red  { color: #ef5350; font-weight: 600; }
+  .hl-gold { color: var(--gold); font-weight: 600; }
+  .hl-grn  { color: #66bb6a; font-weight: 600; }
+
+  /* ODDIL SECTIONS */
+  .oddil-header {
+    background: linear-gradient(90deg, #0f2540, transparent);
+    border-left: 5px solid var(--gold);
+    padding: 10px 18px; margin: 20px 0 14px;
+    border-radius: 0 4px 4px 0;
+    font-size: 15px; font-weight: 700; color: #fff;
+  }
+
+  footer {
+    background: var(--dark); border-top: 2px solid var(--border);
+    padding: 24px 40px; text-align: center; font-size: 11px; color: #4a6a8a;
+  }
+  footer strong { color: #6a8faf; }
+
+  @media (max-width: 700px) {
+    .roles-grid { grid-template-columns: 1fr; }
+    header { padding: 24px 16px; }
+    .container { padding: 20px 14px 40px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Interní právní podklad · Důvěrné</div>
+  <h1>Podklad pro trestní oznámení<br><span>Neuhrazení výchovného · Porušení sportovního řádu TJ Krupka</span></h1>
+  <div class="subtitle">Tělovýchovná jednota Krupka z.s. · IČO 763586 · Přítkovská 95/2, Proboštov</div>
+  <div class="meta">
+    <div class="meta-item"><strong>Poškozený</strong>TJ Krupka z.s.</div>
+    <div class="meta-item"><strong>Zodpovědné osoby</strong>Vaniš, Vlach, M. Kulík, Pivoňka</div>
+    <div class="meta-item"><strong>Celkové výchovné – neuhrazeno</strong>1 357 600 Kč</div>
+    <div class="meta-item"><strong>Dotčené oddíly</strong>Stolní tenis · Lyžování · Karate</div>
+    <div class="meta-item"><strong>Dokument generován</strong>březen 2026</div>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- I. CO JE VÝCHOVNÉ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">I</div>
+    <h2>Definice výchovného – právní a sportovní rámec</h2>
+  </div>
+
+  <div class="card">
+    <h3>A) Výchovné v kontextu TJ Krupka z.s.</h3>
+    <p>
+      V rámci sportovního spolku je <strong>výchovné</strong> (také nazývané <em>příspěvky sekcí mateřskému spolku</em>
+      nebo <em>oddílové příspěvky</em>) povinná finanční odvod, který každý sportovní oddíl (sekce)
+      odvádí mateřské tělovýchovné jednotě za:
+    </p>
+    <ul style="list-style:disc; margin: 10px 0 10px 22px; color:#b8c8d8; font-size:13px;">
+      <li>Zajištění sportovní infrastruktury a prostor (haly, sjezdovky, tělocvičny)</li>
+      <li>Správu a provoz společného majetku TJ</li>
+      <li>Administrativní, účetní a právní zázemí TJ pro všechny oddíly</li>
+      <li>Pojištění členů, registrace v národních federacích</li>
+      <li>Výchovu a rozvoj sportovců — systematická péče o mládež</li>
+    </ul>
+    <p>
+      Stanovy TJ Krupka z.s. ukládají každé sekci povinnost odvádět pravidelné příspěvky výboru TJ.
+      Výše je určena rozhodnutím výboru nebo valné hromady a platí pro všechny oddíly závazně.
+    </p>
+    <div class="article-block">
+      <strong>Stanovy TJ Krupka z.s. — příslušná ustanovení:</strong> povinnost placení příspěvků je zakotvenav § 3 a § 6 stanov;
+      § 3 odst. 4 písm. c) stanoví zánik členství při neplacení příspěvků; výše příspěvků určena rozhodnutím výboru po VH.
+    </div>
+    <p style="margin-top:10px">
+      <strong>Právní základ bezdůvodného obohacení</strong> při neodvedení výchovného: zákon č. 89/2012 Sb. (NOZ),
+      § 2991 a násl. — kdo se na úkor jiného obohatí bez spravedlivého důvodu, vydá mu, oč se obohatil.
+      Při vědomém neodvedení příspěvků dochází k naplnění skutkové podstaty bezdůvodného obohacení
+      a při existenci úmyslu i ke zpronevěře (§ 206 TZ) nebo podvodu (§ 209 TZ).
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>B) Výchovné v kontextu sportovních svazů</h3>
+    <p>
+      Vedle interního výchovného existuje <strong>výchovné dle sportovního řádu</strong> jednotlivých národních
+      sportovních svazů (pro stolní tenis: ČAST, pro lyžování: SLČR, pro karate: ČSKe). Toto výchovné
+      se vyplácí mateřskému oddílu při přestupu sportovce do jiného oddílu a kompenzuje investici
+      do výchovy sportovce.
+    </p>
+    <p>
+      V kauze TJK je klíčové <span class="hl-gold">interní výchovné</span> (příspěvky sekcí TJ),
+      přičemž porušení národních sportovních řádů tvoří doplňující rozměr. Oddílové vedení,
+      které odmítalo odvádět příspěvky TJ, porušovalo jak stanovy TJ, tak interní předpisy svazů
+      o povinnosti vůči mateřské organizaci.
+    </p>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- II. ROLE AKTÉRŮ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">II</div>
+    <h2>Role aktérů v kauze – výchovné a sportovní řád</h2>
+  </div>
+
+  <div class="roles-grid">
+
+    <div class="role-card poškozený">
+      <h4>TJ Krupka z.s.</h4>
+      <div class="role-badge rb-green">Poškozený subjekt</div>
+      <p><strong>IČO:</strong> 763586 | <strong>Sídlo:</strong> Přítkovská 95/2, Proboštov</p>
+      <p><strong>Předseda:</strong> Miroslav Brožek (zvolený 24.8.2021)</p>
+      <ul>
+        <li>Mateřský spolek — vlastník infrastruktury (prostory, majetek)</li>
+        <li>Poskytovatel zázemí pro všechny 3 oddíly</li>
+        <li>Hradil energie, pojištění, provoz — bez náhrady od oddílů</li>
+        <li>Celková způsobená škoda: min. 2 045 635 Kč</li>
+        <li>Povinný subjekt vůči LESY ČR a poskytovateli grantu NSA</li>
+      </ul>
+    </div>
+
+    <div class="role-card obviněný">
+      <h4>Ing. Marek Vaniš</h4>
+      <div class="role-badge rb-red">Hlavní obviněný – Stolní tenis</div>
+      <p><strong>Funkce v TJ:</strong> Místopředseda (zvolený 24.8.2021)</p>
+      <p><strong>Funkce v oddíle:</strong> Tvrzený předseda oddílu stolní tenis</p>
+      <p><strong>Status:</strong> <span class="hl-red">Vyloučen 28.11.2023</span></p>
+      <ul>
+        <li>Nepředal evidenci členů stolního tenisu (termin 26.9.2021)</li>
+        <li>Neodvedl příspěvky sekcí za 3 roky: 518 400 Kč</li>
+        <li>Neodvedl členské příspěvky: 48 000 Kč</li>
+        <li>Nezajistil platby za energie: 43 466 Kč</li>
+        <li>Neposkytl vyúčtování grantu NSA 2022</li>
+        <li>Dezinformoval rodiče (04–11/2023) o vedení TJ</li>
+        <li>Neoprávněně podával návrhy na rejstříkový soud jako „statutár"</li>
+        <li>Podal žalobu 39 dní po uplynutí prekluzivní lhůty</li>
+      </ul>
+    </div>
+
+    <div class="role-card obviněný">
+      <h4>Gustav Vlach</h4>
+      <div class="role-badge rb-red">Hlavní obviněný – Lyžování</div>
+      <p><strong>Funkce v TJ:</strong> Člen výboru (zvolený 24.8.2021)</p>
+      <p><strong>Funkce v oddíle:</strong> Předseda oddílu lyžování (ski)</p>
+      <p><strong>Status:</strong> <span class="hl-red">Členství ukončeno 15.12.2023</span></p>
+      <ul>
+        <li>Nepředal evidenci členů lyžování (termin 26.9.2021)</li>
+        <li>Zadržel hotovost pokladny 132 523 Kč (přiznal při výslechu)</li>
+        <li>Neodvedl příspěvky sekcí za 4 roky: 379 200 Kč</li>
+        <li>Neodvedl členské příspěvky: 63 200 Kč</li>
+        <li>Nezajistil platby energií: 256 455 Kč</li>
+        <li>Způsobil pokutu LESY ČR 280 000 Kč za bezdůvodné obohacení</li>
+        <li>Vydíral TJ — žádal 575 623 Kč (6.11.2023)</li>
+        <li>Neoprávněně navrhoval výmaz předsedy z rejstříku (2025)</li>
+      </ul>
+    </div>
+
+    <div class="role-card obviněný">
+      <h4>Martin Kulík</h4>
+      <div class="role-badge rb-red">Hlavní obviněný – Karate</div>
+      <p><strong>Funkce v oddíle:</strong> Tvrzený předseda oddílu karate</p>
+      <p><strong>Status:</strong> <span class="hl-red">Členství ukončeno – neplacení příspěvků</span></p>
+      <ul>
+        <li>Nepředal evidenci členů karate (termin 26.9.2021)</li>
+        <li>Neodvedl příspěvky sekcí za 3 roky: 316 800 Kč</li>
+        <li>Neodvedl členské příspěvky: 32 000 Kč</li>
+        <li>Odmítl součinnost při předání podkladů</li>
+        <li>Podal žalobu 6 dní po uplynutí prekluzivní lhůty</li>
+      </ul>
+    </div>
+
+    <div class="role-card spolupachatel">
+      <h4>Jaromír Pivoňka</h4>
+      <div class="role-badge rb-orange">Spolupachatel</div>
+      <p><strong>Funkce:</strong> Člen výboru oddílu stolní tenis</p>
+      <p><strong>Status:</strong> <span class="hl-red">Vyloučen 28.11.2023</span></p>
+      <ul>
+        <li>Spolupracoval s Vanišem na obstrukci předání majetku</li>
+        <li>Podílel se na odmítání součinnosti s výborem TJ</li>
+        <li>Podal žalobu 39 dní po prekluzivní lhůtě (solidárně s Vanišem)</li>
+        <li>Prekluzivní lhůta marně uplynula 28.2.2024</li>
+      </ul>
+    </div>
+
+    <div class="role-card spolupachatel">
+      <h4>Jitka Illéšová</h4>
+      <div class="role-badge rb-orange">Spolupachatel / Účetní</div>
+      <p><strong>Funkce:</strong> Účetní TJ Krupka (2021)</p>
+      <ul>
+        <li>Odmítla uzavřít účetnictví za rok 2021 navzdory povinnosti</li>
+        <li>Přijala odměnu 30 000 Kč — výkon neposkytla</li>
+        <li>Předala dokumenty TJ třetím osobám bez oprávnění</li>
+        <li>Blokáda účetnictví znesnadnila dokazování výše škody</li>
+      </ul>
+    </div>
+
+    <div class="role-card svědek">
+      <h4>Miroslav Brožek (předseda TJ)</h4>
+      <div class="role-badge rb-blue">Poškozená osoba / Svědek</div>
+      <p><strong>Narozen:</strong> 23.6.1987</p>
+      <p><strong>Funkce:</strong> Předseda TJ Krupka od 24.8.2021</p>
+      <ul>
+        <li>Opakovaně písemně žádal o předání evidencí a odvedení příspěvků</li>
+        <li>Podal trestní oznámení schválené VH 25.1.2024</li>
+        <li>Neoprávněně vymazán z rejstříku na základě návrhu Vlache (6.8.2025) — odvolání probíhá</li>
+        <li>Klíčový svědek průběhu všech relevantních událostí 2021–2026</li>
+      </ul>
+    </div>
+
+    <div class="role-card svědek">
+      <h4>Jan Kuzma (starosta Krupky)</h4>
+      <div class="role-badge rb-blue">Svědek</div>
+      <ul>
+        <li>Přítomen na VH 24.8.2021 — potvrzuje řádnou volbu</li>
+        <li>Svědectví o přijetí funkcí a povinností zvolenými osobami</li>
+        <li>Svědectví o vědomosti o pravidlech TJ ze strany oddílů</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- III. FINANČNÍ VYČÍSLENÍ NEUHRAZENÉHO VÝCHOVNÉHO -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">III</div>
+    <h2>Finanční vyčíslení neuhrazeného výchovného a příspěvků</h2>
+  </div>
+
+  <!-- STOLNÍ TENIS -->
+  <div class="oddil-header">⚪ Oddíl stolní tenis — zodpovědná osoba: Ing. Marek Vaniš</div>
+  <table class="fin-table">
+    <thead><tr>
+      <th>Položka</th><th>Počet členů</th><th>Sazba</th><th>Roky</th><th>Dluh</th>
+    </tr></thead>
+    <tbody>
+      <tr><td>Oddílové příspěvky (výchovné)</td><td>60</td><td>2 400 Kč/rok</td><td>3 roky (2021–2023)</td><td class="red">432 000 Kč</td></tr>
+      <tr><td>Oddílové příspěvky (2024)</td><td>60</td><td>2 400 Kč</td><td>1 rok</td><td class="red">86 400 Kč</td></tr>
+      <tr><td>Členské příspěvky</td><td>60</td><td>200 Kč/rok</td><td>4 roky</td><td class="red">48 000 Kč</td></tr>
+      <tr><td>Elektřina (neuhrazená)</td><td colspan="3">Dle výkazu spotřeby</td><td class="red">10 415 Kč</td></tr>
+      <tr><td>Plyn (neuhrazený)</td><td colspan="3">Dle výkazu spotřeby</td><td class="red">33 051 Kč</td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td class="total" colspan="4">Celkem – oddíl stolní tenis</td><td class="total">609 866 Kč</td></tr>
+    </tfoot>
+  </table>
+
+  <!-- LYŽOVÁNÍ -->
+  <div class="oddil-header">⛷️ Oddíl lyžování (ski) — zodpovědná osoba: Gustav Vlach</div>
+  <table class="fin-table">
+    <thead><tr>
+      <th>Položka</th><th>Počet členů</th><th>Sazba</th><th>Roky</th><th>Dluh</th>
+    </tr></thead>
+    <tbody>
+      <tr><td>Oddílové příspěvky (výchovné)</td><td>79</td><td>1 200 Kč/rok</td><td>4 roky</td><td class="red">379 200 Kč</td></tr>
+      <tr><td>Členské příspěvky</td><td>79</td><td>200 Kč/rok</td><td>4 roky</td><td class="red">63 200 Kč</td></tr>
+      <tr><td>Elektřina (neuhrazená)</td><td colspan="3">Dle výkazu spotřeby</td><td class="red">256 455 Kč</td></tr>
+      <tr><td>Zadržená hotovost pokladny</td><td colspan="3">Přiznáno při výslechu</td><td class="red">132 523 Kč</td></tr>
+      <tr><td>Pokuta LESY ČR</td><td colspan="3">Bezdůvodné obohacení – sjezdovka</td><td class="red">280 000 Kč</td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td class="total" colspan="4">Celkem – oddíl lyžování</td><td class="total">1 111 378 Kč</td></tr>
+    </tfoot>
+  </table>
+
+  <!-- KARATE -->
+  <div class="oddil-header">🥋 Oddíl karate — zodpovědná osoba: Martin Kulík</div>
+  <table class="fin-table">
+    <thead><tr>
+      <th>Položka</th><th>Počet členů</th><th>Sazba</th><th>Roky</th><th>Dluh</th>
+    </tr></thead>
+    <tbody>
+      <tr><td>Oddílové příspěvky (výchovné)</td><td>40</td><td>3 600 Kč/rok</td><td>3 roky</td><td class="red">316 800 Kč</td></tr>
+      <tr><td>Členské příspěvky</td><td>40</td><td>200 Kč/rok</td><td>4 roky</td><td class="red">32 000 Kč</td></tr>
+      <tr><td>Energie (karate)</td><td colspan="3">Dle výkazu</td><td class="grn">0 Kč (uhrazeno)</td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td class="total" colspan="4">Celkem – oddíl karate</td><td class="total">348 800 Kč</td></tr>
+    </tfoot>
+  </table>
+
+  <div class="card" style="margin-top:20px">
+    <h3>Rekapitulace celkového neuhrazeného výchovného</h3>
+    <table class="fin-table">
+      <thead><tr><th>Oddíl</th><th>Výchovné (přísp. sekcí)</th><th>Čl. příspěvky</th><th>Energie + ostatní</th><th>CELKEM</th></tr></thead>
+      <tbody>
+        <tr><td>Stolní tenis (Vaniš)</td><td class="red">518 400 Kč</td><td class="red">48 000 Kč</td><td class="red">43 466 Kč</td><td class="red">609 866 Kč</td></tr>
+        <tr><td>Lyžování (Vlach)</td><td class="red">379 200 Kč</td><td class="red">63 200 Kč</td><td class="red">668 978 Kč</td><td class="red">1 111 378 Kč</td></tr>
+        <tr><td>Karate (M. Kulík)</td><td class="red">316 800 Kč</td><td class="red">32 000 Kč</td><td class="grn">0 Kč</td><td class="red">348 800 Kč</td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td class="total">CELKOVÁ NEUHRAZENÁ POHLEDÁVKA TJ</td><td class="total">1 214 400 Kč</td><td class="total">143 200 Kč</td><td class="total">712 444 Kč</td><td class="total">2 070 044 Kč</td></tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- IV. PORUŠENÍ SPORTOVNÍHO ŘÁDU – DETAILNÍ BODY -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">IV</div>
+    <h2>Detailní body porušení sportovního řádu TJ Krupka</h2>
+  </div>
+
+  <div class="card">
+    <p>Níže jsou uvedena konkrétní porušení stanov TJ Krupka z.s., vnitřního sportovního řádu a obecně závazných předpisů, k nimž docházelo systematicky v průběhu let 2021–2025 ze strany předsedů a členů výborů oddílů.</p>
+  </div>
+
+  <!-- PORUŠENÍ 1 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">1</div>
+      <div class="v-title">Nepředání evidencí členů oddílů výboru TJ</div>
+      <div class="v-ref">§ 3 stanov TJ · Čl. 6 sportovního řádu</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Stanovy TJ Krupka ukládají každému předsedovi oddílu povinnost předat aktuální evidenci členů výboru TJ po každé volbě orgánů i na výzvu výboru. Na VH 24.8.2021 bylo výslovně dohodnuto předání do <strong>26.9.2021</strong>.</p>
+      <p><strong>Faktický stav:</strong> Vaniš (stolní tenis), Vlach (lyžování) a M. Kulík (karate) <span class="hl-red">ani jeden</span> nepředali evidence ve stanoveném termínu. MB zaslal písemnou výzvu 13.9.2021. Bez odezvy. Výzva opakována 10.12.2021 — opět bez odezvy.</p>
+      <p><strong>Důsledek:</strong> TJ ztratila přehled o počtech aktivních členů, nemohla správně účtovat příspěvky, prokazovat plnění podmínek dotací a hlásit správné počty do národních svazů.</p>
+      <div class="v-evidence">Písemné výzvy MB z 13.9.2021 a 10.12.2021 (archiv TJ), zápis z VH 24.8.2021 s dohodou o lhůtě.</div>
+      <div class="v-penalty">§ 3 odst. 4 stanov TJ: toto porušení je výslovně uvedeno jako důvod k vyloučení. § 231 NOZ: povinnost člena orgánu k loajálnímu výkonu funkce. § 206 TZ: neoprávněné zadržení svěřené věci (evidence je majetkem TJ).</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 2 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">2</div>
+      <div class="v-title">Neodvádění oddílových příspěvků (výchovného) mateřské TJ</div>
+      <div class="v-ref">§ 6 stanov TJ · § 2991 NOZ · § 206 TZ</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Každý oddíl je povinen dle stanov odvádět výboru TJ schválené oddílové příspěvky za každého registrovaného člena. Sazby: stolní tenis 2 400 Kč/člen/rok, lyžování 1 200 Kč/člen/rok, karate 3 600 Kč/člen/rok.</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li><strong>Oddíl stolní tenis:</strong> neuhrazeno za roky 2021–2024 celkem <span class="hl-red">518 400 Kč</span></li>
+        <li><strong>Oddíl lyžování:</strong> neuhrazeno za roky 2020–2024 celkem <span class="hl-red">379 200 Kč</span></li>
+        <li><strong>Oddíl karate:</strong> neuhrazeno za roky 2021–2023 celkem <span class="hl-red">316 800 Kč</span></li>
+      </ul>
+      <p><strong>Důsledek:</strong> TJ musela provoz (pronájmy, pojištění, administrativa) hradit z vlastního rozpočtu bez příspěvků oddílů. Kumulovaný dluh <span class="hl-red">1 214 400 Kč</span>.</p>
+      <div class="v-evidence">Interní výkaz příspěvků TJ (archiv), výpis z bankovního účtu TJ prokazující absenci plateb, databáze registrovaných členů dle národních svazů.</div>
+      <div class="v-penalty">§ 2991 NOZ: bezdůvodné obohacení — obohacení se na úkor TJ. § 206 TZ: zpronevěra — přisvojení finančních prostředků, které měly být odvedeny. § 209 TZ: podvod (viz samostatný podklad TO). Soukromoprávní žaloba na zaplacení.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 3 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">3</div>
+      <div class="v-title">Zadržení hotovosti pokladny oddílu (Vlach – lyžování)</div>
+      <div class="v-ref">§ 206 TZ – Zpronevěra · § 2991 NOZ</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Finanční prostředky v pokladně oddílu jsou majetkem TJ Krupka z.s., nikoli fyzické osoby předsedy oddílu. Po ukončení funkce předseda je povinen pokladnu neprodleně předat výboru TJ.</p>
+      <p><strong>Faktický stav:</strong> Gustav Vlach při výslechu <span class="hl-red">přiznal zadržení 26 674 Kč hotovosti</span> z pokladny oddílu lyžování po ukončení svého členství. Stav pokladny k 31.12.2020 byl 132 523 Kč — celý zůstatek nebyl předán.</p>
+      <p><strong>Výzva:</strong> TJ zaslala Vlachovi předžalobní výzvu 6.11.2023 s požadavkem vrácení pokladny (132 523 Kč) a dalších částek — Vlach nereagoval.</p>
+      <div class="v-evidence">Protokol z policejního výslechu Vlache (přiznání 26 674 Kč), předžalobní výzva TJ ze 6.11.2023, interní pokladní výkaz k 31.12.2020.</div>
+      <div class="v-penalty">§ 206 TZ: zpronevěra (svěřená věc — pokladna TJ). Přiznání hotovosti při výslechu = přímý důkaz. Výše přesahující 50 000 Kč → kvalifikovaná skutková podstata.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 4 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">4</div>
+      <div class="v-title">Neuhrazení nákladů na energie za provoz oddílových prostor</div>
+      <div class="v-ref">Nájemní smlouvy · § 2205 NOZ · Interní předpis TJ</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Oddíly využívající prostory TJ jsou povinny se podílet na energetických nákladech dle interního klíče. Oddíl neplatí tržní nájemné, ale hradí poměrnou část energií.</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li><strong>Stolní tenis (Vaniš):</strong> elektřina <span class="hl-red">10 415 Kč</span> + plyn <span class="hl-red">33 051 Kč</span> = 43 466 Kč</li>
+        <li><strong>Lyžování (Vlach):</strong> elektřina areálu <span class="hl-red">256 455 Kč</span></li>
+        <li><strong>Karate:</strong> energie uhrazeny — porušení nenastalo</li>
+      </ul>
+      <p>TJ tyto náklady hradila z vlastního rozpočtu, čímž docházelo k přímému majetkovému poškození TJ a obohacení oddílů.</p>
+      <div class="v-evidence">Faktury za energie adresované TJ (archiv TJ), interní alokační tabulka nákladů, bankovní výpisy TJ.</div>
+      <div class="v-penalty">§ 2991 NOZ: bezdůvodné obohacení. Soukromoprávní nárok na úhradu. Doplňující znak k podvodu § 209 TZ — součást celkové škody.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 5 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">5</div>
+      <div class="v-title">Nevyúčtování grantu NSA 2022 (Vaniš)</div>
+      <div class="v-ref">Smlouva o poskytnutí dotace · zákon č. 218/2000 Sb.</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Vaniš jako místopředseda TJ a správce oddílu stolní tenis spravoval grant přidělený Národní sportovní agenturou (NSA) v roce 2022. Dle podmínek grantu a stanov TJ byl povinen řádně vyúčtovat použití grantových prostředků.</p>
+      <p><strong>Faktický stav:</strong> Vyúčtování grantu NSA za rok 2022 <span class="hl-red">nebylo Vanišem předáno</span> výboru TJ ani poskytovateli grantu. TJ Krupka se tím dostala do odpovědnostní pozice — jako příjemce dotace nese odpovědnost za vrácení při nevyúčtování.</p>
+      <p><strong>Výše:</strong> Přesná výše grantu zjišťována — nutno vyžádat od NSA a z dokumentace TJ.</p>
+      <div class="v-evidence">Grantová smlouva TJ–NSA (archiv TJ nebo NSA), výpis z účtu TJ za 2022, absence vyúčtovacích dokumentů v archivu TJ.</div>
+      <div class="v-penalty">§ 44 zákona č. 218/2000 Sb. (rozpočtová pravidla): povinnost vyúčtování dotace. § 44a: vratka nevyúčtovaných prostředků. § 220 TZ: zkreslování údajů o stavu hospodaření. § 209 TZ: podvod vůči TJ i poskytovateli dotace.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 6 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">6</div>
+      <div class="v-title">Neoprávněná přeměna zámků v prostorách TJ (19.1.2023)</div>
+      <div class="v-ref">§ 208 TZ – Porušení domovní svobody · § 207 TZ – Neoprávnené užívání cizí věci</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Dne 19.1.2023 byl proveden neoprávněný zásah do prostorů TJ Krupka — přeměna zámků bez souhlasu a vědomí výboru TJ (předsedy Brožka). Tím byl výboru TJ znemožněn přístup do vlastní nemovitosti.</p>
+      <p><strong>Faktický stav:</strong> Akt byl proveden v přímé souvislosti s eskalací sporu o vedení TJ. Pachatelé si tím zajistili faktickou kontrolu nad prostory navzdory tomu, že výbor TJ je právně legitimním správcem nemovitosti.</p>
+      <p><strong>Důsledek:</strong> TJ nemohla přistupovat k vlastnímu majetku, sportovnímu vybavení, dokumentaci a provozním prostorám. Sportovci a trenéři bez přístupu k zázemí.</p>
+      <div class="v-evidence">Oznámení o přeměně zámků (svědecké výpovědi, fotodokumentace), korespondence MB z té doby (datové schránky), případné záznamy zámečníka.</div>
+      <div class="v-penalty">§ 208 TZ: porušení domovní svobody (neoprávněný vstup a znemožnění přístupu oprávněným osobám). § 207 TZ: neoprávněné užívání cizí věci (prostory ve správě TJ). Trestní oznámení lze podat i samostatně pro tento skutek.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 7 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">7</div>
+      <div class="v-title">Neoprávněné zastupování TJ jako statutární orgán (Vaniš)</div>
+      <div class="v-ref">§ 164 NOZ · § 230 NOZ · § 181 TZ – Poškozování cizích práv</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Dle stanov TJ a zápisu z OR je jediným statutárním zástupcem TJ předseda — Miroslav Brožek. Místopředseda zastupuje pouze se souhlasem předsedy nebo v zákonem vymezených případech. Vaniš jako místopředseda tento souhlas nikdy neobdržel.</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li>Vaniš podal návrh na rejstříkový soud jako „statutární orgán" TJ (30.4.2024, sp. zn. Fj 24406/2024/KSUL)</li>
+        <li>Soud návrh zastavil 17.5.2024 — Vaniš není statutárním zástupcem</li>
+        <li>Vaniš informoval rodiče sportovců (04–11/2023), že zastupuje TJ a bude odvolávat předsedu</li>
+        <li>Vaniš bez oprávnění komunikoval s třetími osobami jménem TJ</li>
+      </ul>
+      <p><strong>Důsledek:</strong> Poškození dobré pověsti TJ, způsobení nejistoty u rodičů sportovců a výpadek příjmů z členských příspěvků (rodiče neplatili, čekali na „změnu vedení").</p>
+      <div class="v-evidence">Usnesení KS Ústí n.L. ze 17.5.2024 (JUDr. Sviták) — Vaniš zastaven pro chybějící oprávnění. Výpovědi rodičů o telefonátech Vaniše. Datové zprávy s návrhy podanými Vanišem.</div>
+      <div class="v-penalty">§ 164 NOZ: zástupci právnické osoby mohou jednat jen v rozsahu svého oprávnění. § 181 TZ: poškozování cizích práv (poškozuje TJ tím, že ji falešně zastupuje). § 209 TZ: podvod vůči třetím osobám (rodiče, soud). Kárné řízení v rámci oddílu.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 8 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">8</div>
+      <div class="v-title">Podání žalob po uplynutí prekluzivní lhůty (§ 259 NOZ)</div>
+      <div class="v-ref">§ 259 NOZ – Prekluzivní lhůta · § 181 TZ · § 151 TŘ – Zneužití soudního řízení</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Dle § 259 NOZ musí člen spolku podat žalobu na neplatnost rozhodnutí orgánu spolku do 3 měsíců od doručení rozhodnutí nebo od chvíle, kdy se o rozhodnutí dozvěděl. Po uplynutí této prekluzivní lhůty zaniká právo na soudní přezkum.</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li><strong>Vaniš a Pivoňka:</strong> vyloučeni 28.11.2023, prekluzivní lhůta uplynula <strong>28.2.2024</strong>. Žalobu podali <strong>8.4.2024 — 39 dní po lhůtě</strong> (sp. zn. 68 Cm 87/2024)</li>
+        <li><strong>Vlach a M. Kulík:</strong> členství ukončeno 15.12.2023, prekluzivní lhůta uplynula <strong>cca 15.3.2024</strong>. Žalobu podali <strong>3.4.2024 — 19 dní po lhůtě</strong> (sp. zn. 68 Cm 85/2024)</li>
+      </ul>
+      <p><strong>Důsledek:</strong> Přestože žaloby byly podány po lhůtě, způsobily TJ značné náklady na právní zastoupení, časové vytížení vedení a poškozování dobré pověsti TJ ve vztahu k třetím osobám. Vědomé podání opožděné žaloby lze kvalifikovat jako šikanózní výkon práva.</p>
+      <div class="v-evidence">Datové zprávy o doručení rozhodnutí o vyloučení (28.11.2023) a ukončení členství (23.12.2023). Podatelny krajského soudu — datum podání žalob (3.4.2024 a 8.4.2024). Výpočet lhůt dle § 259 NOZ.</div>
+      <div class="v-penalty">§ 259 NOZ: zánik práva na přezkum ex lege. § 8 NOZ: zákaz zneužití práva. § 181 TZ: poškozování cizích práv šikanózním řízením. Náhrada nákladů soudního řízení dle § 142 OSŘ. Kárná odpovědnost advokátů (JUDr. Rousek) za vědomé podání po lhůtě.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 9 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">9</div>
+      <div class="v-title">Dezinformační kampaň vůči rodičům sportovců a poškozování sportovní výchovy dětí</div>
+      <div class="v-ref">§ 184 TZ – Pomluva · § 209 TZ · Zájem dítěte</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Vaniš v období duben–listopad 2023 systematicky telefonicky kontaktoval rodiče dětí v oddílu stolní tenis a sděloval jim nepravdivé informace o vedení TJ a o záměru odvolat předsedu Brožka.</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li>Rodiče uváděl v omyl o statutu Vaniše jako „vedení TJ"</li>
+        <li>Odrazoval rodiče od podpisu řádných přihlášek a platby příspěvků</li>
+        <li>Zpochybňoval legitimitu tréninků vedených předsedou Brožkem</li>
+        <li>Výsledek: část dětí přestala docházet na tréninky, výpadek příspěvků, poškozování sportovní výchovy dětí</li>
+        <li>Dne 31.3.2023 byl MB nucen zaslat rodičům „apel o klid" — doklad eskalace situace</li>
+      </ul>
+      <p><strong>Zvláštní aspekt — zájem dítěte:</strong> Manipulací rodičů došlo k přerušení sportovní výchovy dětí. Zákon č. 359/1999 Sb. o sociálně-právní ochraně dětí chrání zájem dítěte na kontinuálním rozvoji a vzdělávání. Narušení sportovní výchovy dítěte může být posouzeno jako újma na jeho právech.</p>
+      <div class="v-evidence">Výpovědi rodičů (min. 3 svědci), apel MB z 31.3.2023 (archiv TJ), záznamy o absenci dětí na trénincích, zpráva trenéra o výpadku docházky.</div>
+      <div class="v-penalty">§ 184 TZ: pomluva (šíření nepravdivých skutečností způsobilých poškodit vážnost TJ a MB). § 209 TZ: podvod (majetkový výpadek příspěvků jako přímý důsledek). Žaloba na ochranu osobnosti TJ a MB.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 10 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">10</div>
+      <div class="v-title">Neoprávněný návrh na výmaz předsedy z obchodního rejstříku (Vlach, 2025)</div>
+      <div class="v-ref">§ 164 NOZ · § 181 TZ · § 248 TZ – Maření výkonu úředního rozhodnutí</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Gustav Vlach, jehož členství v TJ zaniklo 15.12.2023, podal v roce 2025 opakovaně návrhy k rejstříkovému soudu na výmaz předsedy Miroslava Brožka z obchodního rejstříku. K takovému podání nemá bez aktivního členství v TJ právní způsobilost (aktivní legitimaci).</p>
+      <p><strong>Faktický stav:</strong></p>
+      <ul style="list-style:disc; margin: 8px 0 8px 22px; color:#b8c8d8; font-size:13px;">
+        <li>1. pokus: 7.2.2025 (sp. zn. Fj 6853/2025/KSUL) — <span class="hl-grn">zastaveno 13.2.2025</span> pro litispendenci</li>
+        <li>2. pokus: 21.7.2025 (sp. zn. L 318/RD105/KSUL) — <span class="hl-red">schváleno 6.8.2025</span> — Brožek vymazán k datu 9.2.2024</li>
+        <li>Odvolání TJ k Vrchnímu soudu Praha podáno 29.8.2025 — probíhá</li>
+        <li>Vlach nebyl v době podání návrhu členem TJ — neměl aktivní legitimaci</li>
+        <li>Rozhodoval vyšší soudní úředník místo soudce — procesní pochybení</li>
+      </ul>
+      <div class="v-evidence">Usnesení KS Ústí n.L. ze 13.2.2025 (zastavení pro litispendenci). Usnesení ze 6.8.2025 (schválení výmazu). Odvolání TJ ze 29.8.2025. Rozhodnutí o ukončení členství Vlache z 15.12.2023.</div>
+      <div class="v-penalty">§ 181 TZ: poškozování cizích práv. § 164 NOZ: jednání bez oprávnění. Odvolání k Vrchnímu soudu Praha jako zákonný prostředek nápravy. Kárná stížnost na JUDr. Rouska za vedení řízení bez aktivní legitimace klienta.</div>
+    </div>
+  </div>
+
+  <!-- PORUŠENÍ 11 -->
+  <div class="violation">
+    <div class="v-header">
+      <div class="v-num">11</div>
+      <div class="v-title">Porušení povinnosti loajality člena orgánu spolku a konfliktu zájmů</div>
+      <div class="v-ref">§ 159 NOZ – Péče řádného hospodáře · § 231 NOZ</div>
+    </div>
+    <div class="v-body">
+      <p><strong>Popis porušení:</strong> Zvolení členové výboru TJ jsou dle § 159 NOZ povinni vykonávat funkci s péčí řádného hospodáře, tedy s loajalitou k TJ jako celku, nikoli pouze k „svému" oddílu. Zájmy oddílu nesmí stavět nad zájem TJ.</p>
+      <p><strong>Faktický stav:</strong> Vaniš, Vlach i M. Kulík de facto jednali výhradně v zájmu svých oddílů, aktivně poškozovali zájmy TJ, odmítali spolupracovat s výborem a postupně se pokoušeli rozložit fungování TJ jako celku. Toto jednání je v přímém rozporu s povinností péče řádného hospodáře.</p>
+      <p><strong>Vlach – návrh na opatrovníka (5.12.2025):</strong> Podal návrh na jmenování opatrovníka TJ (sp. zn. 61 Cm 106/2025) s tvrzením, že předseda prodává majetek za nevýhodných podmínek a existuje konflikt zájmů — toto tvrzení nebylo prokázáno, jde o pokračující obstrukci.</p>
+      <div class="v-evidence">Korespondence z let 2021–2025 (archiv TJ), záznamy o odmítání součinnosti, usnesení soudu o zastavení pro nedostatek legitimace, stanovisko advokáta TJ Mgr. Kučery.</div>
+      <div class="v-penalty">§ 159 odst. 3 NOZ: odpovědnost člena orgánu za škodu způsobenou porušením péče řádného hospodáře. Civilní žaloba na náhradu škody (§ 2910 NOZ). Disciplinární řízení národních svazů (ČAS, SLČR, ČSKe).</div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- V. CHRONOLOGIE PORUŠENÍ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">V</div>
+    <h2>Chronologie porušení sportovního řádu a výchovného</h2>
+  </div>
+
+  <div class="card">
+    <div class="timeline">
+      <div class="tl-item key">
+        <div class="date">24. 8. 2021 – Zrod povinností</div>
+        <div class="desc">VH TJ volí nový výbor. Oddíloví předsedové přijímají funkce a vědomě přebírají povinnost odvádět výchovné a předat evidence. Stav pokladen: lyžování 132 523 Kč, stolní tenis 43 793 Kč, karate 1 798 Kč.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">13. 9. 2021 – 1. výzva k evidencím</div>
+        <div class="desc">MB písemně vyzývá předsedy oddílů k předání evidencí členů do 26.9.2021. <span class="hl-red">Žádná reakce</span> — první vědomé porušení.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">26. 9. 2021 – Marné uplynutí lhůty</div>
+        <div class="desc">Lhůta pro předání evidencí vypršela. Porušení č. 1 (nepředání evidencí) nastalo u všech tří oddílů. Příspěvky za 1. rok nejsou odvedeny — porušení č. 2 nastává.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">10. 12. 2021 – 2. výzva + příspěvky</div>
+        <div class="desc">MB vyzývá k odvedení příspěvků. Absence odpovědi. Účetní Illéšová odmítá uzavřít účetnictví 2021 navzdory přijaté odměně 30 000 Kč — porušení č. 3.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">2022 – Eskalace dluhu + grant</div>
+        <div class="desc">2. rok neodvádění výchovného. Daňová kontrola odhalí závažné nedostatky v účetnictví TJ. Vaniš neprovedl vyúčtování grantu NSA 2022 — porušení č. 5.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">19. 1. 2023 – Přeměna zámků</div>
+        <div class="desc"><span class="hl-red">Fyzické ovládnutí prostor TJ</span> bez oprávnění — porušení č. 6. MB a výbor nemají přístup do vlastní nemovitosti.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">31. 3. 2023 – Apel MB rodičům</div>
+        <div class="desc">MB nucen zasáhnout apelem na rodiče kvůli dezinformacím Vaniše. Dezinformační kampaň začala dříve — porušení č. 9 probíhá od dubna 2023.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">6. 11. 2023 – Neoprávněná výzva 575 623 Kč</div>
+        <div class="desc">Vlach požaduje 575 623 Kč jako „vyrovnání" — přitom sám dluží TJ. Kombinace vydírání a podvodu.</div>
+      </div>
+      <div class="tl-item key">
+        <div class="date">28. 11. 2023 – Vyloučení Vaniše a Pivoňky</div>
+        <div class="desc">TJ zákonně vylučuje oba pro opakované porušení stanov. <span class="hl-red">Ani poté nepředávají majetek, pokladny ani dokumentaci.</span></div>
+      </div>
+      <div class="tl-item">
+        <div class="date">15. 12. 2023 – Ukončení členství Vlache</div>
+        <div class="desc">Zánik členství. Vlach stále nevrátil pokladnu (132 523 Kč). Porušení pokračuje i po zániku funkce.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">25. 1. 2024 – VH schvaluje trestní oznámení</div>
+        <div class="desc">Valná hromada TJ hlasuje pro podání trestního oznámení. Oznámení podáno 16.2.2024 přes Mgr. Kučeru.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">3.–8. 4. 2024 – Opožděné žaloby</div>
+        <div class="desc">Vaniš, Vlach, Kulík, Pivoňka podávají žaloby PO uplynutí prekluzivní lhůty — porušení č. 8. Šikanózní výkon práva.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">31. 5. 2024 – Zastavení trestního řízení</div>
+        <div class="desc">Policie zastaví šetření bez dostatečného zdůvodnění — <span class="hl-red">TJ podává stížnost</span>. Tento podklad slouží jako doplnění pro obnovení šetření.</div>
+      </div>
+      <div class="tl-item key">
+        <div class="date">6. 8. 2025 – Neoprávněný výmaz předsedy</div>
+        <div class="desc">Na základě Vlachova návrhu (po zániku jeho členství) dochází k výmazu MB z rejstříku. <span class="hl-red">Porušení č. 10</span> — obstrukce soudního systému.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">5. 12. 2025 – Návrh na opatrovníka</div>
+        <div class="desc">Vlach (prostřednictvím JUDr. Rouska) podává návrh na opatrovníka TJ — další obstrukční krok.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- VI. SHRNUTÍ A NÁVRHY -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">VI</div>
+    <h2>Závěrečné shrnutí a doporučené kroky</h2>
+  </div>
+
+  <div class="summary-box">
+    <h3>Výsledek analýzy porušení sportovního řádu a výchovného</h3>
+    <div class="s-row">
+      <div class="icon">📊</div>
+      <p>Bylo identifikováno <strong>11 konkrétních porušení</strong> stanov TJ, interního sportovního řádu a obecně závazných předpisů, ke kterým docházelo koordinovaně a opakovaně v průběhu let 2021–2025.</p>
+    </div>
+    <div class="s-row">
+      <div class="icon">💰</div>
+      <p>Celková neuhrazená pohledávka TJ z titulu výchovného, členských příspěvků, energií, zadržené hotovosti a pokut činí <strong>min. 2 070 044 Kč</strong>, z toho výchovné (příspěvky sekcí) tvoří <strong>1 214 400 Kč</strong>.</p>
+    </div>
+    <div class="s-row">
+      <div class="icon">⚖️</div>
+      <p>Jednání pachatelů naplňuje znaky trestných činů <strong>§ 206 TZ (zpronevěra)</strong>, <strong>§ 209 TZ (podvod)</strong>, <strong>§ 207 TZ (neoprávněné užívání cizí věci)</strong>, <strong>§ 208 TZ (porušení domovní svobody)</strong> a <strong>§ 181 TZ (poškozování cizích práv)</strong>.</p>
+    </div>
+    <div class="s-row">
+      <div class="icon">👶</div>
+      <p><strong>Zvláštní zájem dítěte:</strong> Dezinformační kampaň a narušení fungování oddílu stolní tenis způsobily přerušení sportovní výchovy dětí — zájem na zákonné ochraně dle zákona č. 359/1999 Sb.</p>
+    </div>
+    <div class="s-row">
+      <div class="icon">🔄</div>
+      <p><strong>Doporučení:</strong> Podat doplňující trestní oznámení na SKPV Teplice (hospodářská kriminalita) s tímto podkladem jako přílohou, přiložit listinné důkazy a navrhnout výslech svědků z řad rodičů sportovců. Souběžně podat civilní žalobu na zaplacení.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Navrhovaná procesní opatření</h3>
+    <table class="fin-table">
+      <thead><tr><th>Krok</th><th>Adresát/Orgán</th><th>Základ</th><th>Priorita</th></tr></thead>
+      <tbody>
+        <tr><td>Doplňující trestní oznámení s tímto podkladem</td><td>SKPV Teplice</td><td>§ 158 TŘ</td><td class="red">Nejvyšší</td></tr>
+        <tr><td>Žaloba na zaplacení výchovného (2 070 044 Kč)</td><td>Krajský soud Ústí n.L.</td><td>§ 2991 NOZ</td><td class="red">Nejvyšší</td></tr>
+        <tr><td>Stížnost na zastavení řízení (31.5.2024)</td><td>Státní zastupitelství Teplice</td><td>§ 159 TŘ</td><td class="gold">Vysoká</td></tr>
+        <tr><td>Podnět na kárné řízení JUDr. Rouska</td><td>Česká advokátní komora</td><td>§ 16 ZA</td><td class="gold">Vysoká</td></tr>
+        <tr><td>Informování národních svazů (ČAS, SLČR, ČSKe)</td><td>Národní sportovní svazy</td><td>Sportovní řády svazů</td><td>Střední</td></tr>
+        <tr><td>Odvolání k Vrchnímu soudu Praha (výmaz předsedy)</td><td>Vrchní soud Praha</td><td>§ 202 OSŘ</td><td class="red">Nejvyšší – probíhá</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</div><!-- /container -->
+
+<footer>
+  <strong>TJ Krupka z.s.</strong> · IČO 763586 · Přítkovská 95/2, Proboštov · Předseda: Miroslav Brožek<br>
+  Interní podklad pro trestní oznámení a právní kroky ve věci neuhrazeného výchovného a porušení sportovního řádu.<br>
+  Generováno: březen 2026 · Mgr. Miroslav Kučera (advokát TJ) · SKPV Teplice – Por. Miroslav Blažíček DiS.
+</footer>
+
+</body>
+</html>

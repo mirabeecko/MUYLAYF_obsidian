@@ -12,12 +12,14 @@ tags:
 
 ---
 
+[[ODS VOLEBNÍ PROGRAM 2022]]
+
 ## 🔑 Klíčové dokumenty
 
 ### Přehledy & analýzy
 - [[🎯 DASHBOARD - KAUZA TJ KRUPKA]] — centrální přehled kauzy
 - [[99-PUVODNI/MUYLAYF-archive/Kauza_Komarek_Dashboard]] — dashboard kauza Komárek
-- [[KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]] — komplexní analýza
+- [[⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA]] — komplexní analýza
 - [[TIMELINE TJ KRUPKA 2021-2024]] — časová osa
 - [[Kauza Komarek - Zakladni Fakta]] — základní fakta
 

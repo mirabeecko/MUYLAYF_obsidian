@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podklad pro trestní oznámení – § 209 Podvod | TJ Krupka z.s.</title>
+<style>
+  :root {
+    --red:    #c0392b;
+    --dark:   #1a1a2e;
+    --mid:    #16213e;
+    --accent: #e74c3c;
+    --gold:   #f39c12;
+    --green:  #27ae60;
+    --blue:   #2980b9;
+    --light:  #ecf0f1;
+    --border: #2c3e50;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0f0f1a;
+    color: #dce3ec;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  /* ── HEADER ── */
+  header {
+    background: linear-gradient(135deg, #c0392b 0%, #8e1a10 60%, #1a1a2e 100%);
+    padding: 40px 40px 30px;
+    border-bottom: 4px solid var(--gold);
+  }
+  header .badge {
+    display: inline-block;
+    background: rgba(0,0,0,0.35);
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 4px 12px;
+    border-radius: 3px;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  header h1 { font-size: 28px; font-weight: 800; letter-spacing: 0.5px; line-height: 1.2; }
+  header h1 span { color: var(--gold); }
+  header .subtitle { margin-top: 8px; color: #bdc3cb; font-size: 13px; }
+  header .meta { margin-top: 18px; display: flex; gap: 30px; flex-wrap: wrap; }
+  header .meta-item { font-size: 12px; color: #aaa; }
+  header .meta-item strong { color: #fff; display: block; font-size: 13px; }
+
+  /* ── LAYOUT ── */
+  .container { max-width: 1100px; margin: 0 auto; padding: 30px 30px 60px; }
+
+  /* ── SECTION HEADERS ── */
+  .section-header {
+    display: flex; align-items: center; gap: 14px;
+    background: linear-gradient(90deg, var(--mid) 0%, transparent 100%);
+    border-left: 5px solid var(--accent);
+    padding: 14px 20px;
+    margin: 40px 0 20px;
+    border-radius: 0 6px 6px 0;
+  }
+  .section-header .num {
+    background: var(--accent); color: #fff;
+    width: 32px; height: 32px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px; flex-shrink: 0;
+  }
+  .section-header h2 { font-size: 18px; font-weight: 700; color: #fff; }
+
+  /* ── CARDS ── */
+  .card {
+    background: var(--mid);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 22px 26px;
+    margin-bottom: 18px;
+  }
+  .card h3 { font-size: 15px; font-weight: 700; color: var(--gold); margin-bottom: 10px; }
+  .card p { margin-bottom: 8px; color: #cdd3da; }
+
+  /* ── ELEMENT TABLE ── */
+  .elem-table { width: 100%; border-collapse: collapse; margin-bottom: 10px; }
+  .elem-table th {
+    background: #0d0d1a; color: var(--gold);
+    padding: 10px 14px; text-align: left; font-size: 12px;
+    letter-spacing: 1px; text-transform: uppercase;
+    border-bottom: 2px solid var(--border);
+  }
+  .elem-table td {
+    padding: 11px 14px; border-bottom: 1px solid #1e2a3a;
+    vertical-align: top; font-size: 13px;
+  }
+  .elem-table tr:hover td { background: rgba(255,255,255,0.03); }
+  .elem-table .label { color: #fff; font-weight: 600; width: 200px; }
+  .elem-table .status-ok   { color: var(--green); font-weight: 700; }
+  .elem-table .status-warn { color: var(--gold);  font-weight: 700; }
+  .elem-table .status-bad  { color: var(--accent); font-weight: 700; }
+
+  /* ── COMPARISON GRID ── */
+  .compare-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .compare-box { background: #111827; border-radius: 6px; padding: 16px 18px; }
+  .compare-box.law  { border-top: 3px solid var(--blue); }
+  .compare-box.fact { border-top: 3px solid var(--green); }
+  .compare-box h4 { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+  .compare-box.law  h4 { color: var(--blue); }
+  .compare-box.fact h4 { color: var(--green); }
+  .compare-box ul { list-style: none; padding: 0; }
+  .compare-box ul li { padding: 4px 0; font-size: 13px; color: #ccc; border-bottom: 1px solid #1e2a3a; }
+  .compare-box ul li::before { content: "▸ "; color: var(--gold); }
+
+  /* ── PERSONS ── */
+  .persons-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+  .person-card {
+    background: #111827; border: 1px solid #1e2a3a; border-radius: 8px;
+    padding: 16px 18px;
+    border-left: 4px solid var(--accent);
+  }
+  .person-card h4 { font-size: 14px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .person-card .role { font-size: 11px; color: var(--gold); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+  .person-card p { font-size: 12.5px; color: #bbb; margin-bottom: 4px; }
+
+  /* ── VERDICT BLOCK ── */
+  .verdict {
+    background: linear-gradient(135deg, #1a0a0a 0%, #2a0d0d 100%);
+    border: 2px solid var(--accent);
+    border-radius: 8px;
+    padding: 24px 28px;
+    margin: 30px 0;
+  }
+  .verdict h3 { color: var(--accent); font-size: 17px; margin-bottom: 14px; }
+  .verdict .verdict-row { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 10px; }
+  .verdict .verdict-row .icon { font-size: 18px; flex-shrink: 0; margin-top: 1px; }
+  .verdict .verdict-row p { font-size: 13px; color: #ccc; }
+
+  /* ── DAMAGE TABLE ── */
+  .damage-table { width: 100%; border-collapse: collapse; }
+  .damage-table th {
+    background: #0d0d1a; color: var(--gold);
+    padding: 9px 14px; text-align: left; font-size: 12px;
+    letter-spacing: 1px; text-transform: uppercase;
+  }
+  .damage-table td { padding: 9px 14px; border-bottom: 1px solid #1e2a3a; font-size: 13px; }
+  .damage-table .total { font-weight: 700; color: var(--accent); font-size: 14px; }
+  .damage-table tfoot td { background: #0d0d1a; }
+
+  /* ── TIMELINE ── */
+  .timeline { position: relative; padding-left: 30px; }
+  .timeline::before { content: ''; position: absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: var(--border); }
+  .tl-item { position: relative; margin-bottom: 20px; }
+  .tl-item::before {
+    content: ''; position: absolute; left: -26px; top: 6px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent); border: 2px solid #0f0f1a;
+  }
+  .tl-item .date { font-size: 11px; color: var(--gold); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+  .tl-item .desc { font-size: 13px; color: #ccc; margin-top: 3px; }
+  .tl-item.key::before { background: var(--gold); width: 14px; height: 14px; left: -28px; }
+
+  /* ── QUOTE ── */
+  .quote {
+    background: #0d1420; border-left: 4px solid var(--blue);
+    padding: 14px 18px; margin: 12px 0;
+    border-radius: 0 6px 6px 0;
+    font-style: italic; font-size: 13px; color: #b0bec5;
+  }
+  .quote cite { display: block; margin-top: 6px; font-size: 12px; color: #7f8c8d; font-style: normal; }
+
+  /* ── WITNESS ── */
+  .witness-block {
+    background: #111827; border: 1px solid #1e2a3a;
+    border-radius: 8px; padding: 16px 20px; margin-bottom: 14px;
+  }
+  .witness-block h4 { font-size: 13px; font-weight: 700; color: var(--blue); margin-bottom: 8px; }
+  .witness-block .w-fact { font-size: 12.5px; color: #ccc; padding: 4px 0; border-bottom: 1px solid #1e2a3a; }
+  .witness-block .w-fact::before { content: "◆ "; color: var(--gold); font-size: 10px; }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--dark); border-top: 2px solid var(--border);
+    padding: 24px 40px; text-align: center;
+    font-size: 11px; color: #666;
+  }
+  footer strong { color: #888; }
+
+  /* ── HIGHLIGHT ── */
+  .hl-red    { color: var(--accent); font-weight: 600; }
+  .hl-gold   { color: var(--gold);   font-weight: 600; }
+  .hl-green  { color: var(--green);  font-weight: 600; }
+  .hl-blue   { color: var(--blue);   font-weight: 600; }
+  .pill {
+    display: inline-block; padding: 2px 9px; border-radius: 12px;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.5px;
+  }
+  .pill-red   { background: rgba(192,57,43,0.25); color: var(--accent); border: 1px solid var(--accent); }
+  .pill-gold  { background: rgba(243,156,18,0.15); color: var(--gold);   border: 1px solid var(--gold); }
+  .pill-green { background: rgba(39,174,96,0.15);  color: var(--green);  border: 1px solid var(--green); }
+
+  @media (max-width: 700px) {
+    .compare-grid { grid-template-columns: 1fr; }
+    .persons-grid { grid-template-columns: 1fr; }
+    header { padding: 24px 20px; }
+    .container { padding: 20px 16px 40px; }
+  }
+  @media print {
+    body { background: #fff; color: #000; }
+    header { background: #c0392b !important; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Interní právní podklad · Důvěrné</div>
+  <h1>Podklad pro trestní oznámení<br><span>§ 209 Trestního zákoníku – PODVOD</span></h1>
+  <div class="subtitle">Tělovýchovná jednota Krupka z.s. · IČO 763586 · Přítkovská 95/2, Proboštov</div>
+  <div class="meta">
+    <div class="meta-item"><strong>Poškozený subjekt</strong>TJ Krupka z.s.</div>
+    <div class="meta-item"><strong>Podezřelé osoby</strong>Marek Vaniš, Gustav Vlach, Jaromír Pivoňka</div>
+    <div class="meta-item"><strong>Odhadovaná škoda</strong>min. 2 045 635 Kč</div>
+    <div class="meta-item"><strong>Dokument generován</strong>březen 2026</div>
+    <div class="meta-item"><strong>Vyšetřující útvar</strong>SKPV Teplice – hospodářská kriminalita</div>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- I. ZÁKONNÉ ZNĚNÍ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">I</div>
+    <h2>Zákonné znění § 209 Trestního zákoníku (zákon č. 40/2009 Sb.)</h2>
+  </div>
+
+  <div class="card">
+    <h3>§ 209 – Podvod</h3>
+    <div class="quote">
+      „Kdo sebe nebo jiného obohatí tím, že uvede někoho v omyl, využije něčího omylu nebo zamlčí podstatné skutečnosti, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci."
+      <cite>— § 209 odst. 1 zákona č. 40/2009 Sb., trestní zákoník</cite>
+    </div>
+    <div class="quote">
+      „Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu většího rozsahu."
+      <cite>— § 209 odst. 2 (škoda větší rozsahu = více než 100 000 Kč)</cite>
+    </div>
+    <div class="quote">
+      „Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu značného rozsahu."
+      <cite>— § 209 odst. 3 (škoda značného rozsahu = více než 500 000 Kč)</cite>
+    </div>
+    <div class="quote">
+      „Odnětím svobody na dvě léta až osm let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu."
+      <cite>— § 209 odst. 4 (škoda velkého rozsahu = více než 5 000 000 Kč)</cite>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- II. SKUTKOVÁ PODSTATA – ROZBOR -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">II</div>
+    <h2>Rozbor skutkové podstaty – znaky trestného činu Podvod</h2>
+  </div>
+
+  <table class="elem-table">
+    <thead>
+      <tr>
+        <th style="width:180px">Znak SK</th>
+        <th>Zákonná definice</th>
+        <th style="width:130px">Naplnění v kauze</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="label">1. OBOHACENÍ</td>
+        <td>Pachatel sebe nebo jiného obohatí — získá majetkový prospěch (přijetí peněz, věci, práva, ušetřený výdaj). Nestačí pouhý úmysl, obohatit se musí fakticky dojít.</td>
+        <td class="status-ok">✔ PROKÁZÁNO</td>
+      </tr>
+      <tr>
+        <td class="label">2. UVEDE V OMYL</td>
+        <td>Pachatel v poškozeném vzbudí falešnou představu o skutkové okolnosti — předstírá neexistující, nebo zastírá existující okolnosti. Stačí konkludentní jednání (není třeba výslovné lži).</td>
+        <td class="status-ok">✔ PROKÁZÁNO</td>
+      </tr>
+      <tr>
+        <td class="label">3. VYUŽIJE OMYLU</td>
+        <td>Alternativní znak: pachatel záměrně těží z omylu, v němž se poškozený již nachází, aniž by ho sám uvedl v omyl.</td>
+        <td class="status-ok">✔ PROKÁZÁNO</td>
+      </tr>
+      <tr>
+        <td class="label">4. ZAMLČÍ POD. SKUTEČNOSTI</td>
+        <td>Pachatel vědomě zatají skutečnosti, o nichž ví, že by poškozený jednal jinak, pokud by je znal. Nemusí jít o lež, stačí mlčení o relevantní okolnosti.</td>
+        <td class="status-ok">✔ PROKÁZÁNO</td>
+      </tr>
+      <tr>
+        <td class="label">5. ŠKODA NA MAJETKU</td>
+        <td>Na cizím majetku musí vzniknout skutečná majetková škoda. Minimální hranice „škody nikoli nepatrné" = 10 000 Kč. Škoda „značného rozsahu" = min. 500 000 Kč → přísná sazba.</td>
+        <td class="status-ok">✔ PROKÁZÁNO (min. 2 045 635 Kč)</td>
+      </tr>
+      <tr>
+        <td class="label">6. PŘÍČINNÁ SOUVISLOST</td>
+        <td>Škoda musí být přímým následkem podvodného jednání — bez podvodu by k ní nedošlo.</td>
+        <td class="status-ok">✔ PROKÁZÁNO</td>
+      </tr>
+      <tr>
+        <td class="label">7. ÚMYSL</td>
+        <td>Trestný čin podvodu lze spáchat pouze úmyslně (přímý i nepřímý úmysl). Nedbalostní podvod není trestný. Úmysl musí existovat v době páchání činu.</td>
+        <td class="status-warn">✔ DOKAZATELNÝ</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- III. PODEZŘELÉ OSOBY -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">III</div>
+    <h2>Podezřelé osoby a jejich role</h2>
+  </div>
+
+  <div class="persons-grid">
+    <div class="person-card">
+      <h4>Ing. Marek Vaniš</h4>
+      <div class="role">Místopředseda TJ Krupka (zvolený 24.8.2021) · Předseda oddílu stolní tenis</div>
+      <p><strong>Nar.:</strong> neuvedeno</p>
+      <p><strong>Vyloučen:</strong> 28. 11. 2023 (doručeno datovou schránkou)</p>
+      <p><strong>Hlavní jednání:</strong> nepředal seznamy členů, neposkytl vyúčtování grantu NSA 2022, zadržoval hotovost oddílu, neoprávněně prezentoval jako statutární zástupce TJ, podal návrhy na rejstřík bez oprávnění.</p>
+      <p><strong>Zadržená škoda:</strong> min. 562 193 Kč (členské příspěvky + příspěvky + energie)</p>
+    </div>
+    <div class="person-card">
+      <h4>Gustav Vlach</h4>
+      <div class="role">Člen výboru TJ · Předseda oddílu lyžování</div>
+      <p><strong>Nar.:</strong> neuvedeno</p>
+      <p><strong>Členství ukončeno:</strong> 15. 12. 2023 (doručeno 23.12.2023)</p>
+      <p><strong>Hlavní jednání:</strong> nepředal hotovost pokladny oddílu 132 523 Kč (přiznal při výslechu), nepředal evidenci členů, požadoval „narovnání" 575 623 Kč mimo zákonné postupy, podal neoprávněné návrhy na soud.</p>
+      <p><strong>Zadržená škoda:</strong> min. 831 878 Kč (pokladna + příspěvky + energie)</p>
+    </div>
+    <div class="person-card">
+      <h4>Jaromír Pivoňka</h4>
+      <div class="role">Člen výboru oddílu stolní tenis</div>
+      <p><strong>Nar.:</strong> neuvedeno</p>
+      <p><strong>Vyloučen:</strong> 28. 11. 2023 (datová schránka)</p>
+      <p><strong>Hlavní jednání:</strong> spolupracoval s Vanišem, aktivně se podílel na bránění přístupu k majetku TJ, odmítl součinnost při předání podkladů.</p>
+      <p><strong>Zadržená škoda:</strong> solidárně s Vanišem</p>
+    </div>
+    <div class="person-card">
+      <h4>Martin Kulík</h4>
+      <div class="role">Tvrzený předseda oddílu karate</div>
+      <p><strong>Členství ukončeno:</strong> pro neplacení členských příspěvků</p>
+      <p><strong>Hlavní jednání:</strong> nepředal evidenci členů, odmítl odvádět příspěvky do TJ, spolupracoval na obstrukční strategii.</p>
+      <p><strong>Zadržená škoda:</strong> min. 348 598 Kč (příspěvky + energie)</p>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- IV. SROVNÁNÍ ZÁKONNÝCH ZNAKŮ S JEDNÁNÍM -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">IV</div>
+    <h2>Srovnání zákonných znaků skutkové podstaty s prokazatelným jednáním</h2>
+  </div>
+
+  <!-- ZNAK 1 -->
+  <div class="card">
+    <h3>Znak č. 1 – OBOHACENÍ sebe nebo jiného</h3>
+    <div class="compare-grid">
+      <div class="compare-box law">
+        <h4>Zákonný požadavek</h4>
+        <ul>
+          <li>Faktické získání majetkové výhody</li>
+          <li>Nemusí být trvalé</li>
+          <li>Může být i ušetření výdaje</li>
+          <li>Obohacení může jít třetí osobě</li>
+        </ul>
+      </div>
+      <div class="compare-box fact">
+        <h4>Prokázané jednání</h4>
+        <ul>
+          <li>Vlach přiznal zadržení 132 523 Kč z pokladny oddílu lyžování (výslech)</li>
+          <li>Vaniš nepředal vyúčtování grantu NSA 2022 — finanční prostředky nebyly vráceny</li>
+          <li>Oddíly neodvedly příspěvky 1 214 400 Kč — úspora na straně pachatelů</li>
+          <li>Neuhrazení energií 299 921 Kč — přímý majetkový prospěch</li>
+        </ul>
+      </div>
+    </div>
+    <p>
+      <span class="pill pill-red">Výsledek: NAPLNĚNO</span>
+      Vlach si přisvojil hotovost pokladny, Vaniš zadržel grantové prostředky a všichni pachatelé se obohatili o neodvedené příspěvky a energie, které TJ musela hradit z vlastních prostředků.
+    </p>
+  </div>
+
+  <!-- ZNAK 2 -->
+  <div class="card">
+    <h3>Znak č. 2 – UVEDENÍ V OMYL</h3>
+    <div class="compare-grid">
+      <div class="compare-box law">
+        <h4>Zákonný požadavek</h4>
+        <ul>
+          <li>Vzbudit falešnou představu</li>
+          <li>Stačí konkludentní jednání</li>
+          <li>Předstírání oprávnění, funkce, závazků</li>
+          <li>Nepravdivé ujištění o splnění povinnosti</li>
+        </ul>
+      </div>
+      <div class="compare-box fact">
+        <h4>Prokázané jednání</h4>
+        <ul>
+          <li>Vaniš opakovaně (04–11/2023) sděloval rodičům sportovců, že MB bude odvolán — jako by byl statutárním zástupcem</li>
+          <li>Vaniš podal návrhy na rejstříkový soud jako „statutární orgán" TJ — bez jakéhokoli oprávnění</li>
+          <li>Vlach dne 6.11.2023 požadoval 575 623 Kč jako „vyrovnání" a předstíral oprávněný nárok</li>
+          <li>Všichni pachatelé předstírali plnění povinností vůči TJ, přičemž povinnosti neplnili</li>
+          <li>Odmítnutím předání knih a pokladen vyvolali dojem, že pokladny jsou „majetkem oddílu", nikoli TJ</li>
+        </ul>
+      </div>
+    </div>
+    <p>
+      <span class="pill pill-red">Výsledek: NAPLNĚNO</span>
+      Pachatelé systematicky předstírali legitimitu, oprávněná jednání, funkce i nároky, které neměli, čímž uváděli v omyl jak orgány TJ, tak rejstříkový soud i rodiče sportovců.
+    </p>
+  </div>
+
+  <!-- ZNAK 3 -->
+  <div class="card">
+    <h3>Znak č. 3 – ZAMLČENÍ PODSTATNÝCH SKUTEČNOSTÍ</h3>
+    <div class="compare-grid">
+      <div class="compare-box law">
+        <h4>Zákonný požadavek</h4>
+        <ul>
+          <li>Vědomé zatajení klíčové informace</li>
+          <li>Poškozený by jednal jinak, pokud by ji znal</li>
+          <li>Relevantní pro majetkové rozhodnutí</li>
+        </ul>
+      </div>
+      <div class="compare-box fact">
+        <h4>Prokázané jednání</h4>
+        <ul>
+          <li>Vlach zamlčel při volbě 24.8.2021 záměr nevracet pokladnu a neplnit příspěvkové povinnosti</li>
+          <li>Vaniš zamlčel, že grant NSA byl použit, ale nevyúčtován — TJ se tak stala odpovědnou vůči poskytovateli</li>
+          <li>Všichni zamlčeli skutečný stav pokladen a evidence členů při výkonu funkcí</li>
+          <li>Jitka Illéšová (účetní) zamlčela skutečný stav účetnictví a odmítla uzavřít účetnictví za rok 2021, přesto přijala 30 000 Kč za „účetní práce"</li>
+          <li>Pachatelé zamlčeli soudu, že nemají aktivní legitimaci (nejsou členy TJ) při podávání soudních návrhů</li>
+        </ul>
+      </div>
+    </div>
+    <p>
+      <span class="pill pill-red">Výsledek: NAPLNĚNO</span>
+      Přijímání funkcí, grantů a výkonu pravomocí při vědomém zamlčení záměru neplnit povinnosti a neodvádět finanční prostředky je klasickým podvodným jednáním omisivního charakteru.
+    </p>
+  </div>
+
+  <!-- ZNAK 4 -->
+  <div class="card">
+    <h3>Znak č. 4 – ZPŮSOBENÍ ŠKODY NA CIZÍM MAJETKU</h3>
+    <div class="compare-grid">
+      <div class="compare-box law">
+        <h4>Zákonný požadavek</h4>
+        <ul>
+          <li>Škoda na majetku poškozeného</li>
+          <li>Reálný pokles hodnoty majetku</li>
+          <li>Min. 10 000 Kč (nepatrná škoda)</li>
+          <li>Škoda „značného rozsahu" = min. 500 000 Kč</li>
+        </ul>
+      </div>
+      <div class="compare-box fact">
+        <h4>Vyčíslená škoda TJ Krupka</h4>
+        <ul>
+          <li>Nevyúčtovaný grant NSA (Vaniš 2022) — výše zjišťována</li>
+          <li>Nezaplacené oddílové příspěvky: 1 214 400 Kč</li>
+          <li>Neuhrazené členské příspěvky: 143 200 Kč</li>
+          <li>Neuhrazené energie: 299 921 Kč</li>
+          <li>Zadržená hotovost pokladny (Vlach): 132 523 Kč</li>
+          <li>Pokuty LESY ČR (za bezdůvodné obohacení): 280 000 Kč</li>
+        </ul>
+      </div>
+    </div>
+
+    <table class="damage-table">
+      <thead><tr>
+        <th>Položka</th><th>Osoba odpovědná</th><th>Výše škody</th>
+      </tr></thead>
+      <tbody>
+        <tr><td>Oddílové příspěvky – stolní tenis</td><td>Vaniš, Pivoňka</td><td>518 400 Kč</td></tr>
+        <tr><td>Oddílové příspěvky – lyžování</td><td>Vlach</td><td>379 200 Kč</td></tr>
+        <tr><td>Oddílové příspěvky – karate</td><td>M. Kulík</td><td>316 800 Kč</td></tr>
+        <tr><td>Členské příspěvky – všechny oddíly</td><td>Všichni</td><td>143 200 Kč</td></tr>
+        <tr><td>Energie neuhrazené</td><td>Vaniš + Vlach</td><td>299 921 Kč</td></tr>
+        <tr><td>Zadržená hotovost (Vlach)</td><td>Vlach</td><td>132 523 Kč</td></tr>
+        <tr><td>Pokuta LESY ČR</td><td>Vlach (lyžování)</td><td>280 000 Kč</td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td class="total" colspan="2">CELKOVÁ ODHADOVANÁ ŠKODA</td><td class="total">min. 2 070 044 Kč</td></tr>
+      </tfoot>
+    </table>
+    <p style="margin-top:12px">
+      <span class="pill pill-red">Výsledek: ŠKODA ZNAČNÉHO ROZSAHU – § 209 odst. 3</span>
+      Celková škoda přesahuje 500 000 Kč, čímž jsou naplněny znaky pro přísnější trestní sazbu odnětí svobody na 1–5 let.
+    </p>
+  </div>
+
+  <!-- ZNAK 5 – ÚMYSL -->
+  <div class="card">
+    <h3>Znak č. 5 – ÚMYSLNÉ ZAVINĚNÍ</h3>
+    <div class="compare-grid">
+      <div class="compare-box law">
+        <h4>Zákonný požadavek</h4>
+        <ul>
+          <li>Přímý úmysl: pachatel chtěl způsobit škodu</li>
+          <li>Eventuální úmysl: byl s tím srozuměn</li>
+          <li>Úmysl musí existovat při páchání, ne jen ex post</li>
+          <li>Dokazuje se z objektivních okolností</li>
+        </ul>
+      </div>
+      <div class="compare-box fact">
+        <h4>Indikátory úmyslu v kauze</h4>
+        <ul>
+          <li>Deadline pro předání seznamů byl 26.9.2021 — NIKDO z oddílů nereagoval (koordinované jednání)</li>
+          <li>Po opakovaných výzvách (09/2021, 12/2021) stále žádná reakce — vědomé ignorování</li>
+          <li>Vlach přiznal při výslechu zadržení 26 674 Kč hotovosti — vědomě, s vědomím protiprávnosti</li>
+          <li>Vaniš v dubnu–listopadu 2023 aktivně dezinformoval rodiče — proaktivní podvod</li>
+          <li>Žaloby podány 39 a 6 dní po prekluzivní lhůtě — obstrukční taktika</li>
+          <li>Neoprávněné podání k rejstříkovému soudu — vědomé zneužití soudního systému</li>
+        </ul>
+      </div>
+    </div>
+    <p>
+      <span class="pill pill-red">Výsledek: ÚMYSL PROKÁZATELNÝ</span>
+      Koordinované, opakované a eskalující jednání pachatelů nasvědčuje minimálně eventuálnímu úmyslu, u klíčových aktů (zadržení pokladny, podání neoprávněných návrhů) pak přímému úmyslu.
+    </p>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- V. VÝPOVĚDI SVĚDKŮ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">V</div>
+    <h2>Výpovědi svědků a jejich relevance k § 209</h2>
+  </div>
+
+  <div class="witness-block">
+    <h4>Svědek: Gustav Vlach (výslech v rámci trestního řízení)</h4>
+    <div class="w-fact">Přiznal zadržení hotovosti pokladny oddílu lyžování ve výši 26 674 Kč.</div>
+    <div class="w-fact">Neodůvodnil právní titul pro přivlastnění těchto prostředků.</div>
+    <div class="w-fact">Nepopřel skutečnost, že pokladna náleží TJ Krupka z.s. jako mateřské organizaci.</div>
+    <div class="w-fact"><span class="hl-red">Relevance k § 209:</span> Přiznání obohacení a zamlčení právního titulu = klíčový důkaz k znakům obohacení a úmyslu.</div>
+  </div>
+
+  <div class="witness-block">
+    <h4>Svědek: Jan Kuzma (starosta města Krupka)</h4>
+    <div class="w-fact">Přítomen na valné hromadě 24.8.2021, potvrdil řádný průběh volby Miroslava Brožka jako předsedy.</div>
+    <div class="w-fact">Svědectví potvrzuje legitimitu zvolených orgánů TJ a faktické přijetí funkcí podezřelými.</div>
+    <div class="w-fact"><span class="hl-red">Relevance k § 209:</span> Prokazuje vědomé přijetí mandátu a tím i okamžik vzniku povinností, jejichž neplnění zakládá podvodné jednání.</div>
+  </div>
+
+  <div class="witness-block">
+    <h4>Svědek/listinný důkaz: Jitka Illéšová (účetní TJ 2021)</h4>
+    <div class="w-fact">Odmítla uzavřít účetnictví za rok 2021 navzdory písemnému požadavku.</div>
+    <div class="w-fact">Přijala odměnu 30 000 Kč (6 × 5 000 Kč) za „účetní práce" — plnění nebylo poskytnuto.</div>
+    <div class="w-fact">Předala dokumenty TJ třetím osobám (referátu města) bez oprávnění.</div>
+    <div class="w-fact"><span class="hl-red">Relevance k § 209:</span> Přijetí odměny bez plnění = sign bezdůvodného obohacení; předání dokumentů = obstrukce.</div>
+  </div>
+
+  <div class="witness-block">
+    <h4>Svědci: Rodiče sportovců oddílu stolní tenis (více osob)</h4>
+    <div class="w-fact">Vaniš je v období duben–listopad 2023 opakovaně kontaktoval a informoval je, že Miroslav Brožek bude z funkce odvolán.</div>
+    <div class="w-fact">Předkládal se jako skutečný rozhodovatel o fungování oddílu.</div>
+    <div class="w-fact">Rodiče na základě toho váhali s podpisem členských přihlášek k TJ Krupka → výpadek členských příspěvků.</div>
+    <div class="w-fact"><span class="hl-red">Relevance k § 209:</span> Prokazuje vědomé šíření nepravdivých informací s přímým dopadem na majetek TJ.</div>
+  </div>
+
+  <div class="witness-block">
+    <h4>Por. Miroslav Blažíček DiS. – SKPV Teplice, hospodářská kriminalita</h4>
+    <div class="w-fact">Vedl prvoinstanční šetření trestního oznámení TJ Krupka.</div>
+    <div class="w-fact">Řízení bylo zastaveno 31.5.2024 (sp. zn. KRPU-32057-29/ČJ-2024-040981) bez dostatečného zdůvodnění.</div>
+    <div class="w-fact">TJ Krupka podala stížnost proti usnesení o zastavení — výsledek stížnostního řízení nutno ověřit.</div>
+    <div class="w-fact"><span class="hl-red">Relevance:</span> Povinnost orgánů TJ zajistit pokračování šetření přiložením nových důkazů — tento podklad slouží jako doplnění spisu.</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- VI. ČASOVÁ LINIE PODVODNÉHO JEDNÁNÍ -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">VI</div>
+    <h2>Chronologie podvodného jednání</h2>
+  </div>
+
+  <div class="card">
+    <div class="timeline">
+      <div class="tl-item key">
+        <div class="date">24. 8. 2021 – Počátek podvodu</div>
+        <div class="desc">Vaniš, Vlach, Kulík přijímají funkce ve výboru TJ a funkce předsedů oddílů. <span class="hl-red">Tímto okamžikem vznikají zákonné povinnosti</span> (předat evidence, odvádět příspěvky), které záměrně neplní. Vlach měl v pokladně 132 523 Kč, Vaniš spravoval grant NSA.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">26. 9. 2021 – První nesplnění povinnosti</div>
+        <div class="desc">Uplynula lhůta pro předání evidencí členů. Všichni předsedové oddílů ignorují výzvu. <span class="hl-red">Koordinované mlčení</span> — poprvé se projevuje společný záměr.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">10. 12. 2021 – Výzva k odvádění příspěvků</div>
+        <div class="desc">MB posílá první písemnou výzvu k odvedení členských příspěvků. Žádná reakce. Příspěvky za rok 2021 nejsou odvedeny.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">Konec 2021 – Blokáda účetnictví</div>
+        <div class="desc">Illéšová odmítá uzavřít účetnictví. TJ vstupuje do roku 2022 bez uzavřeného účetnictví za předchozí rok, přestože za práci zaplatila 30 000 Kč.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">2022 – Grant NSA nezúčtován</div>
+        <div class="desc">Vaniš neodevzdal vyúčtování grantu NSA. TJ se dostala do odpovědnostní pozice vůči poskytovateli. Finanční prostředky z grantu nebyly TJ vráceny ani doloženy.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">4–11/2023 – Aktivní dezinformace</div>
+        <div class="desc">Vaniš obvolává rodiče dětí v oddílu stolní tenis, sděluje jim, že MB bude odvolán. Předstírá, že je skutečným vedením TJ. Rodiče jsou odrazováni od řádného členství.</div>
+      </div>
+      <div class="tl-item key">
+        <div class="date">6. 11. 2023 – Vydírání místo vrácení</div>
+        <div class="desc">Vlach (právně ukončeno členství 15.12.2023) požaduje od TJ 575 623 Kč s 30denní lhůtou jako podmínku „narovnání". Jde o neoprávněný nárok vznesený pod tlakem. <span class="hl-red">Tento akt lze kvalifikovat jako vydírání (§ 175 TZ) vedle podvodu.</span></div>
+      </div>
+      <div class="tl-item">
+        <div class="date">28. 11. 2023 – Vyloučení Vaniše a Pivoňky</div>
+        <div class="desc">Zákonné vyloučení pro opakované porušení stanov. Podezřelí stále odmítají předat majetek TJ.</div>
+      </div>
+      <div class="tl-item">
+        <div class="date">3.–8. 4. 2024 – Zneužití soudního systému</div>
+        <div class="desc">Vaniš, Vlach, Kulík, Pivoňka podávají žaloby <span class="hl-red">po uplynutí prekluzivní lhůty</span> (§ 259 NOZ). Vlach: 6 dní po lhůtě, Vaniš/Pivoňka: 39 dní po lhůtě. Přesto pokračují v soudních úkonech jako by byli aktivně legitimováni.</div>
+      </div>
+      <div class="tl-item key">
+        <div class="date">6. 8. 2025 – Neoprávněný výmaz předsedy</div>
+        <div class="desc">Na základě návrhu Vlache (nekvalifikovaného jako člen TJ) soud vymaže Miroslava Brožka z rejstříku. TJ podala odvolání k Vrchnímu soudu Praha (29.8.2025) — řízení stále probíhá.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- VII. ZÁVĚREČNÉ HODNOCENÍ A NÁVRH -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">VII</div>
+    <h2>Závěrečné právní hodnocení a návrhy</h2>
+  </div>
+
+  <div class="verdict">
+    <h3>Závěr: Skutková podstata § 209 je naplněna</h3>
+    <div class="verdict-row">
+      <div class="icon">⚖️</div>
+      <p><strong>Všech 7 znaků</strong> skutkové podstaty trestného činu podvodu dle § 209 TZ je v jednání podezřelých prokazatelně naplněno nebo prokazatelné na základě dostupných důkazů.</p>
+    </div>
+    <div class="verdict-row">
+      <div class="icon">💰</div>
+      <p><strong>Celková škoda min. 2 045 635 Kč</strong> přesahuje hranici „škody velkého rozsahu" (500 000 Kč) a zakládá aplikaci přísnější trestní sazby <strong>§ 209 odst. 3 TZ — odnětí svobody 1–5 let</strong>. Jsou-li způsobeny škody i třetím osobám, připadá v úvahu odst. 4 (2–8 let).</p>
+    </div>
+    <div class="verdict-row">
+      <div class="icon">📋</div>
+      <p><strong>Souběh trestných činů:</strong> Vedle podvodu přicházejí v úvahu i § 206 (zpronevěra), § 207 (neoprávněné užívání cizí věci), § 208 (porušení domovní svobody — přeměna zámků), § 175 (vydírání) a § 184 (pomluva).</p>
+    </div>
+    <div class="verdict-row">
+      <div class="icon">🔍</div>
+      <p><strong>Návrh na pokračování šetření:</strong> S ohledem na zastavení řízení 31.5.2024 navrhujeme podání <strong>doplňujícího trestního oznámení</strong> s tímto podkladem, přiložení listinných důkazů (pokladní knihy, bankovní výpisy, datové zprávy, stanovy TJ) a výslechu svědků z řad rodičů sportovců.</p>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- VIII. DŮKAZNÍ PROSTŘEDKY -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <div class="section-header">
+    <div class="num">VIII</div>
+    <h2>Navrhované důkazní prostředky</h2>
+  </div>
+
+  <div class="card">
+    <h3>Listinné důkazy</h3>
+    <table class="elem-table">
+      <thead><tr><th>Dokument</th><th>Dokazuje</th><th>Dostupnost</th></tr></thead>
+      <tbody>
+        <tr><td>Zápis z VH 24.8.2021 + prezenční listina</td><td>Vznik funkcí a povinností pachatelů</td><td class="status-ok">Archiv TJ</td></tr>
+        <tr><td>Písemné výzvy MB z 13.9.2021, 10.12.2021</td><td>Vědomost pachatelů o povinnostech</td><td class="status-ok">Archiv TJ</td></tr>
+        <tr><td>Doklady o odměně Illéšové (30 000 Kč)</td><td>Bezdůvodné obohacení</td><td class="status-ok">Archiv TJ</td></tr>
+        <tr><td>Protokol o výslechu Vlache (přiznání 26 674 Kč)</td><td>Přímé přiznání zadržení majetku</td><td class="status-ok">Policejní spis KRPU-32057</td></tr>
+        <tr><td>Grantová dokumentace NSA 2022</td><td>Nevyúčtovaný grant</td><td class="status-warn">Vyžádat od NSA</td></tr>
+        <tr><td>Výzva Vlache z 6.11.2023 (575 623 Kč)</td><td>Neoprávněný nárok – vydírání</td><td class="status-ok">Archiv TJ</td></tr>
+        <tr><td>Stav pokladen k 31.12.2020 (interní výkaz)</td><td>Výchozí stav pro výpočet škody</td><td class="status-ok">Archiv TJ</td></tr>
+        <tr><td>Datové zprávy — žaloby po lhůtě (sp. zn. 68 Cm 85, 87/2024)</td><td>Vědomé zneužití soudu</td><td class="status-ok">Rejstříkový soud Ústí n.L.</td></tr>
+        <tr><td>Protokol z přeměny zámků (19.1.2023)</td><td>Neoprávněný vstup, § 208 TZ</td><td class="status-warn">Dokumentovat svědectvím</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Svědecké výpovědi – navrhované osoby</h3>
+    <p>1. <strong>Jan Kuzma</strong> (starosta Krupka) — přítomnost na VH 24.8.2021, legitimita volby</p>
+    <p>2. <strong>Mgr. Miroslav Kučera</strong> (advokát TJ) — průběh soudních řízení, podání</p>
+    <p>3. <strong>Jitka Illéšová</strong> — proč neposkytla účetní uzávěrku navzdory přijaté odměně</p>
+    <p>4. <strong>Rodiče sportovců stolního tenisu</strong> (min. 3 svědci) — dezinformační kampaň Vaniše</p>
+    <p>5. <strong>Členové volební komise VH 24.8.2021</strong> — legitimita volby a vědomí povinností</p>
+  </div>
+
+</div><!-- /container -->
+
+<footer>
+  <strong>TJ Krupka z.s.</strong> · IČO 763586 · Přítkovská 95/2, Proboštov · Předseda: Miroslav Brožek<br>
+  Tento dokument je interním právním podkladem pro trestní oznámení. Není veřejnou listinou. Generováno: březen 2026.<br>
+  Adresát: SKPV Teplice – oddělení hospodářské kriminality · Por. Miroslav Blažíček DiS.
+</footer>
+
+</body>
+</html>
