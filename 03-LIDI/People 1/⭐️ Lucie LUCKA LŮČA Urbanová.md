@@ -47,35 +47,49 @@ důvěra:
 
 ---
 
+ČÓRKA 3,5k
+
+## SLÍBÍ + NEŘEŠÍ
+
+
+.. VÍŠ, ŽE REAGOVALA , ABYCH TAM NEPŘILÍTL - **až ve strachu**
+
+
+
+
 *30.4.2026*
 	klidně mě odveze za nějakou, tam počká, dá si brčko..
 	tak mi jí prej i přiveze... není problém. 
 
-
+*6.5.2026*
+	NĚKOHO TAM MĚLA A LŽE
+	- jinak by nevolala 2x VENKU a pak to položila
+	- na otázku: NO NEMÁÁM
 
 
 1. u který jsem si dokázal nebrát osobně
 
 ---
-zdržuje mě, neposlouchá mě, ikdyž chce pomoct, tak mi nepomáhá
+### zdržuje mě, neposlouchá mě
+### ikdyž chce pomoct, tak mi nepomáhá
 (asi **NEBUDE** **ZLÁ**)
 
 ---
 
-**PODLE AI :** nestabilní, chaotická, oportunistická
+**PODLE AI :**  nestabilní, chaotická, oportunistická
 
 ---
 ## **PROBLÉMY:**
-- problém volat
-- problém přijet
-- problém prcat
-- problém mluvit
-- problém odpovídat
-- problém platit dluhy
-- problém nefajtit
-- problém držet jakoukoliv dohodu
-- problém pomoct mně
-- problém pomoct jí
+- problém **volat**
+- problém **přijet**
+- problém **prcat**
+- problém **mluvit**
+- problém **odpovídat**
+- problém **platit** **dluhy**
+- problém **nefajtit**
+- problém **DODRŽET** jakoukoliv dohodu
+- problém **pomoct mně**
+- problém **pomoct jí**
 
 
 ---

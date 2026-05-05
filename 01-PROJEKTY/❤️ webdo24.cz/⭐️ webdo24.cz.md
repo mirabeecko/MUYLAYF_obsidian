@@ -19,6 +19,9 @@ Komunikujte tak, jak je Vám příjemné..
 	telefonní hovor  |  e-mail  |  whatsapp  |  hlasové zprávy
 
 
+
+---
+# KAPACITA PLNÁ
 **OMLOUVÁME** SE, ALE MOMENTÁLNĚ MÁME **VYTĚŽENOU** KAPACITU ZE **100%.**
 A NEJSME SCHOPNI DODRŽET TERMÍN 24 hodin.
 
@@ -28,9 +31,10 @@ nezávazně - vyberte si způsob notifikace:
 
 VYBERTE SI FORMU KOMUNIKACE !
 
+---
 
 [[❤️ the NEW_DIRECTION of SALE]]    |   [[customers_webs]]
-### CUSTOMERS WEBY 
+# CUSTOMERS WEBY 
 - **PAVEL** ELEKTRIKÁŘ
 - **Půjčovna** horských kol - Krušné hory
 	- doladit rezervační systém a mít ho ready pro další zákazníky

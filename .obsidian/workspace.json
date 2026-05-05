@@ -6,7 +6,6 @@
       {
         "id": "4973a33573f7a2b4",
         "type": "tabs",
-        "dimension": 39.489311163895486,
         "children": [
           {
             "id": "5d13f0bfe9e868ad",
@@ -289,73 +288,105 @@
               "icon": "lucide-file",
               "title": "KOMÁRKA - DŮKAZY UŽÍVÁNÍ"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ff12add177e38dd3",
-        "type": "tabs",
-        "dimension": 60.51068883610451,
-        "children": [
+          },
           {
-            "id": "a38eea62f8394336",
+            "id": "2c8cc604b3ef869b",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#webdo24  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 1.1,
-                  "nodeSizeMultiplier": 1.10003858024691,
-                  "lineSizeMultiplier": 0.409085648148148,
-                  "collapse-forces": false,
-                  "centerStrength": 0.429837740384615,
-                  "repelStrength": 0,
-                  "linkStrength": 0.454185956790123,
-                  "linkDistance": 119,
-                  "scale": 1.6456371263089957,
-                  "close": false
+                "file": "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graf ⭐️ webdo24.cz"
+              "icon": "lucide-file",
+              "title": "BETA — TJ KRUPKA"
             }
           },
           {
-            "id": "3870904e1338da61",
+            "id": "3baddacf646106b0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-04 11.15.43.excalidraw.md"
+                "file": "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-04 11.15.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "BETA — KAUZA & PRÁVO"
+            }
+          },
+          {
+            "id": "bdd47261bf747a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⭐️ Lucie LUCKA LŮČA Urbanová"
+            }
+          },
+          {
+            "id": "6e6b4d01ec8354e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BETA — KAUZA & PRÁVO"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -387,7 +418,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DĚLÁM JÁ",
+                "query": "LUCIE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -408,12 +439,12 @@
               "title": "Záložky"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "d747d256b563506f",
@@ -590,15 +621,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c329cfebbbd6fbdc",
+  "active": "bdd47261bf747a15",
   "lastOpenFiles": [
-    "06-PRAVNI/Trestni-oznameni/⭐️ NEDATOVANO - Moje trestní oznámení.md",
-    "01-PROJEKTY/Komarka/KOMÁRKA - DŮKAZY UŽÍVÁNÍ.md",
-    "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-    "ODS VOLEBNÍ PROGRAM 2022.md",
-    "99-PUVODNI/ALFA DASHBOARD.md",
-    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "Excalidraw/NOVÉ VYLOUČENÍ - timeline.excalidraw.md",
     "Excalidraw/Drawing 2026-05-04 11.15.43.excalidraw.md",
+    "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
+    "99-PUVODNI/ALFA DASHBOARD.md",
+    "06-PRAVNI/Trestni-oznameni/⭐️ NEDATOVANO - Moje trestní oznámení.md",
+    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
+    "01-PROJEKTY/Komarka/KOMÁRKA - DŮKAZY UŽÍVÁNÍ.md",
+    "ODS VOLEBNÍ PROGRAM 2022.md",
     "Excalidraw/webdo24 VÝVOJ.excalidraw.md",
     "WEBDO24-excalidraw.md",
     "Excalidraw/webdo24 POSTŘEHY , KLÍČOVÉ PRVKY.excalidraw.md",
@@ -622,8 +655,6 @@
     "customers_webs.md",
     "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
     "poslouchat.md",
-    "99-PUVODNI/KONTROLNÍ PROMPT.md",
-    "06-PRAVNI/TJ-Krupka/PRÁVNÍ POSUDEK NA LEGÁLNOST VÝBĚRU DLE TVRZENÍ.md",
     "KAUZA-TJK/důkazy/TJK DŮKAZY DOCS.pdf",
     "KAUZA-TJK/analýzy/analýza/240101 SPORT KRUPKA s.r.o. konkrétně Syryčanský posílá PINČESÁRNA SMLOUVA priloha_1301129925_1_TJKrupka-stolní-tenis-Smlouva o pronajmu nebytovych prostor - 2024 (1).pdf",
     "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/⚜ VYJÁDŘENÍ TJK k 2021-2024.pdf",

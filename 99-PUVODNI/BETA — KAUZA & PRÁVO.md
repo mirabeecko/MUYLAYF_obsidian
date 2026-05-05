@@ -10,6 +10,8 @@ tags:
 
 [[ALFA DASHBOARD]] ← zpět
 
+[[NOVÉ VYLOUČENÍ - timeline.excalidraw]]
+
 ---
 
 [[ODS VOLEBNÍ PROGRAM 2022]]
