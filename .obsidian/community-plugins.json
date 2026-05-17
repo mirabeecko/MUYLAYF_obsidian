@@ -17,5 +17,10 @@
   "convert-url-to-iframe",
   "obsidian-google-tasks",
   "obsidian-git",
-  "buttons"
+  "buttons",
+  "quickadd",
+  "obsidian-tasks-plugin",
+  "card-board",
+  "templater-obsidian",
+  "obsidian-kanban"
 ]

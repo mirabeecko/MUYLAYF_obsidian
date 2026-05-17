@@ -8,5 +8,6 @@
   },
   "defaultViewMode": "preview",
   "attachmentFolderPath": "🦴 PŘÍLOHY",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }

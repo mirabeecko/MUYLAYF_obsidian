@@ -1,15 +1,102 @@
 ---
 tags:
   - webdo24
+  - probihajici
 up:
 ---
+# [[FÁZE SPUŠTĚNÍ webdo24.cz]]
 
+---
+
+
+- [ ] Dodělat landing page 📅 2026-05-15
+- [ ] JASNO V PRODUKTECH
+
+
+[[💀 webdo24_PRODUKTY PROMPT]]
+
+
+- správný positioning
+- správný headline
+- odstranění strachu
+- relevance reklama → landing page
+- trust
+- jednoduchost checkoutu
+- kvalitní traffic
+
+[[WEBDO24 - produkty.canvas]]
 [[WEBDO24-excalidraw]]
 # FINAL UPRAVY
 
 > [!IMPORTANT]  # Začni **HNED**. Zítra máš **web**.
 
 hero - SLIDER S HLÁŠKAMA 
+
+---
+# **PROČ** webdo24.cz 
+
+- ušetříme Vám čas a starosti
+
+- #### Zbavíme Vás trápení - Zítra touhle dobou je to vyřešené.. Co Vy na to ? 
+
+- ### Komunikujte , jak je Vám nejmilejší.. 
+	- vyplňte formulář / nahrajte hlasovou zprávu / pošlete e-mail / pošlete SMS / ZAVOLÁME VÁM 
+
+---
+# ! **NOVINKA** !
+.. STAČÍ 1 TELEFONÁT A MÁTE WEB VYŘEŠENÝ !
+#### JAK TO FUNGUJE ? 
+	Zavoláme Vám.
+	Zjistíme zadání.
+	Můžete si nechat poslat zadání ke kontrole. Nebo to necháte na nás. 
+
+
+.. a do 24 hodin máte hotový web !
+
+---
+
+## HYPERFRAME VIDEO z WEBU
+	file:///Users/mb/dev/webdo24-video2/index.html
+
+---
+
+
+|                                                                                                                                    |                                                                                                                                                                                            |                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✓Moderní **design**<br>✓**Mobilní** verze<br>✓**SEO** optimalizace<br>✓Kontaktní **formulář**<br><br>✓Spuštění **do 24 hodin**<br> | ✓AI automatizace<br><br>✓Automatické odpovědi<br><br>✓Sběr poptávek<br><br>✓CRM přehled<br><br>✓Platební brána<br><br>✓E-mail propojení<br><br>✓Automatické nabídky<br><br>✓Editace obsahu | ✓Pokročilé workflow<br><br>✓Rezervační systém<br><br>✓Automatické nabídky<br><br>✓SMS + e-mail sekvence<br><br>✓API integrace<br><br>✓Individuální workflow<br><br>✓Automatické faktury<br><br>✓60 dní podpora |
+
+
+
+
+
+
+
+
+
+
+---
+
+
+ + Vlastní doménu
+ + Web a E-maily na vlastní doméně
+ + Google Analytics
+ + Google search console
+
+ + SuperRychlý HOSTING 
+ + nově  také **AI - správu webu**
+
+za *440 Kč* měsíčně 
+
+---
+
+--> Analýza klíčových slov pro Váš obor
+--> Analýza konkorence
+
+
+---
+
+
+
 
 # Revoluce v tvorbě webu
 # 
@@ -54,7 +141,7 @@ file:///Users/mb/dev/kimi_webdo24/index.html
 ---
 
 **HLÁŠKY**:
-- ZAČNI HNED A ZÍTRA MÁŠ WEB.
+- ~~ZAČNI HNED A ZÍTRA MÁŠ WEB.~~
 - 
 
 
@@ -65,8 +152,10 @@ file:///Users/mb/dev/kimi_webdo24/index.html
 - uvádět pouze existující služby
 - uvádět : dokončeno v čase : 15h 23min apod.
 
+---
 
 
+---
 ## GENEROVÁNÍ WEBU | ZMĚNY
 - jak naložit s GDPR
 - certifikát k webu

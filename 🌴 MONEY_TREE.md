@@ -1,0 +1,3 @@
+
+
+[[MONEY_TREE.canvas]]

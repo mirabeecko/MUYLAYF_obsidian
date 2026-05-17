@@ -12,6 +12,7 @@ action Git: Pull
 
 ```
 
+[[🌴 MONEY_TREE]]
 .
 ```button
 name GITHUB push 🔄
@@ -20,6 +21,14 @@ action Git: Push
 
 ```
 
+- [ ] ⏳ uzavřít cenové modely due:2026-05-15
+- [ ] ceny JASNO 📅 2026-05-16
+- [ ] AHA - 
+
+
+
+
+- [ ] Zavolat klientovi 📅 2026-05-16
 
 
 # 🎯 ALFA DASHBOARD

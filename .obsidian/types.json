@@ -150,6 +150,7 @@
     "STK": "date",
     "GPS": "checkbox",
     "výkon motoru": "multitext",
-    "termín": "date"
+    "termín": "date",
+    "TQ_show_toolbar": "checkbox"
   }
 }

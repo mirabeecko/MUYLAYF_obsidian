@@ -102,6 +102,7 @@ list
 from #NOZ 
 ```
 
+---
 # TJ PRÁVNÍ
 
 ## TŘ
@@ -656,6 +657,9 @@ Vyloučení *Vaniš a Pivoňka*
 
 
 ---
+---
+
+---
 # TJ OSTATNÍ
 ## Úkoly
 
@@ -795,6 +799,7 @@ Tyto ustanovení jasně určují, že advokát má povinnost jednat pravdivě a 
  
  
 
+---
 # DATABÁZE ČLENŮ
 - [[Databáze PostgreSQL]]
 - [[IMPORT DATABÁZE 2024]]

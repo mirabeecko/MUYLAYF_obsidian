@@ -2,6 +2,8 @@
 tags:
   - claude_dashboard
   - claude_vozovypark
+cssclasses:
+  - dashboard
 ---
 
 # 🚗 BETA — VOZOVÝ PARK

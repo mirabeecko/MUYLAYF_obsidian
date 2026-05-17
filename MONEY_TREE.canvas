@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"02340df27e41eb88","x":53,"y":-240,"width":305,"height":595,"color":"3","type":"group","label":"glw"},
+		{"id":"29758a8a5605db35","x":-340,"y":-240,"width":290,"height":595,"color":"5","type":"group","label":"ninja"},
+		{"id":"33949e4be84999b2","type":"text","text":"# GIRLS LONGBOARD *WEEKEND* ","x":80,"y":-220,"width":250,"height":120},
+		{"id":"edbe326f17ff96c1","type":"text","text":"12 holek\n... **5.490** Kč \n#### 65.880 Kč\n","x":115,"y":-40,"width":180,"height":124},
+		{"id":"2fcbf51bd51f2bca","x":-320,"y":-190,"width":250,"height":60,"type":"text","text":"# NINJA *TÝDEN*"},
+		{"id":"fd9982571c1090f4","x":-275,"y":-40,"width":160,"height":124,"type":"text","text":"20 dětí\n... **3.490** Kč \n#### 69.800 Kč\n"},
+		{"id":"47d503c079944fb3","type":"text","text":"# GIRLS *LONGBOARD* WEEKEND ","x":-620,"y":460,"width":220,"height":120},
+		{"id":"8afeadcea4816488","x":400,"y":-187,"width":200,"height":55,"color":"1","type":"text","text":"#### ZA 2 DNY JEZDÍŠ"},
+		{"id":"ea042d901a14eec4","x":-688,"y":-184,"width":288,"height":50,"type":"text","text":"#### VŠESTRANOST VYHRÁVÁ"},
+		{"id":"423ab8c60f42cb94","type":"text","text":"3 - 5 OPAKOVÁNÍ MAX","x":98,"y":150,"width":215,"height":50},
+		{"id":"2f329673bfbe1850","x":-297,"y":150,"width":205,"height":50,"type":"text","text":"2- 3 OPAKOVÁNÍ MAX"},
+		{"id":"dbf004df10ee2a51","x":73,"y":285,"width":265,"height":50,"type":"text","text":"*197.640 Kč - 329.400 Kč*"},
+		{"id":"219559941a0aaec7","type":"text","text":"*139.600 Kč - 329.400 Kč*","x":-312,"y":285,"width":235,"height":50}
+	],
+	"edges":[
+		{"id":"a0030ff116d9cec8","fromNode":"2fcbf51bd51f2bca","fromSide":"bottom","toNode":"fd9982571c1090f4","toSide":"top"},
+		{"id":"3e6f6bf4018a5b28","fromNode":"33949e4be84999b2","fromSide":"bottom","toNode":"edbe326f17ff96c1","toSide":"top"},
+		{"id":"6385473fb4802fb4","fromNode":"33949e4be84999b2","fromSide":"right","toNode":"8afeadcea4816488","toSide":"left"},
+		{"id":"6444b299ce79be70","fromNode":"2fcbf51bd51f2bca","fromSide":"left","toNode":"ea042d901a14eec4","toSide":"right"},
+		{"id":"8e37c25f5e6a5e20","fromNode":"fd9982571c1090f4","fromSide":"bottom","toNode":"2f329673bfbe1850","toSide":"top"},
+		{"id":"157e96ebbed88c65","fromNode":"edbe326f17ff96c1","fromSide":"bottom","toNode":"423ab8c60f42cb94","toSide":"top"},
+		{"id":"ef98077d683f56dd","fromNode":"2f329673bfbe1850","fromSide":"bottom","toNode":"219559941a0aaec7","toSide":"top"},
+		{"id":"d22d5f021015c19a","fromNode":"423ab8c60f42cb94","fromSide":"bottom","toNode":"dbf004df10ee2a51","toSide":"top"}
+	]
+}

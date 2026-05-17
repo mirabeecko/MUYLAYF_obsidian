@@ -39,6 +39,8 @@ datum:
 politik:
 důvěra:
 ---
+
+
 - # NIKDY UŽ PO NÍ *NIC NECHTĚJ* A *NEVOLEJ* JI
 
 - # VYHOŇ SI HO A HOTOVO
@@ -54,8 +56,15 @@ důvěra:
 
 .. VÍŠ, ŽE REAGOVALA , ABYCH TAM NEPŘILÍTL - **až ve strachu**
 
+- **PŮJČÍ** SI A **NEŘEŠÍ** TO ! 
+
+# ? NESCHOPNÁ *PŘIZNAT*, ŽE BY SI RÁDA ZAPRCALA..
+-- RADŠI **NEPRCÁ** !     |      **PRCÁ** NĚKOHO JINÝHO
 
 
+# *ANL* nebyl *první* !
+
+---
 
 *30.4.2026*
 	klidně mě odveze za nějakou, tam počká, dá si brčko..

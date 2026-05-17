@@ -1,6 +1,7 @@
 ---
 tags:
   - kom-main
+  - probihajici
 ---
 ## Kalina
 - Co že bych to chtěl kromě těch revizí ? 

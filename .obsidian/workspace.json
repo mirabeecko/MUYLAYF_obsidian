@@ -6,6 +6,7 @@
       {
         "id": "4973a33573f7a2b4",
         "type": "tabs",
+        "dimension": 44.11102775693924,
         "children": [
           {
             "id": "5d13f0bfe9e868ad",
@@ -15,12 +16,12 @@
               "type": "markdown",
               "state": {
                 "file": "99-PUVODNI/ALFA DASHBOARD.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": true,
-                  "extraContext": true,
+                  "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -60,73 +61,30 @@
             }
           },
           {
-            "id": "7df2e790a7e2bb68",
+            "id": "8a6128043b0a48e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06-PRAVNI/Trestni-oznameni/⭐️ NEDATOVANO - Moje trestní oznámení.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "WEBDO24 - produkty.canvas",
+                "viewState": {
+                  "x": -338.1894902306089,
+                  "y": 153.33894527263504,
+                  "zoom": -1.0966666666666671
                 }
               },
-              "icon": "lucide-file",
-              "title": "⭐️ NEDATOVANO - Moje trestní oznámení"
+              "icon": "lucide-layout-dashboard",
+              "title": "WEBDO24 - produkty"
             }
           },
           {
-            "id": "f627b5e1095acac9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01-PROJEKTY/❤️ webdo24.cz/webdo24.cz PIPELINE.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "webdo24.cz PIPELINE.excalidraw"
-            }
-          },
-          {
-            "id": "ea73d865ba6aa901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📈 ANALÝZA KONKURENCE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "📈 ANALÝZA KONKURENCE"
-            }
-          },
-          {
-            "id": "fc4d9824fb55517a",
+            "id": "3b00f0e60b0a52d3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-PRAVNI/TJ-Krupka/80-TJ/otázky/T-MOBILE/T-MOBILE  🍌 TJ.md",
+                "file": "HLÁŠKY NAVŽDY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,28 +100,16 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "T-MOBILE  🍌 TJ"
+              "title": "HLÁŠKY NAVŽDY"
             }
           },
           {
-            "id": "bdd82411409cbe15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "99-PUVODNI/Excalidraw/⭐️ AKTUAL ALL 2026.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "⭐️ AKTUAL ALL 2026.excalidraw"
-            }
-          },
-          {
-            "id": "98b186d02954e877",
+            "id": "848b5c45811151de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈 ANALÝZA KONKURENCE.md",
+                "file": "webdo24-BACKEND.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -178,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📈 ANALÝZA KONKURENCE"
+              "title": "webdo24-BACKEND"
             }
           },
           {
-            "id": "b7055632017cf349",
+            "id": "6c3690ecb1456a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "❤️ the NEW_DIRECTION of SALE.md",
+                "file": "Bez názvu 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -202,191 +148,42 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "❤️ the NEW_DIRECTION of SALE"
-            }
-          },
-          {
-            "id": "e2928bce5400e845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-PUVODNI/MUYLAYF-archive/⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA"
-            }
-          },
-          {
-            "id": "b3dbf9206d9ae98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-AKCE/Inbox/Inbox/🪀🪀 Evernote 1/1_ mirabeecko/JÁ DĚLÁM CO ŘIKÁM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "JÁ DĚLÁM CO ŘIKÁM"
-            }
-          },
-          {
-            "id": "02820e635dd93c63",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/webdo24 VÝVOJ.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "webdo24 VÝVOJ.excalidraw"
-            }
-          },
-          {
-            "id": "16f22c0d5ff94104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-PROJEKTY/Komarka/KOMÁRKA - DŮKAZY UŽÍVÁNÍ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KOMÁRKA - DŮKAZY UŽÍVÁNÍ"
-            }
-          },
-          {
-            "id": "2c8cc604b3ef869b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BETA — TJ KRUPKA"
-            }
-          },
-          {
-            "id": "3baddacf646106b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BETA — KAUZA & PRÁVO"
-            }
-          },
-          {
-            "id": "bdd47261bf747a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "⭐️ Lucie LUCKA LŮČA Urbanová"
-            }
-          },
-          {
-            "id": "6e6b4d01ec8354e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BETA — KAUZA & PRÁVO"
+              "title": "Bez názvu 1"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 5
+      },
+      {
+        "id": "427bd91ffaf4e2f2",
+        "type": "tabs",
+        "dimension": 55.88897224306076,
+        "children": [
+          {
+            "id": "9e0041fcea002f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🧠AI CRO,PPC Workflow  webdo24.cz"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -418,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LUCIE",
+                "query": "api",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -444,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "d747d256b563506f",
@@ -453,6 +251,126 @@
       {
         "id": "9c3090cd4dbaca7c",
         "type": "tabs",
+        "dimension": 16.849199663016005,
+        "children": [
+          {
+            "id": "0c3fb29a2971858a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy pro 🧠AI CRO,PPC Workflow  webdo24.cz"
+            }
+          },
+          {
+            "id": "6248b7bd77e5a6b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy z 🧠AI CRO,PPC Workflow  webdo24.cz"
+            }
+          },
+          {
+            "id": "bbc4cecd1ad2494d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
+          },
+          {
+            "id": "b3cc11084ab04dc4",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": null,
+                  "focus": false,
+                  "profile": {
+                    "followTheme": true,
+                    "name": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "developerConsole"
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "Terminal: Developer console"
+            }
+          },
+          {
+            "id": "ba50235861d2138d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6337423996274661,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graf 🧠AI CRO,PPC Workflow  webdo24.cz"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "27d8840a62f1ade5",
+        "type": "tabs",
+        "dimension": 83.150800336984,
         "children": [
           {
             "id": "21e3e75b30feaf32",
@@ -491,40 +409,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "Terminal: ✳ Nápad monetizace komárce"
-            }
-          },
-          {
-            "id": "0c3fb29a2971858a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro 📀 API ONE"
-            }
-          },
-          {
-            "id": "6248b7bd77e5a6b1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Odchozí odkazy z 📀 API ONE"
+              "title": "Terminal: zsh"
             }
           },
           {
@@ -539,7 +424,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Štítky"
             }
           },
           {
@@ -551,57 +436,13 @@
               "icon": "documents",
               "title": "chatGPT"
             }
-          },
-          {
-            "id": "bbc4cecd1ad2494d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
-          },
-          {
-            "id": "b3cc11084ab04dc4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": null,
-                  "focus": false,
-                  "profile": {
-                    "followTheme": true,
-                    "name": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "developerConsole"
-                  },
-                  "serial": null
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "terminal:terminal"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 803.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -618,66 +459,69 @@
       "terminal:Open terminal": false,
       "supabase-sync:Sync se Supabase": false,
       "obsidian-google-tasks:Google Tasks": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "bdd47261bf747a15",
+  "active": "9e0041fcea002f81",
   "lastOpenFiles": [
-    "Excalidraw/NOVÉ VYLOUČENÍ - timeline.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-04 11.15.43.excalidraw.md",
-    "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-    "99-PUVODNI/ALFA DASHBOARD.md",
-    "06-PRAVNI/Trestni-oznameni/⭐️ NEDATOVANO - Moje trestní oznámení.md",
+    "🧠 LLMs PROMPTY OPENAI.md",
+    "🧠 AI CRO,PPC Workflow pro Webdo24.cz.md",
+    "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+    "FÁZE SPUŠTĚNÍ webdo24.cz.md",
+    "Bez názvu 1.md",
     "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
-    "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
-    "01-PROJEKTY/Komarka/KOMÁRKA - DŮKAZY UŽÍVÁNÍ.md",
-    "ODS VOLEBNÍ PROGRAM 2022.md",
-    "Excalidraw/webdo24 VÝVOJ.excalidraw.md",
+    "🧠 LLMs PROMPTY GEMINI.md",
     "WEBDO24-excalidraw.md",
-    "Excalidraw/webdo24 POSTŘEHY , KLÍČOVÉ PRVKY.excalidraw.md",
+    "POSTUP.md",
+    "WEBDO24 - produkty.canvas",
+    "💀 webdo24_PRODUKTY PROMPT.md",
+    "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+    "MONEY_TREE.canvas",
+    "🌴 MONEY_TREE.md",
+    "⏳ ÚKOLY 2026.md",
+    "99-PUVODNI/ALFA DASHBOARD.md",
+    "HLÁŠKY NAVŽDY.md",
+    "webdo24-BACKEND.md",
+    "99-PUVODNI/Excalidraw/⭐️ TJK 2026 přehled schůzí a rozhodnutí.excalidraw.md",
+    "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/82 TJ oddíly/LYŽAŘI/🎿 Lyžaři..md",
+    "99-PUVODNI/MOYE YACHTA.md",
+    "99-PUVODNI/Wind_results.py.md",
+    "02-AKCE/Inbox/Inbox/🪀🪀 Evernote 1/1_ mirabeecko/PRODEJING.md",
+    "99-PUVODNI/0-1-archive/🪀🪀 Evernote/1_ mirabeecko/Poznámka @ Proboštov, Ústecký kraj.md",
+    "0001 💀 PROBÍHAJÍCÍ.md",
+    "úkoly.md",
     "❤️ the NEW_DIRECTION of SALE.md",
-    "01-PROJEKTY/❤️ webdo24.cz/zprava-hluboky-vyzkum.md",
-    "06-PRAVNI/TJ-Krupka/80-TJ/TĚLOVÝCHOVNÁ TRACK.md",
-    "🦴 PŘÍLOHY/Diagram.svg.xml",
-    "🦴 PŘÍLOHY/Diagram.svg",
-    "GA4 Architektura automatizace.md",
-    "02-AKCE/Inbox/Inbox/🪀🪀 Evernote 1/1_ mirabeecko/JÁ DĚLÁM CO ŘIKÁM.md",
-    "02-AKCE/Inbox/Inbox/🪀🪀 Evernote 1/☠︎ 3_ RIKO MUSIC/ZÁVISLÁK.md",
-    "02-AKCE/Inbox/Inbox/🪀🪀 Evernote/1_ mirabeecko/Poznámka bez názvu.99.md",
-    "KAUZA-TJK/podání/VLACH - návrh na jmenování opatrovníka/PŘÍLOHY/250926 - KS - odmítnutí návrhu na zápis změn v OR - reakce na mé odvolání ÚSTECKÝ SOUD.pdf",
-    "KAUZA-TJK/podání/VLACH - návrh na jmenování opatrovníka/PŘÍLOHY/231106 - předžalobní výzva VLACH ODESLANÁ.pdf",
-    "KAUZA-TJK/podání/VLACH - návrh na jmenování opatrovníka/PŘÍLOHY/210824 - VH - zvolení mb.pdf",
-    "KAUZA-TJK/podání/VLACH - návrh na jmenování opatrovníka/PŘÍLOHY/⭐️ Odvolání - výmaz předsedy spolku.pdf",
-    "KAUZA-TJK/podání/⭐️ VÝSLECHOVÝ_PROTOKOL_Navrhované_otázky.md",
-    "KAUZA-TJK/SHRNUTÍ PRO SCHŮZKU SE STÁTNÍ ZÁSTUPKYNÍ.md",
-    "📈 ANALÝZA KONKURENCE.md",
-    "99-PUVODNI/MUYLAYF-archive/⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA.md",
-    "customers_webs.md",
-    "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
-    "poslouchat.md",
-    "KAUZA-TJK/důkazy/TJK DŮKAZY DOCS.pdf",
-    "KAUZA-TJK/analýzy/analýza/240101 SPORT KRUPKA s.r.o. konkrétně Syryčanský posílá PINČESÁRNA SMLOUVA priloha_1301129925_1_TJKrupka-stolní-tenis-Smlouva o pronajmu nebytovych prostor - 2024 (1).pdf",
-    "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/⚜ VYJÁDŘENÍ TJK k 2021-2024.pdf",
-    "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/⚜ TJ ODDÍLY 2021-2023 - výsledek hospodaření.pdf",
-    "KAUZA-TJK/korespondence/DATOVKA 1:2026/mb/ERP 286775/priloha_1595347295_1_elektronicky_platebni_rozkaz.pdf",
-    "KAUZA-TJK/podání/VLACH - návrh na jmenování opatrovníka/PŘÍLOHY/Hospodaření oddílů 2021-2023 ... 2 045 635 Kč.png",
-    "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/Geoprohlížeč_files/logoLight.svg",
-    "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/stažený soubor.png",
-    "KAUZA-TJK/analýzy/KAUZATJKRUPKA CLAUDE/QR KOD - Pravda-READY.png",
-    "Bez názvu.canvas",
+    "001 HLÁŠKY NAVŽDY",
+    "ALL  SHROMÁŽDĚNÍ DELEGÁTŮ přehled.canvas",
+    "⭐️ AIOS",
+    "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/RB ⭐️ 16.4.2025 ZÁPIS z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ.pdf",
+    "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/⭐️ ZÁPIS Z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ  ze dne 29.6.2025.pdf",
     "00-DASHBOARD/main.canvas",
-    "01-PROJEKTY/Komarka/🗺 MAPA AREÁLU.png",
-    "01-PROJEKTY/❤️ webdo24.cz/WebDo24-cz-Tržní-Analýza-a-PPC-Strategie-04-12-2026_05_08_PM.png",
-    "01-PROJEKTY/❤️ webdo24.cz/WebDo24-cz-Strategický-Dashboard-04-12-2026_05_08_PM.png",
-    "01-PROJEKTY/❤️ webdo24.cz/Video-Script-PPC-Copy-WebDo24-cz-04-12-2026_05_08_PM.png",
-    "🦴 PŘÍLOHY/Pasted Image 20260409150237_702.png",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/KOMPLEXNI_PRAVNI_STANOVISKO.txt",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/2407xx_Navrh_na_zastaveni_rizeni.txt",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240209_Upozorneni_protipravni_jednani.txt",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240125_Trestni_oznameni.txt",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/04_Srovnani_Rousek/ZALOBA_114_24_Vanis_Pivonka.txt",
+    "KAUZA-TJK/TJK_ANALYZA_KUCERA/04_Srovnani_Rousek/ZALOBA_Vanis_Vlach_Kulik.txt",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/12_zaloba_bod_vanis_-04.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/11_dorucenky_datova_schranka_-05.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/10_rozsudek_87_bod19_-4.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/10_rozsudek_87_bod19_-3.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/09_whatsapp_prispevky_-05.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/09_whatsapp_prispevky_-04.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/08_vyjadreni_TJK_-02.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/08_vyjadreni_TJK_-01.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/05_zadost_seznam_vanis_2021.png",
+    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/07_vanis_pozvanka_SD_nezakonn_a.png",
+    "99-PUVODNI/Canvasy/KOOO. CANVAS.canvas",
+    "Bez názvu.canvas",
     "99-PUVODNI/Bez názvu.canvas",
     "99-PUVODNI/Bez názvu 1.canvas",
     "99-PUVODNI/Canvasy/TJK MĚSTU KRUPKA.canvas",
-    "99-PUVODNI/Canvasy/TJK 2025 - PRÁVNÍ ROZUZLENÍ.canvas",
-    "99-PUVODNI/Canvasy/🥁🥁🥁 TJ 2024 - LISTINY, ZÁPISY apod..canvas",
-    "99-PUVODNI/Canvasy/🔫 MÁM PLÁN CANVAS.canvas",
-    "99-PUVODNI/Canvasy/🔥🔥🔥🔥🔥 TJ 2024.canvas",
-    "99-PUVODNI/Canvasy/🔥🔥🔥 ÚČETNICTVÍ.canvas"
+    "99-PUVODNI/Canvasy/TJK 2025 - PRÁVNÍ ROZUZLENÍ.canvas"
   ]
 }
