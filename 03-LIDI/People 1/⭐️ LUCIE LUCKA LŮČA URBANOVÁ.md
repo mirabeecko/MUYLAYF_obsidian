@@ -62,7 +62,8 @@ důvěra:
 -- RADŠI **NEPRCÁ** !     |      **PRCÁ** NĚKOHO JINÝHO
 
 
-# *ANL* nebyl *první* !
+# *ANL* nebyl *první* !    prej byl  :D
+
 
 ---
 
@@ -81,7 +82,7 @@ důvěra:
 ---
 ### zdržuje mě, neposlouchá mě
 ### ikdyž chce pomoct, tak mi nepomáhá
-(asi **NEBUDE** **ZLÁ**)
+(asi **NEBUDE** **ZLÁ**)   -  TAK UŽ VÍM, ŽE JE ZLÁ   !
 
 ---
 

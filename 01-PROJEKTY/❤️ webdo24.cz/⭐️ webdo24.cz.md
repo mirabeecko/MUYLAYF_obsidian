@@ -8,6 +8,9 @@ up:
 
 ---
 
+[[⭐️ ONLINE OFFLINE BUSINESESS.canvas]]
+
+---
 
 - [ ] Dodělat landing page 📅 2026-05-15
 - [ ] JASNO V PRODUKTECH

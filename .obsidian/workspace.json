@@ -6,7 +6,6 @@
       {
         "id": "4973a33573f7a2b4",
         "type": "tabs",
-        "dimension": 44.11102775693924,
         "children": [
           {
             "id": "5d13f0bfe9e868ad",
@@ -16,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "99-PUVODNI/ALFA DASHBOARD.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -46,7 +45,7 @@
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -128,44 +127,29 @@
             }
           },
           {
-            "id": "6c3690ecb1456a1d",
+            "id": "0e933c9d606a9883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bez názvu 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
+                "viewState": {
+                  "x": -208.89344860394425,
+                  "y": 60.910232290580836,
+                  "zoom": -0.029718391899203778
                 }
               },
-              "icon": "lucide-file",
-              "title": "Bez názvu 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "⭐️ ONLINE OFFLINE BUSINESESS"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "427bd91ffaf4e2f2",
-        "type": "tabs",
-        "dimension": 55.88897224306076,
-        "children": [
+          },
           {
-            "id": "9e0041fcea002f81",
+            "id": "e53ebec6e314ebfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "file": "🍦 MUY SERVER VPS HETZNER.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -180,10 +164,148 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧠AI CRO,PPC Workflow  webdo24.cz"
+              "title": "🍦 MUY SERVER VPS HETZNER"
+            }
+          },
+          {
+            "id": "120d9ec7be6f962a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📀 API ONE"
+            }
+          },
+          {
+            "id": "dc757d3c3f98f0af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lucie urbanová.canvas",
+                "viewState": {
+                  "x": 523.0950374893396,
+                  "y": 127.83534283489954,
+                  "zoom": -0.4945756871516463
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "lucie urbanová"
+            }
+          },
+          {
+            "id": "ef4022e9e706643b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⭐️ Lucie LUCKA LŮČA Urbanová"
+            }
+          },
+          {
+            "id": "e1305e8afaa44571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BETA — TJ KRUPKA"
+            }
+          },
+          {
+            "id": "3135d0bda4710b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-PRAVNI/TJ-Krupka/80-TJ/TJ DOPIS NA ROZLOUČENOU.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TJ DOPIS NA ROZLOUČENOU"
+            }
+          },
+          {
+            "id": "29fc79171ccd21e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-22 .. Life, Starosta a NSA"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -215,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "api",
+                "query": "tag:DIARY",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,8 +363,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "d747d256b563506f",
@@ -251,7 +372,7 @@
       {
         "id": "9c3090cd4dbaca7c",
         "type": "tabs",
-        "dimension": 16.849199663016005,
+        "dimension": 71.94608256107836,
         "children": [
           {
             "id": "0c3fb29a2971858a",
@@ -333,7 +454,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+                "file": "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -356,12 +477,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6337423996274661,
+                  "scale": 1.0980303429362133,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graf 🧠AI CRO,PPC Workflow  webdo24.cz"
+              "title": "Graf 2024-09-22 .. Life, Starosta a NSA"
             }
           }
         ],
@@ -370,7 +491,7 @@
       {
         "id": "27d8840a62f1ade5",
         "type": "tabs",
-        "dimension": 83.150800336984,
+        "dimension": 28.05391743892165,
         "children": [
           {
             "id": "21e3e75b30feaf32",
@@ -442,7 +563,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 803.5
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -465,36 +586,40 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9e0041fcea002f81",
+  "active": "cb6a555cd5ccf9f3",
   "lastOpenFiles": [
-    "🧠 LLMs PROMPTY OPENAI.md",
-    "🧠 AI CRO,PPC Workflow pro Webdo24.cz.md",
-    "🧠AI CRO,PPC Workflow  webdo24.cz.md",
-    "FÁZE SPUŠTĚNÍ webdo24.cz.md",
-    "Bez názvu 1.md",
-    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
-    "🧠 LLMs PROMPTY GEMINI.md",
-    "WEBDO24-excalidraw.md",
-    "POSTUP.md",
-    "WEBDO24 - produkty.canvas",
-    "💀 webdo24_PRODUKTY PROMPT.md",
+    "99-PUVODNI/mb DIARY.md",
+    "99-PUVODNI/DIARY OF MY.md",
+    "99-PUVODNI/BETA — AI & OSOBNÍ ROZVOJ.md",
+    "PROXY SERVER tahák.md",
+    "🍦 MUY SERVER VPS HETZNER.md",
     "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-    "MONEY_TREE.canvas",
-    "🌴 MONEY_TREE.md",
-    "⏳ ÚKOLY 2026.md",
+    "99-PUVODNI/Ai GRAFIKA PRO APLIKACE.md",
+    "⭐️ sheskates.cz.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/TJ DOPIS NA ROZLOUČENOU.md",
+    "99-PUVODNI/MUYLAYF-archive/⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA.md",
+    "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
     "99-PUVODNI/ALFA DASHBOARD.md",
-    "HLÁŠKY NAVŽDY.md",
-    "webdo24-BACKEND.md",
-    "99-PUVODNI/Excalidraw/⭐️ TJK 2026 přehled schůzí a rozhodnutí.excalidraw.md",
     "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
-    "06-PRAVNI/TJ-Krupka/80-TJ/82 TJ oddíly/LYŽAŘI/🎿 Lyžaři..md",
-    "99-PUVODNI/MOYE YACHTA.md",
-    "99-PUVODNI/Wind_results.py.md",
-    "02-AKCE/Inbox/Inbox/🪀🪀 Evernote 1/1_ mirabeecko/PRODEJING.md",
-    "99-PUVODNI/0-1-archive/🪀🪀 Evernote/1_ mirabeecko/Poznámka @ Proboštov, Ústecký kraj.md",
-    "0001 💀 PROBÍHAJÍCÍ.md",
-    "úkoly.md",
-    "❤️ the NEW_DIRECTION of SALE.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/⚜ VYJÁDŘENÍ TJK k 2021-2024.md",
+    "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+    "lucie urbanová.canvas",
+    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "WEBDO24 - produkty.canvas",
+    "webdo24-BACKEND.md",
+    "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
+    "HLÁŠKY NAVŽDY.md",
+    "05-NAPADY/👩‍💻 AI-Tech/SMS přes API.md",
+    "05-NAPADY/👩‍💻 AI-Tech/🅰 API POHROMADĚ.md",
+    "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/🅰 API POHROMADĚ.md",
+    "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ",
+    "🍀 0 1",
+    "SERVER.md",
+    "💀 webdo24_PRODUKTY PROMPT.md",
+    "FÁZE SPUŠTĚNÍ webdo24.cz.md",
+    "🧠AI CRO,PPC Workflow  webdo24.cz.md",
+    "🧠 LLMs PROMPTY OPENAI.md",
+    "MONEY_TREE.canvas",
     "001 HLÁŠKY NAVŽDY",
     "ALL  SHROMÁŽDĚNÍ DELEGÁTŮ přehled.canvas",
     "⭐️ AIOS",
@@ -505,8 +630,6 @@
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/2407xx_Navrh_na_zastaveni_rizeni.txt",
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240209_Upozorneni_protipravni_jednani.txt",
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240125_Trestni_oznameni.txt",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/04_Srovnani_Rousek/ZALOBA_114_24_Vanis_Pivonka.txt",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/04_Srovnani_Rousek/ZALOBA_Vanis_Vlach_Kulik.txt",
     "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/12_zaloba_bod_vanis_-04.png",
     "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/11_dorucenky_datova_schranka_-05.png",
     "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/10_rozsudek_87_bod19_-4.png",
@@ -520,8 +643,6 @@
     "99-PUVODNI/Canvasy/KOOO. CANVAS.canvas",
     "Bez názvu.canvas",
     "99-PUVODNI/Bez názvu.canvas",
-    "99-PUVODNI/Bez názvu 1.canvas",
-    "99-PUVODNI/Canvasy/TJK MĚSTU KRUPKA.canvas",
-    "99-PUVODNI/Canvasy/TJK 2025 - PRÁVNÍ ROZUZLENÍ.canvas"
+    "99-PUVODNI/Bez názvu 1.canvas"
   ]
 }
