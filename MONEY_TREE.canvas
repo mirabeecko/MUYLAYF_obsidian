@@ -1,27 +1,34 @@
 {
 	"nodes":[
-		{"id":"02340df27e41eb88","x":53,"y":-240,"width":305,"height":595,"color":"3","type":"group","label":"glw"},
-		{"id":"29758a8a5605db35","x":-340,"y":-240,"width":290,"height":595,"color":"5","type":"group","label":"ninja"},
-		{"id":"33949e4be84999b2","type":"text","text":"# GIRLS LONGBOARD *WEEKEND* ","x":80,"y":-220,"width":250,"height":120},
-		{"id":"edbe326f17ff96c1","type":"text","text":"12 holek\n... **5.490** Kč \n#### 65.880 Kč\n","x":115,"y":-40,"width":180,"height":124},
-		{"id":"2fcbf51bd51f2bca","x":-320,"y":-190,"width":250,"height":60,"type":"text","text":"# NINJA *TÝDEN*"},
-		{"id":"fd9982571c1090f4","x":-275,"y":-40,"width":160,"height":124,"type":"text","text":"20 dětí\n... **3.490** Kč \n#### 69.800 Kč\n"},
-		{"id":"47d503c079944fb3","type":"text","text":"# GIRLS *LONGBOARD* WEEKEND ","x":-620,"y":460,"width":220,"height":120},
-		{"id":"8afeadcea4816488","x":400,"y":-187,"width":200,"height":55,"color":"1","type":"text","text":"#### ZA 2 DNY JEZDÍŠ"},
-		{"id":"ea042d901a14eec4","x":-688,"y":-184,"width":288,"height":50,"type":"text","text":"#### VŠESTRANOST VYHRÁVÁ"},
-		{"id":"423ab8c60f42cb94","type":"text","text":"3 - 5 OPAKOVÁNÍ MAX","x":98,"y":150,"width":215,"height":50},
-		{"id":"2f329673bfbe1850","x":-297,"y":150,"width":205,"height":50,"type":"text","text":"2- 3 OPAKOVÁNÍ MAX"},
-		{"id":"dbf004df10ee2a51","x":73,"y":285,"width":265,"height":50,"type":"text","text":"*197.640 Kč - 329.400 Kč*"},
-		{"id":"219559941a0aaec7","type":"text","text":"*139.600 Kč - 329.400 Kč*","x":-312,"y":285,"width":235,"height":50}
+		{"id":"1f9a6d1498bcfe3f","type":"group","x":-347,"y":800,"width":787,"height":320,"color":"1","label":"webdo24.cz"},
+		{"id":"02340df27e41eb88","type":"group","x":53,"y":-460,"width":305,"height":815,"color":"3","label":"glw | 3 dny"},
+		{"id":"b8dd7cb8d0c4dbde","type":"group","x":880,"y":-460,"width":305,"height":815,"color":"4","label":"brozek24.cz"},
+		{"id":"29758a8a5605db35","type":"group","x":-340,"y":-460,"width":290,"height":815,"color":"5","label":"ninja | 5 dní"},
+		{"id":"dbf004df10ee2a51","type":"text","text":"*197.640 Kč - 329.400 Kč*","x":73,"y":285,"width":265,"height":50},
+		{"id":"2fcbf51bd51f2bca","type":"text","text":"# NINJA *TÝDEN*","x":-319,"y":-194,"width":250,"height":60},
+		{"id":"ea042d901a14eec4","type":"text","text":"#### VŠESTRANOST VYHRÁVÁ","x":-688,"y":-189,"width":288,"height":50},
+		{"id":"4e370d03ac259852","type":"text","text":"# kids *NINJA* TÝDEN ","x":-270,"y":-420,"width":152,"height":120,"color":"1"},
+		{"id":"74854accce0bebea","type":"text","text":"# GIRLS *LONGBOARD* WEEKEND ","x":96,"y":-420,"width":220,"height":120,"color":"1"},
+		{"id":"7de90931ca6600b0","type":"text","text":"# GIRLS LONGBOARD *WEEKEND* ","x":81,"y":-242,"width":250,"height":120},
+		{"id":"043f1969df265a2f","type":"text","text":"12 holek\n... **5.490** Kč \n#### 65.880 Kč\n","x":116,"y":-40,"width":180,"height":140},
+		{"id":"423ab8c60f42cb94","type":"text","text":"3 - 5 OPAKOVÁNÍ MAX","x":98,"y":180,"width":215,"height":50},
+		{"id":"7790bd02c12fbbaa","type":"text","text":"#### ZA 2 DNY JEZDÍŠ","x":440,"y":-209,"width":200,"height":55,"color":"1"},
+		{"id":"fd9982571c1090f4","type":"text","text":"20 dětí\n... **3.490** Kč \n#### 69.800 Kč\n","x":-292,"y":-40,"width":197,"height":140},
+		{"id":"2f329673bfbe1850","type":"text","text":"2- 3 OPAKOVÁNÍ MAX","x":-296,"y":155,"width":205,"height":50},
+		{"id":"219559941a0aaec7","type":"text","text":"*139.600 Kč - 329.400 Kč*","x":-311,"y":285,"width":235,"height":50},
+		{"id":"47d503c079944fb3","type":"text","text":"# EMERGENCY **MARKETING**  AGENCY","x":913,"y":-420,"width":220,"height":120,"color":"2"},
+		{"id":"b404f4eb45353f91","x":939,"y":-242,"width":168,"height":100,"type":"text","text":"#### RYCHLÝ **INDIVIDUÁLNÍ** SERVIS"},
+		{"id":"8afeadcea4816488","type":"text","text":"#### OPRAVY CHYB","x":903,"y":-109,"width":120,"height":69,"color":"4"}
 	],
 	"edges":[
 		{"id":"a0030ff116d9cec8","fromNode":"2fcbf51bd51f2bca","fromSide":"bottom","toNode":"fd9982571c1090f4","toSide":"top"},
-		{"id":"3e6f6bf4018a5b28","fromNode":"33949e4be84999b2","fromSide":"bottom","toNode":"edbe326f17ff96c1","toSide":"top"},
-		{"id":"6385473fb4802fb4","fromNode":"33949e4be84999b2","fromSide":"right","toNode":"8afeadcea4816488","toSide":"left"},
 		{"id":"6444b299ce79be70","fromNode":"2fcbf51bd51f2bca","fromSide":"left","toNode":"ea042d901a14eec4","toSide":"right"},
 		{"id":"8e37c25f5e6a5e20","fromNode":"fd9982571c1090f4","fromSide":"bottom","toNode":"2f329673bfbe1850","toSide":"top"},
-		{"id":"157e96ebbed88c65","fromNode":"edbe326f17ff96c1","fromSide":"bottom","toNode":"423ab8c60f42cb94","toSide":"top"},
 		{"id":"ef98077d683f56dd","fromNode":"2f329673bfbe1850","fromSide":"bottom","toNode":"219559941a0aaec7","toSide":"top"},
-		{"id":"d22d5f021015c19a","fromNode":"423ab8c60f42cb94","fromSide":"bottom","toNode":"dbf004df10ee2a51","toSide":"top"}
+		{"id":"d22d5f021015c19a","fromNode":"423ab8c60f42cb94","fromSide":"bottom","toNode":"dbf004df10ee2a51","toSide":"top"},
+		{"id":"ee399dbbdc6a7480","fromNode":"7de90931ca6600b0","fromSide":"bottom","toNode":"043f1969df265a2f","toSide":"top"},
+		{"id":"6571b9a807226a0b","fromNode":"7de90931ca6600b0","fromSide":"right","toNode":"7790bd02c12fbbaa","toSide":"left"},
+		{"id":"1bbbae02765de515","fromNode":"043f1969df265a2f","fromSide":"bottom","toNode":"423ab8c60f42cb94","toSide":"top"},
+		{"id":"d6e88b559be3dcc4","fromNode":"47d503c079944fb3","fromSide":"bottom","toNode":"b404f4eb45353f91","toSide":"top"}
 	]
 }

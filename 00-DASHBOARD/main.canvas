@@ -4,10 +4,10 @@
 		{"id":"akce","type":"file","file":"02-AKCE/dnes.md","label":"AKCE / DNES","x":-340,"y":-920,"width":480,"height":680},
 		{"id":"lidi","type":"file","file":"03-LIDI/People/👨 PEOPLELIST.md","label":"LIDI","x":200,"y":-840,"width":320,"height":600},
 		{"id":"penize","type":"file","file":"04-PENIZE","label":"PENÍZE","x":600,"y":-760,"width":220,"height":520},
-		{"id":"napady","type":"file","file":"05-NAPADY/AI-Tech","label":"NÁPADY","x":-600,"y":200,"width":220,"height":80},
 		{"id":"pravni","type":"file","file":"06-PRAVNI/prehled.md","label":"PRÁVNÍ – TJK","x":200,"y":200,"width":510,"height":780,"color":"2"},
 		{"id":"center","type":"text","text":"# MUYLAYF\n## Řídící centrum","x":-240,"y":-140,"width":280,"height":140,"color":"1"},
-		{"id":"dashboard","type":"file","file":"00-DASHBOARD/dashboard.md","x":-490,"y":360,"width":500,"height":780}
+		{"id":"dashboard","type":"file","file":"00-DASHBOARD/dashboard.md","x":-490,"y":360,"width":500,"height":780},
+		{"id":"napady","type":"file","file":"05-NAPADY/AI-Tech","label":"NÁPADY","x":-840,"y":200,"width":220,"height":160}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"projekty","toSide":"right"},

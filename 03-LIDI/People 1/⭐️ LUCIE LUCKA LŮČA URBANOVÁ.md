@@ -39,7 +39,9 @@ datum:
 politik:
 důvěra:
 ---
+[[lucie urbanová.canvas]]
 
+---
 
 - # NIKDY UŽ PO NÍ *NIC NECHTĚJ* A *NEVOLEJ* JI
 

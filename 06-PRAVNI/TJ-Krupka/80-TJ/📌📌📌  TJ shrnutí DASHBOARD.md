@@ -88,7 +88,7 @@ from #tj/precist
 
 
 - #### UDĚLAT
-	- [ ] [[⭐ Belková - lyžařská škola]] ! drží pokladnu 50k - chce v té činnosti pokračovat ? 📅  [priority:: high]  [start:: 2024-03-21]
+	- [x] [[⭐ Belková - lyžařská škola]] ! drží pokladnu 50k - chce v té činnosti pokračovat ? 📅  [priority:: high]  [start:: 2024-03-21]  [completion:: 2026-05-29]
 	- [x] [[🍀🍀🍀 návrh na změnu stanov 2024]] 🔺 📅 2024-02-01  [completion:: 2024-02-11]
 	- [x] [[🔥🔥🔥 MĚÚ Krupka ŽÁDOST O VYJÁDŘENÍ]]  [completion:: 2024-02-11]
 	- [ ] **IT TECs**

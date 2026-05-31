@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"67b07c2b8cb8a055","x":-320,"y":-320,"width":820,"height":285,"color":"5","type":"group","label":"."},
-		{"id":"63fe410c9af7db02","x":620,"y":-267,"width":260,"height":180,"color":"2","type":"group","label":"."},
-		{"id":"516876cd4de448ba","x":-300,"y":-285,"width":229,"height":62,"color":"1","type":"text","text":"NECHÁ TOHO VŽDYCKY, KDYŽ NAJDE HRANICI"},
+		{"id":"67b07c2b8cb8a055","type":"group","x":-320,"y":-320,"width":820,"height":285,"color":"5","label":"."},
+		{"id":"63fe410c9af7db02","type":"group","x":620,"y":-267,"width":260,"height":180,"color":"2","label":"."},
+		{"id":"516876cd4de448ba","type":"text","text":"NECHÁ TOHO VŽDYCKY, KDYŽ NAJDE HRANICI","x":-300,"y":-285,"width":229,"height":62,"color":"1"},
 		{"id":"5f390a554f8742c1","type":"text","text":"AROGANCE","x":-299,"y":-200,"width":132,"height":50},
-		{"id":"5f92ec9d67d90797","x":-149,"y":-200,"width":140,"height":50,"type":"text","text":"**NEJISTOTA**"},
-		{"id":"7b81aaaa62510b72","x":-30,"y":-285,"width":325,"height":62,"color":"6","type":"text","text":"POKUD NEJDE DO HISTERIE. ALE TO JE NA CHVÍLI - NEMÁ NA TO FÍZU"},
-		{"id":"c777bbe5ee4089d9","x":8,"y":-200,"width":125,"height":50,"type":"text","text":"SLABOST"},
-		{"id":"6824a8aa9604cdee","x":295,"y":-200,"width":180,"height":50,"type":"text","text":"VÍTĚZKA NIČEHO"},
-		{"id":"ba7af5dffbfd6f4a","x":160,"y":-200,"width":116,"height":50,"type":"text","text":"LHÁŘKA"},
-		{"id":"dd2d39de7b17fb43","x":-299,"y":-125,"width":100,"height":50,"color":"4","type":"text","text":"PTÁK"},
-		{"id":"cd62e3c1c161332e","x":-173,"y":-125,"width":174,"height":50,"color":"2","type":"text","text":"BEZOHLEDNOST"},
-		{"id":"a09d1f4c49b8aeba","x":1000,"y":-205,"width":186,"height":60,"type":"text","text":"RADŠI TĚ **PODĚLÁ** NEŽ **VOPRCÁ**"},
-		{"id":"a217f0d7f7100767","x":640,"y":-247,"width":220,"height":60,"type":"text","text":"PODĚLKA - **HOTOVOST**"},
-		{"id":"ce1b83defe99023a","x":640,"y":-167,"width":187,"height":60,"type":"text","text":"PODĚLKA - **FINTY**"}
+		{"id":"5f92ec9d67d90797","type":"text","text":"**NEJISTOTA**","x":-149,"y":-200,"width":140,"height":50},
+		{"id":"7b81aaaa62510b72","type":"text","text":"POKUD NEJDE DO HISTERIE. ALE TO JE NA CHVÍLI - NEMÁ NA TO FÍZU","x":-30,"y":-285,"width":325,"height":62,"color":"6"},
+		{"id":"c777bbe5ee4089d9","type":"text","text":"SLABOST","x":8,"y":-200,"width":125,"height":50},
+		{"id":"6824a8aa9604cdee","type":"text","text":"VÍTĚZKA NIČEHO","x":295,"y":-200,"width":180,"height":50},
+		{"id":"ba7af5dffbfd6f4a","type":"text","text":"LHÁŘKA","x":160,"y":-200,"width":116,"height":50},
+		{"id":"dd2d39de7b17fb43","type":"text","text":"PTÁK","x":-299,"y":-125,"width":100,"height":50,"color":"4"},
+		{"id":"cd62e3c1c161332e","type":"text","text":"BEZOHLEDNOST","x":-173,"y":-125,"width":174,"height":50,"color":"2"},
+		{"id":"a217f0d7f7100767","type":"text","text":"PODĚLKA - **HOTOVOST**","x":640,"y":-247,"width":220,"height":60},
+		{"id":"ce1b83defe99023a","type":"text","text":"PODĚLKA - **FINTY**","x":640,"y":-167,"width":187,"height":60},
+		{"id":"a09d1f4c49b8aeba","type":"text","text":"RADŠI TĚ **PODĚLÁ** NEŽ **VOPRCÁ**","x":960,"y":-210,"width":186,"height":60}
 	],
 	"edges":[
 		{"id":"ab0a28ec95970cd2","fromNode":"63fe410c9af7db02","fromSide":"right","toNode":"a09d1f4c49b8aeba","toSide":"left"},

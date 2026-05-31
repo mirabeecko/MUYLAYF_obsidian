@@ -134,9 +134,9 @@
               "state": {
                 "file": "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
                 "viewState": {
-                  "x": -208.89344860394425,
-                  "y": 60.910232290580836,
-                  "zoom": -0.029718391899203778
+                  "x": 109.2539268989322,
+                  "y": 418.6377200154609,
+                  "zoom": -1.0657264231511254
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -283,11 +283,12 @@
           {
             "id": "29fc79171ccd21e6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
-                "mode": "source",
+                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -300,12 +301,30 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2024-09-22 .. Life, Starosta a NSA"
+              "title": "📀 API ONE"
+            }
+          },
+          {
+            "id": "5fac0e89b81282b3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MONEY_TREE.canvas",
+                "viewState": {
+                  "x": 906.1469557783064,
+                  "y": -91.20043967470951,
+                  "zoom": -1.8116424175971169
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MONEY_TREE"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -337,7 +356,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:DIARY",
+                "query": "API",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -363,7 +382,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "d747d256b563506f",
@@ -372,7 +392,7 @@
       {
         "id": "9c3090cd4dbaca7c",
         "type": "tabs",
-        "dimension": 71.94608256107836,
+        "dimension": 71.94608256107834,
         "children": [
           {
             "id": "0c3fb29a2971858a",
@@ -454,7 +474,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
+                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -482,7 +502,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graf 2024-09-22 .. Life, Starosta a NSA"
+              "title": "Graf ⭐️ Lucie LUCKA LŮČA Urbanová"
             }
           }
         ],
@@ -491,7 +511,7 @@
       {
         "id": "27d8840a62f1ade5",
         "type": "tabs",
-        "dimension": 28.05391743892165,
+        "dimension": 28.053917438921648,
         "children": [
           {
             "id": "21e3e75b30feaf32",
@@ -563,7 +583,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -586,46 +607,45 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "cb6a555cd5ccf9f3",
+  "active": "ef4022e9e706643b",
   "lastOpenFiles": [
+    "lucie urbanová.canvas",
+    "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+    "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
+    "HLÁŠKY NAVŽDY.md",
+    "WEBDO24 - produkty.canvas",
+    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "99-PUVODNI/ALFA DASHBOARD.md",
+    "MONEY_TREE.canvas",
+    "🌴 MONEY_TREE.md",
+    "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+    "⏳ ÚKOLY 2026.md",
+    "00-DASHBOARD/main.canvas",
+    "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
     "99-PUVODNI/mb DIARY.md",
     "99-PUVODNI/DIARY OF MY.md",
     "99-PUVODNI/BETA — AI & OSOBNÍ ROZVOJ.md",
     "PROXY SERVER tahák.md",
     "🍦 MUY SERVER VPS HETZNER.md",
-    "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
     "99-PUVODNI/Ai GRAFIKA PRO APLIKACE.md",
     "⭐️ sheskates.cz.md",
     "06-PRAVNI/TJ-Krupka/80-TJ/TJ DOPIS NA ROZLOUČENOU.md",
     "99-PUVODNI/MUYLAYF-archive/⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA.md",
     "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-    "99-PUVODNI/ALFA DASHBOARD.md",
     "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
     "06-PRAVNI/TJ-Krupka/80-TJ/⚜ VYJÁDŘENÍ TJK k 2021-2024.md",
-    "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
-    "lucie urbanová.canvas",
-    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
-    "WEBDO24 - produkty.canvas",
     "webdo24-BACKEND.md",
-    "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
-    "HLÁŠKY NAVŽDY.md",
     "05-NAPADY/👩‍💻 AI-Tech/SMS přes API.md",
     "05-NAPADY/👩‍💻 AI-Tech/🅰 API POHROMADĚ.md",
     "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/🅰 API POHROMADĚ.md",
     "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ",
     "🍀 0 1",
     "SERVER.md",
-    "💀 webdo24_PRODUKTY PROMPT.md",
-    "FÁZE SPUŠTĚNÍ webdo24.cz.md",
-    "🧠AI CRO,PPC Workflow  webdo24.cz.md",
-    "🧠 LLMs PROMPTY OPENAI.md",
-    "MONEY_TREE.canvas",
     "001 HLÁŠKY NAVŽDY",
     "ALL  SHROMÁŽDĚNÍ DELEGÁTŮ přehled.canvas",
     "⭐️ AIOS",
     "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/RB ⭐️ 16.4.2025 ZÁPIS z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ.pdf",
     "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/⭐️ ZÁPIS Z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ  ze dne 29.6.2025.pdf",
-    "00-DASHBOARD/main.canvas",
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/KOMPLEXNI_PRAVNI_STANOVISKO.txt",
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/2407xx_Navrh_na_zastaveni_rizeni.txt",
     "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240209_Upozorneni_protipravni_jednani.txt",
