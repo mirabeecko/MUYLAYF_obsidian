@@ -6,6 +6,7 @@ up:
 ---
 # [[FÁZE SPUŠTĚNÍ webdo24.cz]]
 
+[[AUDIT WEBU CLAUDE]]
 ---
 
 [[⭐️ ONLINE OFFLINE BUSINESESS.canvas]]
@@ -135,6 +136,11 @@ VYBERTE SI FORMU KOMUNIKACE !
 - GIRLS **LONGBOARD** WEEKEND
 
 
+
+
+| [[📀 API ONE]] | [[webdo24-BACKEND]] | [[WEBDO24-excalidraw]] | [[webdo24 VÝVOJ.excalidraw]] | [[WEBDO24 - produkty.canvas]] |
+| -------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------- |
+|                |                     |                        |                              |                               |
 
 ---
 
@@ -298,3 +304,14 @@ SORT file.name ASC
 > 
 
 ---
+
+
+---
+
+# Vault Info  
+- 🗄️ Recent file updates  
+`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`  
+- 🔖 Tagged:  favorite    `$=dv.list(dv.pages('#favorite').sort(f=>f.file.name,"desc").limit(4).file.link)`  
+- 〽️ Stats  
+	-  File Count: `$=dv.pages().length`  
+	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`

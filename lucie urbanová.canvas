@@ -13,7 +13,7 @@
 		{"id":"cd62e3c1c161332e","type":"text","text":"BEZOHLEDNOST","x":-173,"y":-125,"width":174,"height":50,"color":"2"},
 		{"id":"a217f0d7f7100767","type":"text","text":"PODĚLKA - **HOTOVOST**","x":640,"y":-247,"width":220,"height":60},
 		{"id":"ce1b83defe99023a","type":"text","text":"PODĚLKA - **FINTY**","x":640,"y":-167,"width":187,"height":60},
-		{"id":"a09d1f4c49b8aeba","type":"text","text":"RADŠI TĚ **PODĚLÁ** NEŽ **VOPRCÁ**","x":960,"y":-210,"width":186,"height":60}
+		{"id":"a09d1f4c49b8aeba","type":"text","text":"RADŠI TĚ **PODĚLÁ** NEŽ **VOPRCÁ**","x":980,"y":-205,"width":186,"height":60}
 	],
 	"edges":[
 		{"id":"ab0a28ec95970cd2","fromNode":"63fe410c9af7db02","fromSide":"right","toNode":"a09d1f4c49b8aeba","toSide":"left"},

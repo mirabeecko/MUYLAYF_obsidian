@@ -10,6 +10,7 @@ tags:
 
 Kolikrát :
 
+Když Vás vyhodí z práce, nejdete tam druhý den zpátky a nevyhodíte vy je. 
 
 ---
 - [[KLADNÝ HRDINA MB]]
@@ -24,42 +25,85 @@ Takže přihlašte se přátelé nepřátelé balatové horáčkové vlachové v
 
 Komárka asi takhle 50 let existuje Komárka ale lyžařský areál 50 let to řeší tělovýchovná jednota Krupka dříve to je krupka která prostřednictvím oddílu lyžařů historicky 
 
-Původní lyžařský oddíl byl plný bombarďáků, který se prostě kously a vzniknul hezky areál.
+Původní lyžařský oddíl byl plný bombarďáků, který se prostě kously a začli makat. 
 
 Obávám se že nikdo z těch bombarďáku už nežije , jejich děti jsou buď imitaci jejich samých nesáhli na práci ale mají plnou hubu keců 
 
-
+---
 
 Klamete veřejnost a jen 
 
-Aby bylo jednou pro vždy jasno .. statutární orgán Tělovýchovné jednoty Krupka , jsem já a jsem jim, protože mě jednomyslně a řádně zvolili 24. srpna 2021 na schůzi delegátu a to je všechno co potřebujete vědět. 
+Aby bylo jednou pro vždy jasno .. statutární orgán Tělovýchovné jednoty Krupka , jsem já a jsem jim, protože mě jednomyslně a řádně zvolili 24. srpna 2021 na schůzi delegátu a to je všechno, co potřebujete vědět. 
 
-Konkrétně mě volil Vaniš Marek Gustav Vlach Romana odvárková a další. 
+Konkrétně mě volil správňáci a stolní tenisté : Marek Vaniš a Jaromír Pivoňka
+elektrikář a prej i lyžař Gustav Vlach,  Romana Vodvárková a další. 
 
-Volili mě přesně ty lidi s kterými jsem se domluvil no jasném pokračování tělovýchovné jednoty a všichni tyhle ty lidi nesplnili ani jeden slib, který mi dali v den , kdy mě zvolili. . 
+Jinak celý oddíl stolního tenisu je samej charakter a 
 
-Ing. Marek Vaniš nakonec vymyslel super věc díky které nebude muset odevzdat to, co s pivoňkou vybrali .. a proč pak platit třeba energie, že jo? A jsme u lyžařů. Gustav Vlach , 
+Volili mě přesně ty lidi s kterými jsem se domluvil no jasném pokračování tělovýchovné jednoty a všichni tyhle ty lidi nesplnili ani jeden slib, který mi dali v den v den, když mě zvolili. . 
 
-
-Co se týče mojí činnosti předsedy spolku,
-tak pokud se bavíme o 
-
+Marek Vaniš nakonec vymyslel super věc, díky které nebude muset odevzdat to, co s pivoňkou vybrali .. a proč pak platit třeba energie, že jo? A jsme u lyžařů. Gustav Vlach , 
 
 
+**Aby bylo jasno :**
+- Marek Vaniš a Jaromír Pivoňka vybrali ... 
+- Gustav Vlach vybral ... 
+
+
+
+
+
+
+---
+# Představení 
+	Pro ty, co mě neznaj a vůbec nevědí - těm patří gratulace, pusťte si radši nějakou srandu. 
+
+	Pokud žijete v Krupce , tohle je pro vás. 
+
+	Málokdo neslyšel o tělovýchovný jednotě Krupka, pinčesárně nebo Komárce. Já jsem ten,  
+	
+	
+	
+	
+	Většina z toho , co jste slyšeli 
+
+
+
+JÁ JSEM NĚJAKEJ MADAFAKA 
+
+
+---
 
 Ten nápad spočíval v tom , že se spojí s lyžaři, kteří též vybírali peníze jménem oddílu a neplatili náklady , které vznikli jejich činnosti v areálu Komárka.
 
-Na rozdíl od téhle party lhářů a jejich nepodloženého obviňování u lidí, kteří o tom nevědí vůbec nic, mám pro vás shrnutí oddílové činnosti a hospodářských výsledků oddílů, kterým předsedali Marek Vaniš za stolní tenis gustav Vlach za lyžaře a pan Kulík kterého s úcty k němu vynechám, protože zemřel . 
+Na rozdíl od téhle party lhářů a jejich nepodloženého obviňování u lidí, kteří o tom nevědí vůbec nic, mám pro vás shrnutí oddílové činnosti a hospodářských výsledků oddílů, kterým předsedali Marek Vaniš za stolní tenis a Gustav Vlach za lyžaře 
 
-Stejně tak Romanu Odvárkovou vynechám , jelikož jako jediná zaprvé poslala seznam členů = jediná dodržela slib a za druhé měla dostatek slušnosti
+pana Kulíka z úcty k němu vynechám, protože zemřel . 
+
+
+Nemohu vynechat Romanu Odvárkovou , předsedkyni turistů, jelikož jako jediná ze všech poslala slíbený seznam členů = jediná dodržela slib
+A jako jediná měla dostatek slušnosti 
 
 Všichni ostatní totiž všechno odkývali , ale nic z toho nesplnili. Naprosto odmítám jejich nepodložená tvrzení .
 
-Když vybíráte jménem Jednoty peníze tak nejsou vaše. Překvápko.
+Když vybíráte jménem Jednoty peníze tak nejsou vaše. Překvápko. **WAAAAAUUUU**
+Když svítíte , topíte, koupete se - vznikne náklad. **WAAAAAUUUU**
 
-Když Vás vyhodí z práce, nejdete tam druhý den zpátky a nevyhodíte vy je. 
+Když si necháte peníze, nezaplatíte náklady a brečíte na facebooku - jste Vaniš s Pivoňkou a taky pěkný čuráci. 
 
-Všichni, co teďka brečej a jsou chytrý jak rádia, tak všichni měli možnost vzít funkci předsedy spolku. Nikdo to dělat nechtěl a dělám to já protože mě ukecal oddil stolního tenisu. Co se týče oddíl stolního tenisu tak vám udělám samostatný shrnutí protože to je moc velká zábava. 
+
+
+
+
+
+### HLÁŠENÍ:
+Všichni, krupská plácalové , lyžaři, a kdokoliv jinej teďka brečej a jsou chytrý jak rádia, tak všichni měli možnost vzít funkci předsedy spolku. Nikdo z lyžařů ani plácalů o to nestál. 
+
+
+
+Nikdo to dělat nechtěl a dělám to já protože mě ukecal oddil stolního tenisu. 
+
+Co se týče oddíl stolního tenisu tak vám udělám samostatný shrnutí protože to je moc velká zábava. 
 
 
 Kdo neplatí příspěvky - není člen
@@ -72,20 +116,30 @@ Kdo neplatí příspěvky - není člen
 ---
 
 [[Lidičky zlatý - video EDIT]]
-
 [[TJ - VYSVĚTLENÍ.excalidraw]]
 
 ---
 TÍMTO RESOLUTNĚ ODMÍTÁM PŘIJMOUT JAKO FAKT, ŽE 
 --- 
 
-TOHLE JE DŮLEŽITEJ MOMENT.
+### TOHLE JE DŮLEŽITEJ MOMENT.
+VÍTE, TA MOJE SITUACE JE V MNOHA VĚCECH UNIKÁTNÍ. Jedna z těch unikátních věcí je to, že já jako fo v tom příběhu nehraju skoro žádnou roli. Dokonce to ani není můj příběh 
 
-VÍTE, TA MOJE SITUACE JE V MNOHA VĚCECH UNIKÁTNÍ. Jedna z těch unikátních věcí je to, že já jako mb v tom příběhu nehraju skoro žádnou roli. Neni to ani můj příběh, je to příběh lidí, který vůbec neznám. Moje role v příběhu začíná až teď. 
+Je to příběh lidí, který vůbec neznám. Moje role v příběhu začíná až teď. 
+
+
+---
+### HLAVNÍ HRDINOVÉ PŘÍBĚHU
+	JAN KUZMA , JAN BOKOČ, ADOLF VÍTŮ, SYRYČANSKÝ 
+
+	Marek Vaniš, Jaromír Pivoňka, a vysloužilý vekslák Dalibor Mach 
+
+	Gustav Vlach, Brei, Breiová - legendární děčínská náplava Míša Šnajdr 
+
 
 ### NEBEZPEČNOST PŘIPOSRANOSTI ANEB SKRYTÁ SÍLA SRABA
 
-SRAB MILUJE PŘESILU. PRO SRABA JE VÝHRA 
+SRAB MILUJE PŘESILU. PRO SRABA JE VÝHRA, když nemusí hrát, aby vyhrál. 
 SRAB SE KOUKNE DO ZRCADLA A NEVIDÍ VÝHRU. VIDÍ SRABA. 
 
 SRAB 
@@ -93,10 +147,11 @@ SRAB
 PŘESVĚDČIT SEBE.
 BEJT SI JISTEJ. CO CHCI, KDO CHCI BEJT. 
 
+
 - XINDLÁCI HLASITĚ ODMÍTAJÍ MOŽNOST, ŽE BY KDOKOLIV MOHL JEDNAT V DOBRÝ VÍŘE. HAHA
 - XINDLÁCI LEPŠÍM RADŠI UJEDOU, ABY JE NEOHROZILI
 
-SILNÝ SE SILNEJCH NEBOJEJ. 
+SILNÝ - SE SILNEJCH NEBOJEJ. 
 
 PŘESVĚDČOVÁNÍ OKOLÍ , ŽE JSTE NĚKDO JINEJ 
 
@@ -135,7 +190,7 @@ PŘEVÁDĚLY MAJETKY SPOLKU NA MĚSTO
 - NEOPRÁVNĚNĚ DRŽÍ  POKLADNU A ODMÍTAJÍ PŘEDAT HOTOVOST
 - VŽDY BYLI ŘÁDNĚ VYZVÁNI
 - LHALI, SLIBOVALI, OBOHATILI SE
--  
+
 
 VANIŠ SE JENOM CHYTŘE TVÁŘÍ ALE IQ MÁ JAK PIVOŇKA
 - COŽ ZAKAZUJÍ STANOVY

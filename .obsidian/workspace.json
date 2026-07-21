@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "99-PUVODNI/ALFA DASHBOARD.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -31,6 +31,18 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "ALFA DASHBOARD"
+            }
+          },
+          {
+            "id": "c1940aea22bc1c18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-30 20.44.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-30 20.44.45.excalidraw"
             }
           },
           {
@@ -60,35 +72,30 @@
             }
           },
           {
-            "id": "8a6128043b0a48e8",
+            "id": "a4f900008b8c8195",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "WEBDO24 - produkty.canvas",
-                "viewState": {
-                  "x": -338.1894902306089,
-                  "y": 153.33894527263504,
-                  "zoom": -1.0966666666666671
-                }
+                "file": "99-PUVODNI/Excalidraw/⭐️ AKTUAL ALL 2026.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "WEBDO24 - produkty"
+              "icon": "excalidraw-icon",
+              "title": "⭐️ AKTUAL ALL 2026.excalidraw"
             }
           },
           {
-            "id": "3b00f0e60b0a52d3",
+            "id": "5c9d4a3cb73cf0ed",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HLÁŠKY NAVŽDY.md",
-                "mode": "source",
+                "file": "👩‍⚖️ JUDIKÁTY T-Mobile a Město Krupka.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -99,122 +106,47 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "HLÁŠKY NAVŽDY"
+              "title": "👩‍⚖️ JUDIKÁTY T-Mobile a Město Krupka"
             }
           },
           {
-            "id": "848b5c45811151de",
+            "id": "8a46cac97eb292d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "webdo24-BACKEND.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/BOKOČ A KUZMA excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "webdo24-BACKEND"
+              "icon": "excalidraw-icon",
+              "title": "BOKOČ A KUZMA excalidraw"
             }
           },
           {
-            "id": "0e933c9d606a9883",
+            "id": "3a6eec13cf09bda5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
+                "file": "MASTER PLAN CANVAS 2026.canvas",
                 "viewState": {
-                  "x": 109.2539268989322,
-                  "y": 418.6377200154609,
-                  "zoom": -1.0657264231511254
+                  "x": -611.7896122919431,
+                  "y": 50.906282447754165,
+                  "zoom": -0.967410892599288
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "⭐️ ONLINE OFFLINE BUSINESESS"
+              "title": "MASTER PLAN CANVAS 2026"
             }
           },
           {
-            "id": "e53ebec6e314ebfe",
+            "id": "effd98b615fc0c94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍦 MUY SERVER VPS HETZNER.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🍦 MUY SERVER VPS HETZNER"
-            }
-          },
-          {
-            "id": "120d9ec7be6f962a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "📀 API ONE"
-            }
-          },
-          {
-            "id": "dc757d3c3f98f0af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "lucie urbanová.canvas",
-                "viewState": {
-                  "x": 523.0950374893396,
-                  "y": 127.83534283489954,
-                  "zoom": -0.4945756871516463
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "lucie urbanová"
-            }
-          },
-          {
-            "id": "ef4022e9e706643b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+                "file": "SHRNUTÍ VÝVOJE T-MOBILE ČERVEN 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -229,66 +161,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "⭐️ Lucie LUCKA LŮČA Urbanová"
-            }
-          },
-          {
-            "id": "e1305e8afaa44571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BETA — TJ KRUPKA"
-            }
-          },
-          {
-            "id": "3135d0bda4710b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-PRAVNI/TJ-Krupka/80-TJ/TJ DOPIS NA ROZLOUČENOU.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TJ DOPIS NA ROZLOUČENOU"
+              "title": "SHRNUTÍ VÝVOJE T-MOBILE ČERVEN 2026"
             }
           },
           {
             "id": "29fc79171ccd21e6",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/muy_bot SCHEMA.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "muy_bot SCHEMA"
+            }
+          },
+          {
+            "id": "02c5e21e97b14dce",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-                "mode": "preview",
+                "file": "90 ❌ POLICIE/👮🏼 POVINNOST POLICIE KONAT.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -301,26 +196,128 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "📀 API ONE"
+              "title": "👮🏼 POVINNOST POLICIE KONAT"
             }
           },
           {
-            "id": "5fac0e89b81282b3",
+            "id": "eb38b09a1cb2e3ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MONEY_TREE.canvas",
-                "viewState": {
-                  "x": 906.1469557783064,
-                  "y": -91.20043967470951,
-                  "zoom": -1.8116424175971169
+                "file": "AUDIT WEBU CLAUDE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MONEY_TREE"
+              "icon": "lucide-file",
+              "title": "AUDIT WEBU CLAUDE"
+            }
+          },
+          {
+            "id": "972b51be4ba864f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-LIDI/⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ"
+            }
+          },
+          {
+            "id": "eafbf7ce249ae84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-LIDI/People 1/⭐ Jan Kuzma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⭐ Jan Kuzma"
+            }
+          },
+          {
+            "id": "af781e69aefbe3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐️ Klaška Rudolf - zastupitel města Krupka za ANO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⭐️ Klaška Rudolf - zastupitel města Krupka za ANO"
+            }
+          },
+          {
+            "id": "4e336eeb6802d7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milo_Agent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Milo_Agent"
             }
           }
         ],
@@ -356,7 +353,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "API",
+                "query": "Nečinnost",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -377,13 +374,11 @@
               "title": "Záložky"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "d747d256b563506f",
@@ -392,7 +387,7 @@
       {
         "id": "9c3090cd4dbaca7c",
         "type": "tabs",
-        "dimension": 71.94608256107834,
+        "dimension": 52.81757402101241,
         "children": [
           {
             "id": "0c3fb29a2971858a",
@@ -474,7 +469,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
+                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -497,21 +492,41 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0980303429362133,
+                  "scale": 0.011000000458633998,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graf ⭐️ Lucie LUCKA LŮČA Urbanová"
+              "title": "Graf 📀 API ONE"
+            }
+          },
+          {
+            "id": "5174db9d4c80c02d",
+            "type": "leaf",
+            "state": {
+              "type": "mxmind-view",
+              "state": {},
+              "icon": "network",
+              "title": "Mxmind"
+            }
+          },
+          {
+            "id": "5c1b2a0478e958a5",
+            "type": "leaf",
+            "state": {
+              "type": "flownote-view",
+              "state": {},
+              "icon": "flownote-journal-glow",
+              "title": "FLOWnote"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "27d8840a62f1ade5",
         "type": "tabs",
-        "dimension": 28.053917438921648,
+        "dimension": 47.18242597898759,
         "children": [
           {
             "id": "21e3e75b30feaf32",
@@ -583,7 +598,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
+    "width": 560.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -600,69 +615,80 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "terminal:Open terminal": false,
       "supabase-sync:Sync se Supabase": false,
-      "obsidian-google-tasks:Google Tasks": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
+      "flownote:FLOWnote": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "workspace-plus-plus:Workspace++": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "ef4022e9e706643b",
+  "active": "02c5e21e97b14dce",
   "lastOpenFiles": [
-    "lucie urbanová.canvas",
-    "03-LIDI/People 1/⭐️ Lucie LUCKA LŮČA Urbanová.md",
-    "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
-    "HLÁŠKY NAVŽDY.md",
-    "WEBDO24 - produkty.canvas",
-    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "12_Archiv/Poznamka_Migrace.md",
+    "90 ❌ POLICIE/👮🏼 POVINNOST POLICIE KONAT.md",
+    "90 ❌ POLICIE/👮🏼 KDYŽ NECHTĚJ KONAT.md",
+    "TaskNotes/Views/agenda-default.base",
+    "09_Judikatura/Index_Judikatury.md",
+    "Bez názvu",
+    "90 ❌ POLICIE",
+    "11_Chronologie/Kompletni_Chronologie.md",
+    "Milo_Agent.md",
+    "Clippings/Multi-Agent Coding Team Tools.md",
+    "03-LIDI/⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md",
+    "⭐️ Klaška Rudolf - zastupitel města Krupka za ANO.md",
+    "03-LIDI/People 1/⭐ Jan Kuzma.md",
+    "📡 VYSÍLAČ T-MOBILE.md",
+    "Excalidraw/Drawing 2026-06-30 20.44.45.excalidraw.md",
     "99-PUVODNI/ALFA DASHBOARD.md",
-    "MONEY_TREE.canvas",
-    "🌴 MONEY_TREE.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/Zastupitelstvo města Krupka 2022-2026.md",
+    "KANO - PROČ SE TO DĚJE FURT MNĚ ?.md",
+    "KDO SI A CO JSI.md",
+    "99-PUVODNI/🧠 MOJE ŠÍLENSTVÍ.md",
     "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-    "⏳ ÚKOLY 2026.md",
-    "00-DASHBOARD/main.canvas",
-    "02-AKCE/Kalendar/KALENDAR/DAILY/2024-09-22 .. Life, Starosta a NSA.md",
-    "99-PUVODNI/mb DIARY.md",
-    "99-PUVODNI/DIARY OF MY.md",
-    "99-PUVODNI/BETA — AI & OSOBNÍ ROZVOJ.md",
-    "PROXY SERVER tahák.md",
-    "🍦 MUY SERVER VPS HETZNER.md",
+    "PŘEVZETÍ NEEXISTUJÍCÍHO DLUHU.md",
+    "99-PUVODNI/📚 VÝVOJÁŘ MOC.md",
     "99-PUVODNI/Ai GRAFIKA PRO APLIKACE.md",
-    "⭐️ sheskates.cz.md",
-    "06-PRAVNI/TJ-Krupka/80-TJ/TJ DOPIS NA ROZLOUČENOU.md",
-    "99-PUVODNI/MUYLAYF-archive/⭐️ KOMPLEXNÍ ANALÝZA PŘÍPADU TJ KRUPKA.md",
-    "99-PUVODNI/BETA — KAUZA & PRÁVO.md",
-    "06-PRAVNI/TJ-Krupka/BETA — TJ KRUPKA.md",
-    "06-PRAVNI/TJ-Krupka/80-TJ/⚜ VYJÁDŘENÍ TJK k 2021-2024.md",
-    "webdo24-BACKEND.md",
-    "05-NAPADY/👩‍💻 AI-Tech/SMS přes API.md",
-    "05-NAPADY/👩‍💻 AI-Tech/🅰 API POHROMADĚ.md",
-    "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ/🅰 API POHROMADĚ.md",
-    "🍀 0 1/⌨️ 👾 ✍︎ VÝVOJÁŘ",
-    "🍀 0 1",
-    "SERVER.md",
-    "001 HLÁŠKY NAVŽDY",
-    "ALL  SHROMÁŽDĚNÍ DELEGÁTŮ přehled.canvas",
-    "⭐️ AIOS",
-    "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/RB ⭐️ 16.4.2025 ZÁPIS z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ.pdf",
-    "KAUZA-TJK/ZÁPISY SPOLKU TJK 2025/⭐️ ZÁPIS Z MIMOŘÁDNÉHO SHROMÁŽDĚNÍ DELEGÁTŮ  ze dne 29.6.2025.pdf",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/KOMPLEXNI_PRAVNI_STANOVISKO.txt",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/2407xx_Navrh_na_zastaveni_rizeni.txt",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240209_Upozorneni_protipravni_jednani.txt",
-    "KAUZA-TJK/TJK_ANALYZA_KUCERA/01_Dokumenty_Kucera/240125_Trestni_oznameni.txt",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/12_zaloba_bod_vanis_-04.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/11_dorucenky_datova_schranka_-05.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/10_rozsudek_87_bod19_-4.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/10_rozsudek_87_bod19_-3.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/09_whatsapp_prispevky_-05.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/09_whatsapp_prispevky_-04.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/08_vyjadreni_TJK_-02.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/08_vyjadreni_TJK_-01.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/05_zadost_seznam_vanis_2021.png",
-    "KAUZA-TJK/OBRANA TJK - KOMPLETNÍ ARGUMENTACE/DŮKAZY-OBRÁZKY/07_vanis_pozvanka_SD_nezakonn_a.png",
-    "99-PUVODNI/Canvasy/KOOO. CANVAS.canvas",
+    "Clippings/Nový chat.md",
+    "Clippings",
+    "❌ VORLÍČEK jednání s Lesy ČR.md",
+    "Excalidraw/BOKOČ A KUZMA excalidraw.md",
+    "03-LIDI/People 1/⭐️ JAN BOKOČ.md",
+    "do ZMRDŮ.md",
     "Bez názvu.canvas",
-    "99-PUVODNI/Bez názvu.canvas",
-    "99-PUVODNI/Bez názvu 1.canvas"
+    "MASTER PLAN CANVAS 2026.canvas",
+    "⭐️ AIOOOOOOOOS",
+    "99-PUVODNI/Canvasy/⚜ 2025 FINAL FUCK.canvas",
+    "KAUZA-TJK/analýzy/analýza/240101 SPORT KRUPKA s.r.o. konkrétně Syryčanský posílá PINČESÁRNA SMLOUVA priloha_1301129925_1_TJKrupka-stolní-tenis-Smlouva o pronajmu nebytovych prostor - 2024 (1).pdf",
+    "Bez názvu.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "KAUZA-TJK/Getting Started/attachments/1776673161755-CleanShot_2026-04-20_at_10.17.53_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776508281809-CleanShot_2026-04-18_at_12.30.44_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776442178567-CleanShot_2026-04-17_at_18.08.40_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776441635173-CleanShot_2026-04-17_at_17.58.11_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776441716304-CleanShot_2026-04-17_at_18.01.19_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776441193704-CleanShot_2026-04-17_at_17.52.52_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776440809229-CleanShot_2026-04-17_at_17.46.02_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776440668823-CleanShot_2026-04-17_at_17.44.08_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png",
+    "KAUZA-TJK/Getting Started/attachments/1776433419379-CleanShot_2026-04-17_at_15.39.34_2x.png",
+    "MONEY_TREE.canvas",
+    "00-DASHBOARD/main.canvas",
+    "99-PUVODNI/Canvasy/Klíčové a Naléhavé.canvas",
+    "⭐️ ONLINE OFFLINE BUSINESESS.canvas",
+    "WEBDO24 - produkty.canvas",
+    "lucie urbanová.canvas",
+    "ALL  SHROMÁŽDĚNÍ DELEGÁTŮ přehled.canvas"
   ]
 }

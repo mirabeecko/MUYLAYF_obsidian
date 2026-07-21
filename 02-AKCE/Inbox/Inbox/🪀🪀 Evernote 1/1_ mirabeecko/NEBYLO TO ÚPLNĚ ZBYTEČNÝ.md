@@ -2,6 +2,11 @@
 created_date: 2017-03-15
 tags:
   - MM
+  - MIDŽU
+osoby:
+  - "[[People/🩸 MIDŽU SHRNUTÍ]]"
+cssclasses:
+  - dashboard
 ---
 
 Ve všech hodnotnejch věcech jsem měl pravdu, což je ta nejsmutnější skutečnost. 

@@ -5,8 +5,8 @@ tags:
   - STAROSTA
   - TJ/MAIN
 ---
-
-- [[🗂 DOKUMENTY/👨‍⚖️ PRÁVO A POŘÁDEK/ZÁKONY/Zákon o obcích 128-2000 sb.|Zákon o obcích 128-2000 sb.]]
+ 
+A- [[🗂 DOKUMENTY/👨‍⚖️ PRÁVO A POŘÁDEK/ZÁKONY/Zákon o obcích 128-2000 sb.|Zákon o obcích 128-2000 sb.]]**BHHBŮŮ.*[[K Ů..]()]()* "
 - VYUŽÍT PROSTOR PRO VEŘEJNOST
 
 
@@ -14,29 +14,29 @@ tags:
 [[🦧 Město Krupka]]
 # AKTUÁLNÍ SLOŽENÍ
 
-|        | Volební strana                 | Příjmení, jméno                         | Věk | Strana    |
-| ------ | ------------------------------ | --------------------------------------- | --- | --------- |
-| 1      | ZDRAVÁ KRUPKA                  | Bačová Miloslava, Mgr.                  | 68  | bez p. p. |
-| 2      | **ANO** 2011                   | Bence Jiří, Ing.                        | 56  | bez p. p. |
-| 3      | Občanská demokratická strana   | Bokoč Jan                               | 51  | **ODS**   |
-| 4      | **ANO** 2011                   | Grünbaumová Andrea                      | 49  | bez p. p. |
-| 5      | SNK MPV - MĚSTO PRO VÁS        | Jankura Radek, Bc.                      | 47  | STAN      |
-| 6      | Zdraví Sport Prosperita        | Jech Alexandr, Bc.                      | 44  | bez p. p. |
-| 7      | KRUPKA NÁŠ *DOMOV*             | *Kadlec Rostislav, PaedDr.*             | 43  | KDU-ČSL   |
-| 8      | **ANO** 2011                   | Klaška Rudolf                           | 43  | ANO       |
-| 9      | Svoboda a př. demokracie (SPD) | Kuchtová Andrea                         | 31  | SPD       |
-| 10     | **ANO** 2011                   | [[⭐ Jan Kuzma]]                         | 56  | ANO       |
-| 11     | ZDRAVÁ KRUPKA                  | Lachman Jaroslav                        | 51  | bez p. p. |
-| **12** | SPOLEČNĚ PRO KRUPKU            | **Matouš Zdeněk, PhDr. Ing. Ph.D, MBA** | 58  | ČSSD      |
-| **13** | SPOLEČNĚ PRO KRUPKU            | **Penc Jiří**                           | 60  | ČSSD      |
-| 14     | ZDRAVÁ KRUPKA                  | Příhoda Rostislav, Ing.                 | 51  | bez p. p. |
-| 15     | SPOLEČNĚ PRO KRUPKU            | [[⭐ KAREL ROUČEK]]                      | 58  | ČSSD      |
-| 16     | KRUPKA NÁŠ *DOMOV*             | *Růžička Jan, Ing.*                     | 33  | KDU-ČSL   |
-| 17     | ZDRAVÁ KRUPKA                  | Řeháková Marcela, Mgr. Bc.              | 46  | bez p. p. |
-| **18** | SPOLEČNĚ PRO KRUPKU            | **Saifert Zdeněk, Mgr. MBA**            | 50  | ČSSD      |
-| **19** | SPOLEČNĚ PRO KRUPKU            | **Šanda Václav**                        | 56  | ČSSD      |
-| 20     | Svoboda a př. demokracie (SPD) | Vaněk Tomáš                             | 64  | SPD       |
-| 21     | **ANO** 2011                   | Vítů Adolf                              | 52  | ANO       |
+|        | Volební strana                 | Příjmení, jméno                                         | Věk | Strana    |
+| ------ | ------------------------------ | ------------------------------------------------------- | --- | --------- |
+| 1      | ZDRAVÁ KRUPKA                  | Bačová Miloslava, Mgr.                                  | 68  | bez p. p. |
+| 2      | **ANO** 2011                   | Bence Jiří, Ing.                                        | 56  | bez p. p. |
+| 3      | Občanská demokratická strana   | Bokoč Jan                                               | 51  | **ODS**   |
+| 4      | **ANO** 2011                   | Grünbaumová Andrea                                      | 49  | bez p. p. |
+| 5      | SNK MPV - MĚSTO PRO VÁS        | Jankura Radek, Bc.                                      | 47  | STAN      |
+| 6      | Zdraví Sport Prosperita        | Jech Alexandr, Bc.                                      | 44  | bez p. p. |
+| 7      | KRUPKA NÁŠ *DOMOV*             | *Kadlec Rostislav, PaedDr.*                             | 43  | KDU-ČSL   |
+| 8      | **ANO** 2011                   | # [[⭐️ Klaška Rudolf - zastupitel města Krupka za ANO]] | 43  | ANO       |
+| 9      | Svoboda a př. demokracie (SPD) | Kuchtová Andrea                                         | 31  | SPD       |
+| 10     | **ANO** 2011                   | [[⭐ Jan Kuzma]]                                         | 56  | ANO       |
+| 11     | ZDRAVÁ KRUPKA                  | Lachman Jaroslav                                        | 51  | bez p. p. |
+| **12** | SPOLEČNĚ PRO KRUPKU            | **Matouš Zdeněk, PhDr. Ing. Ph.D, MBA**                 | 58  | ČSSD      |
+| **13** | SPOLEČNĚ PRO KRUPKU            | **Penc Jiří**                                           | 60  | ČSSD      |
+| 14     | ZDRAVÁ KRUPKA                  | Příhoda Rostislav, Ing.                                 | 51  | bez p. p. |
+| 15     | SPOLEČNĚ PRO KRUPKU            | [[⭐ KAREL ROUČEK]]                                      | 58  | ČSSD      |
+| 16     | KRUPKA NÁŠ *DOMOV*             | *Růžička Jan, Ing.*                                     | 33  | KDU-ČSL   |
+| 17     | ZDRAVÁ KRUPKA                  | Řeháková Marcela, Mgr. Bc.                              | 46  | bez p. p. |
+| **18** | SPOLEČNĚ PRO KRUPKU            | **Saifert Zdeněk, Mgr. MBA**                            | 50  | ČSSD      |
+| **19** | SPOLEČNĚ PRO KRUPKU            | **Šanda Václav**                                        | 56  | ČSSD      |
+| 20     | Svoboda a př. demokracie (SPD) | Vaněk Tomáš                                             | 64  | SPD       |
+| 21     | **ANO** 2011                   | Vítů Adolf                                              | 52  | ANO       |
 
 zdroj: https://www.krupka-mesto.cz/aktualni%2Dslozeni%2Dzastupitelstva%2Dmesta%2Dkrupka/d-14447
 

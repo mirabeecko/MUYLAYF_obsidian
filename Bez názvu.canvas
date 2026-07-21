@@ -1,1 +1,8 @@
-{}
+{
+	"nodes":[
+		{"id":"3efe7315212e0438","x":-680,"y":-380,"width":440,"height":740,"type":"file","file":"📡 VYSÍLAČ T-MOBILE.md"},
+		{"id":"775b7ffcd74c15ec","x":1,"y":-468,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3824f2f2f15734c5","x":104,"y":-293,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

@@ -34,7 +34,7 @@ cssclasses:
 - [ ] KONEC JEDNÉ ÉRY
 - [ ] PŘEDŽALOBNÍ VÝZVY
 
-[[POVINNOST POLICIE KONAT]]
+[[👮🏼 POVINNOST POLICIE KONAT]]
 ---
 ### **Práva poškozeného** v trestním řízení podle trestního řádu ČR (zákon č. 141/1961 Sb.) zahrnují
 - **Právo na informace o průběhu řízení** (§ 50, § 196/3): Poškozený má právo být informován o svých právech, o podání obžaloby, o termínech hlavního líčení, o rozhodnutí soudu.

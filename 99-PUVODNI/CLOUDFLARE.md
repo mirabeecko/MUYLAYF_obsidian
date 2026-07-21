@@ -1,6 +1,11 @@
 ---
 tags:
   - software
+  - SERVER_VPS
+  - dev
+up:
+  - "[[🍦 MUY SERVER VPS HETZNER]]"
+  - "[[MOJE VPS]]"
 ---
 _Your assigned Cloudflare nameservers:_
 dion.ns.cloudflare.com

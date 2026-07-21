@@ -1,0 +1,230 @@
+2026-06-17T07:37:19.210Z sdk ensureClient start
+2026-06-17T07:37:19.210Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-17T07:37:19.210Z sdk ensureClient load bundled opencode sdk begin
+2026-06-17T07:37:19.211Z sdk ensureClient load bundled opencode sdk ok
+2026-06-17T07:37:19.217Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-06-17T07:37:19.217Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-06-17T07:37:21.610Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-06-17T07:37:21.610Z sdk ensureClient createOpencodeClient begin
+2026-06-17T07:37:21.611Z sdk ensureClient createOpencodeClient ok
+2026-06-17T07:37:21.611Z sdk client ready http://127.0.0.1:4096
+2026-06-21T11:48:38.887Z sdk ensureClient start
+2026-06-21T11:48:38.888Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-21T11:48:38.888Z sdk ensureClient load bundled opencode sdk begin
+2026-06-21T11:48:38.889Z sdk ensureClient load bundled opencode sdk ok
+2026-06-21T11:48:39.340Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-06-21T11:48:39.340Z sdk ensureClient createOpencodeClient begin
+2026-06-21T11:48:39.340Z sdk ensureClient createOpencodeClient ok
+2026-06-21T11:48:39.340Z sdk client ready http://127.0.0.1:4096
+2026-06-22T12:18:38.569Z sdk ensureClient start
+2026-06-22T12:18:38.570Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-22T12:18:38.570Z sdk ensureClient load bundled opencode sdk begin
+2026-06-22T12:18:38.571Z sdk ensureClient load bundled opencode sdk ok
+2026-06-22T12:18:38.720Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-06-22T12:18:38.720Z sdk ensureClient createOpencodeClient begin
+2026-06-22T12:18:38.720Z sdk ensureClient createOpencodeClient ok
+2026-06-22T12:18:38.720Z sdk client ready http://127.0.0.1:4096
+2026-06-25T00:50:14.190Z sdk ensureClient start
+2026-06-25T00:50:14.192Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-25T00:50:14.192Z sdk ensureClient load bundled opencode sdk begin
+2026-06-25T00:50:14.195Z sdk ensureClient load bundled opencode sdk ok
+2026-06-25T00:50:14.357Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-06-25T00:50:14.357Z sdk ensureClient createOpencodeClient begin
+2026-06-25T00:50:14.358Z sdk ensureClient createOpencodeClient ok
+2026-06-25T00:50:14.358Z sdk client ready http://127.0.0.1:4096
+2026-06-26T19:35:28.775Z sdk ensureClient start
+2026-06-26T19:35:28.782Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-26T19:35:28.787Z sdk ensureClient load bundled opencode sdk begin
+2026-06-26T19:35:28.788Z sdk ensureClient load bundled opencode sdk ok
+2026-06-26T19:35:28.791Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-06-26T19:35:28.791Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-06-26T19:35:29.784Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-06-26T19:35:29.784Z sdk ensureClient createOpencodeClient begin
+2026-06-26T19:35:29.784Z sdk ensureClient createOpencodeClient ok
+2026-06-26T19:35:29.784Z sdk client ready http://127.0.0.1:4096
+2026-06-26T19:38:34.188Z sdk ensureClient start
+2026-06-26T19:38:34.190Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-26T19:38:34.190Z sdk ensureClient load bundled opencode sdk begin
+2026-06-26T19:38:34.191Z sdk ensureClient load bundled opencode sdk ok
+2026-06-26T19:38:34.194Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-06-26T19:38:34.195Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-06-26T19:38:35.212Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-06-26T19:38:35.212Z sdk ensureClient createOpencodeClient begin
+2026-06-26T19:38:35.212Z sdk ensureClient createOpencodeClient ok
+2026-06-26T19:38:35.212Z sdk client ready http://127.0.0.1:4096
+2026-06-30T13:37:00.471Z sdk ensureClient start
+2026-06-30T13:37:00.472Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-30T13:37:00.472Z sdk ensureClient load bundled opencode sdk begin
+2026-06-30T13:37:00.473Z sdk ensureClient load bundled opencode sdk ok
+2026-06-30T13:37:00.544Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-06-30T13:37:00.544Z sdk ensureClient createOpencodeClient begin
+2026-06-30T13:37:00.544Z sdk ensureClient createOpencodeClient ok
+2026-06-30T13:37:00.544Z sdk client ready http://127.0.0.1:4096
+2026-06-30T18:17:06.713Z sdk ensureClient start
+2026-06-30T18:17:06.714Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-06-30T18:17:06.714Z sdk ensureClient load bundled opencode sdk begin
+2026-06-30T18:17:06.715Z sdk ensureClient load bundled opencode sdk ok
+2026-06-30T18:17:06.787Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-06-30T18:17:06.787Z sdk ensureClient createOpencodeClient begin
+2026-06-30T18:17:06.788Z sdk ensureClient createOpencodeClient ok
+2026-06-30T18:17:06.788Z sdk client ready http://127.0.0.1:4096
+2026-07-03T16:19:20.001Z sdk ensureClient start
+2026-07-03T16:19:20.002Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-03T16:19:20.002Z sdk ensureClient load bundled opencode sdk begin
+2026-07-03T16:19:20.003Z sdk ensureClient load bundled opencode sdk ok
+2026-07-03T16:19:20.266Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-03T16:19:20.266Z sdk ensureClient createOpencodeClient begin
+2026-07-03T16:19:20.266Z sdk ensureClient createOpencodeClient ok
+2026-07-03T16:19:20.267Z sdk client ready http://127.0.0.1:4096
+2026-07-04T10:30:53.390Z sdk ensureClient start
+2026-07-04T10:30:53.391Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-04T10:30:53.391Z sdk ensureClient load bundled opencode sdk begin
+2026-07-04T10:30:53.392Z sdk ensureClient load bundled opencode sdk ok
+2026-07-04T10:30:53.396Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-07-04T10:30:53.396Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-07-04T10:30:54.931Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-07-04T10:30:54.931Z sdk ensureClient createOpencodeClient begin
+2026-07-04T10:30:54.932Z sdk ensureClient createOpencodeClient ok
+2026-07-04T10:30:54.932Z sdk client ready http://127.0.0.1:4096
+2026-07-04T12:00:41.980Z sdk ensureClient start
+2026-07-04T12:00:41.981Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-04T12:00:41.981Z sdk ensureClient load bundled opencode sdk begin
+2026-07-04T12:00:41.982Z sdk ensureClient load bundled opencode sdk ok
+2026-07-04T12:00:42.071Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-04T12:00:42.071Z sdk ensureClient createOpencodeClient begin
+2026-07-04T12:00:42.071Z sdk ensureClient createOpencodeClient ok
+2026-07-04T12:00:42.071Z sdk client ready http://127.0.0.1:4096
+2026-07-04T17:50:42.873Z sdk ensureClient start
+2026-07-04T17:50:42.874Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-04T17:50:42.874Z sdk ensureClient load bundled opencode sdk begin
+2026-07-04T17:50:42.875Z sdk ensureClient load bundled opencode sdk ok
+2026-07-04T17:50:42.878Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-07-04T17:50:42.878Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-07-04T17:50:43.672Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-07-04T17:50:43.710Z sdk ensureClient createOpencodeClient begin
+2026-07-04T17:50:43.710Z sdk ensureClient createOpencodeClient ok
+2026-07-04T17:50:43.710Z sdk client ready http://127.0.0.1:4096
+2026-07-04T18:30:27.739Z sdk ensureClient start
+2026-07-04T18:30:27.740Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-04T18:30:27.740Z sdk ensureClient load bundled opencode sdk begin
+2026-07-04T18:30:27.742Z sdk ensureClient load bundled opencode sdk ok
+2026-07-04T18:30:27.812Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-04T18:30:27.813Z sdk ensureClient createOpencodeClient begin
+2026-07-04T18:30:27.813Z sdk ensureClient createOpencodeClient ok
+2026-07-04T18:30:27.813Z sdk client ready http://127.0.0.1:4096
+2026-07-04T20:46:34.321Z sdk ensureClient start
+2026-07-04T20:46:34.322Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-04T20:46:34.322Z sdk ensureClient load bundled opencode sdk begin
+2026-07-04T20:46:34.323Z sdk ensureClient load bundled opencode sdk ok
+2026-07-04T20:46:34.440Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-04T20:46:34.440Z sdk ensureClient createOpencodeClient begin
+2026-07-04T20:46:34.440Z sdk ensureClient createOpencodeClient ok
+2026-07-04T20:46:34.440Z sdk client ready http://127.0.0.1:4096
+2026-07-05T00:08:25.676Z sdk ensureClient start
+2026-07-05T00:08:25.677Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-05T00:08:25.678Z sdk ensureClient load bundled opencode sdk begin
+2026-07-05T00:08:25.678Z sdk ensureClient load bundled opencode sdk ok
+2026-07-05T00:08:25.686Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-05T00:08:25.687Z sdk ensureClient createOpencodeClient begin
+2026-07-05T00:08:25.687Z sdk ensureClient createOpencodeClient ok
+2026-07-05T00:08:25.687Z sdk client ready http://127.0.0.1:4096
+2026-07-05T05:54:38.813Z sdk ensureClient start
+2026-07-05T05:54:38.814Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-05T05:54:38.814Z sdk ensureClient load bundled opencode sdk begin
+2026-07-05T05:54:38.815Z sdk ensureClient load bundled opencode sdk ok
+2026-07-05T05:54:38.878Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-05T05:54:38.878Z sdk ensureClient createOpencodeClient begin
+2026-07-05T05:54:38.878Z sdk ensureClient createOpencodeClient ok
+2026-07-05T05:54:38.878Z sdk client ready http://127.0.0.1:4096
+2026-07-06T05:21:09.029Z sdk ensureClient start
+2026-07-06T05:21:09.030Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T05:21:09.030Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T05:21:09.031Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T05:21:09.034Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-07-06T05:21:09.034Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-07-06T05:21:09.750Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-07-06T05:21:09.751Z sdk ensureClient createOpencodeClient begin
+2026-07-06T05:21:09.751Z sdk ensureClient createOpencodeClient ok
+2026-07-06T05:21:09.751Z sdk client ready http://127.0.0.1:4096
+2026-07-06T09:40:22.026Z sdk ensureClient start
+2026-07-06T09:40:22.027Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T09:40:22.028Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T09:40:22.028Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T09:40:22.115Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-06T09:40:22.115Z sdk ensureClient createOpencodeClient begin
+2026-07-06T09:40:22.116Z sdk ensureClient createOpencodeClient ok
+2026-07-06T09:40:22.116Z sdk client ready http://127.0.0.1:4096
+2026-07-06T15:34:20.915Z sdk ensureClient start
+2026-07-06T15:34:20.916Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T15:34:20.916Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T15:34:20.917Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T15:34:20.985Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-06T15:34:20.985Z sdk ensureClient createOpencodeClient begin
+2026-07-06T15:34:20.985Z sdk ensureClient createOpencodeClient ok
+2026-07-06T15:34:20.985Z sdk client ready http://127.0.0.1:4096
+2026-07-06T17:15:12.232Z sdk ensureClient start
+2026-07-06T17:15:12.233Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T17:15:12.233Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T17:15:12.234Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T17:15:12.305Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-06T17:15:12.305Z sdk ensureClient createOpencodeClient begin
+2026-07-06T17:15:12.305Z sdk ensureClient createOpencodeClient ok
+2026-07-06T17:15:12.305Z sdk client ready http://127.0.0.1:4096
+2026-07-06T17:15:26.251Z sdk ensureClient start
+2026-07-06T17:15:26.251Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T17:15:26.251Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T17:15:26.252Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T17:15:26.257Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-06T17:15:26.257Z sdk ensureClient createOpencodeClient begin
+2026-07-06T17:15:26.257Z sdk ensureClient createOpencodeClient ok
+2026-07-06T17:15:26.257Z sdk client ready http://127.0.0.1:4096
+2026-07-06T20:57:01.356Z sdk ensureClient start
+2026-07-06T20:57:01.357Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-06T20:57:01.357Z sdk ensureClient load bundled opencode sdk begin
+2026-07-06T20:57:01.358Z sdk ensureClient load bundled opencode sdk ok
+2026-07-06T20:57:01.454Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-06T20:57:01.454Z sdk ensureClient createOpencodeClient begin
+2026-07-06T20:57:01.454Z sdk ensureClient createOpencodeClient ok
+2026-07-06T20:57:01.454Z sdk client ready http://127.0.0.1:4096
+2026-07-17T17:10:49.730Z sdk ensureClient start
+2026-07-17T17:10:49.731Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-17T17:10:49.731Z sdk ensureClient load bundled opencode sdk begin
+2026-07-17T17:10:49.732Z sdk ensureClient load bundled opencode sdk ok
+2026-07-17T17:10:50.008Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-17T17:10:50.009Z sdk ensureClient createOpencodeClient begin
+2026-07-17T17:10:50.009Z sdk ensureClient createOpencodeClient ok
+2026-07-17T17:10:50.009Z sdk client ready http://127.0.0.1:4096
+2026-07-17T18:46:44.736Z sdk ensureClient start
+2026-07-17T18:46:44.736Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-17T18:46:44.736Z sdk ensureClient load bundled opencode sdk begin
+2026-07-17T18:46:44.737Z sdk ensureClient load bundled opencode sdk ok
+2026-07-17T18:46:44.834Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-17T18:46:44.834Z sdk ensureClient createOpencodeClient begin
+2026-07-17T18:46:44.834Z sdk ensureClient createOpencodeClient ok
+2026-07-17T18:46:44.834Z sdk client ready http://127.0.0.1:4096
+2026-07-18T03:56:57.901Z sdk ensureClient start
+2026-07-18T03:56:57.902Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-18T03:56:57.902Z sdk ensureClient load bundled opencode sdk begin
+2026-07-18T03:56:57.903Z sdk ensureClient load bundled opencode sdk ok
+2026-07-18T03:56:58.010Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-18T03:56:58.010Z sdk ensureClient createOpencodeClient begin
+2026-07-18T03:56:58.011Z sdk ensureClient createOpencodeClient ok
+2026-07-18T03:56:58.011Z sdk client ready http://127.0.0.1:4096
+2026-07-20T19:47:56.170Z sdk ensureClient start
+2026-07-20T19:47:56.171Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-20T19:47:56.171Z sdk ensureClient load bundled opencode sdk begin
+2026-07-20T19:47:56.172Z sdk ensureClient load bundled opencode sdk ok
+2026-07-20T19:47:56.176Z sdk ensureServiceBaseUrl probe failed http://127.0.0.1:4096
+2026-07-20T19:47:56.176Z sdk ensureServiceBaseUrl launch local opencode serve
+2026-07-20T19:47:57.435Z sdk ensureServiceBaseUrl launch ok http://127.0.0.1:4096
+2026-07-20T19:47:57.435Z sdk ensureClient createOpencodeClient begin
+2026-07-20T19:47:57.436Z sdk ensureClient createOpencodeClient ok
+2026-07-20T19:47:57.436Z sdk client ready http://127.0.0.1:4096
+2026-07-21T01:33:53.794Z sdk ensureClient start
+2026-07-21T01:33:53.795Z sdk env node=22.21.1 electron=37.10.2 chrome=138.0.7204.251 processType=renderer
+2026-07-21T01:33:53.795Z sdk ensureClient load bundled opencode sdk begin
+2026-07-21T01:33:53.796Z sdk ensureClient load bundled opencode sdk ok
+2026-07-21T01:33:53.889Z sdk ensureServiceBaseUrl probe ok http://127.0.0.1:4096
+2026-07-21T01:33:53.889Z sdk ensureClient createOpencodeClient begin
+2026-07-21T01:33:53.889Z sdk ensureClient createOpencodeClient ok
+2026-07-21T01:33:53.889Z sdk client ready http://127.0.0.1:4096

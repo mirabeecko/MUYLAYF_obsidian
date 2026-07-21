@@ -43,6 +43,10 @@ důvěra:
 
 ---
 
+je to volnej VOLNEJ RADIKÁL
+---
+
+
 - # NIKDY UŽ PO NÍ *NIC NECHTĚJ* A *NEVOLEJ* JI
 
 - # VYHOŇ SI HO A HOTOVO

@@ -1,3 +1,7 @@
+---
+tags:
+  - kauza_TJK
+---
 # VIZUÁLNÍ ČASOVÁ LINIE - OBCHODNÍ REJSTŘÍK TJ KRUPKA
 
 **Období:** 24.8.2021 - 8.2.2026

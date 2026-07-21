@@ -9,7 +9,7 @@ cssclasses:
   - dashboard
 ---
 
-- [[POVINNOST POLICIE KONAT]]
+- [[👮🏼 POVINNOST POLICIE KONAT]]
 - [[práce policisty]]
 - [[OZNÁMENÍ - TRAKTOR]]
 

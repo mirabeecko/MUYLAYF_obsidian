@@ -1,0 +1,37 @@
+---
+
+tags: [excalidraw, tmobile, elektro, mapa]
+
+---
+
+
+# Text Elements
+
+## T-Mobile — Elektro a pozemky
+
+### Subjekty
+- [[06_Instituce/Firmy/TMobile_Czech_Republic|T-Mobile CZ]] — provozovatel vysílače
+- [[06_Instituce/Firmy/TJ_Krupka_zs|TJ Krupka z.s.]] — správce areálu
+- [[06_Instituce/Urady/Lesy_CR|Lesy ČR]] — vlastník pozemků
+
+### Technologie
+- Telekomunikační vysílač
+- Elektroinstalace v areálu
+- Příjezdová komunikace
+
+### Dokumenty
+- [[03_Dokumenty/TMobile_Smlouva_Najem|Smlouva o nájmu]]
+- [[03_Dokumenty/TMobile_Komunikace|Korespondence]]
+
+### Otevřené otázky
+- Kdo vlastní elektroinstalaci?
+- Kdo hradí údržbu?
+- Jaká je historie smluv?
+
+---
+
+# Drawing
+
+```json
+{"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[{"id":"VYSILAC","type":"rectangle","x":300,"y":100,"width":220,"height":100,"angle":0,"strokeColor":"#000000","backgroundColor":"#e03131","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":1},"seed":1,"version":1,"isDeleted":false,"boundElements":[{"type":"text","id":"VYSILAC_text"}],"updated":1,"link":null,"locked":false},{"id":"VYSILAC_text","type":"text","x":310,"y":135,"width":200,"height":30,"angle":0,"strokeColor":"#ffffff","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":null,"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"text":"Vysílač T-Mobile","fontSize":20,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","baseline":21},{"id":"ELEKTRO","type":"rectangle","x":300,"y":300,"width":220,"height":100,"angle":0,"strokeColor":"#000000","backgroundColor":"#fab005","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":1},"seed":1,"version":1,"isDeleted":false,"boundElements":[{"type":"text","id":"ELEKTRO_text"}],"updated":1,"link":null,"locked":false},{"id":"ELEKTRO_text","type":"text","x":310,"y":335,"width":200,"height":30,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":null,"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"text":"Elektroinstalace","fontSize":20,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","baseline":21},{"id":"TM","type":"ellipse","x":650,"y":200,"width":160,"height":80,"angle":0,"strokeColor":"#000000","backgroundColor":"#e03131","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":[{"type":"text","id":"TM_text"}],"updated":1,"link":"06_Instituce/Firmy/TMobile_Czech_Republic.md","locked":false},{"id":"TM_text","type":"text","x":660,"y":225,"width":140,"height":30,"angle":0,"strokeColor":"#ffffff","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":null,"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"text":"T-Mobile","fontSize":20,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","baseline":21},{"id":"TJ","type":"ellipse","x":50,"y":200,"width":160,"height":80,"angle":0,"strokeColor":"#000000","backgroundColor":"#228be6","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":[{"type":"text","id":"TJ_text"}],"updated":1,"link":"06_Instituce/Firmy/TJ_Krupka_zs.md","locked":false},{"id":"TJ_text","type":"text","x":60,"y":225,"width":140,"height":30,"angle":0,"strokeColor":"#ffffff","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":null,"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"text":"TJ Krupka","fontSize":20,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","baseline":21},{"id":"LESY","type":"ellipse","x":300,"y":500,"width":220,"height":80,"angle":0,"strokeColor":"#000000","backgroundColor":"#69db7c","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":[{"type":"text","id":"LESY_text"}],"updated":1,"link":"06_Instituce/Urady/Lesy_CR.md","locked":false},{"id":"LESY_text","type":"text","x":310,"y":525,"width":200,"height":30,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":null,"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"text":"Lesy ČR","fontSize":20,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","baseline":21},{"id":"arrow_TM_VYSILAC","type":"arrow","x":650,"y":240,"width":130,"height":0,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"startBinding":{"elementId":"TM","focus":-0.2,"gap":1},"endBinding":{"elementId":"VYSILAC","focus":0.2,"gap":1},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-130,0]]},{"id":"arrow_VYSILAC_ELEKTRO","type":"arrow","x":410,"y":200,"width":0,"height":100,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"startBinding":{"elementId":"VYSILAC","focus":0,"gap":1},"endBinding":{"elementId":"ELEKTRO","focus":0,"gap":1},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[0,100]]},{"id":"arrow_TJ_ELEKTRO","type":"arrow","x":210,"y":260,"width":90,"height":40,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"dashed","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"startBinding":{"elementId":"TJ","focus":-0.2,"gap":1},"endBinding":{"elementId":"ELEKTRO","focus":-0.8,"gap":1},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[90,40]]},{"id":"arrow_LESY_ELEKTRO","type":"arrow","x":410,"y":500,"width":0,"height":100,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"roundness":{"type":2},"seed":1,"version":1,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"startBinding":{"elementId":"LESY","focus":0,"gap":1},"endBinding":{"elementId":"ELEKTRO","focus":0,"gap":1},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[0,-100]]}],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
+```

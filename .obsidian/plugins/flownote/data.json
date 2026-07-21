@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "settings": {
+    "uiLanguage": "auto",
+    "cliPath": "",
+    "autoDetectCli": true,
+    "skillsDir": ".flownote/skills",
+    "skillSecrets": {},
+    "toolPermissionMode": "ask",
+    "defaultModel": "",
+    "agentProviderModePreference": "direct",
+    "notePaths": {
+      "dailyNotes": "01-捕获层/每日笔记",
+      "weeklyReviews": "01-捕获层/周记",
+      "monthlyReviews": "01-捕获层/月记",
+      "yearlyReviews": "01-捕获层/年记",
+      "permanentNotes": "02-培养层/永久笔记",
+      "topicNotes": "02-培养层/主题笔记",
+      "literatureNotes": "02-培养层/文献笔记",
+      "domainPages": "03-连接层",
+      "activeProjects": "04-创造层/项目",
+      "archive": "04-创造层/归档"
+    },
+    "metaPaths": {
+      "metaRoot": "Meta",
+      "templates": "Meta/Templates",
+      "indexes": "Meta/Indexes",
+      "indexPages": "Meta/Index Pages",
+      "systemDocs": "Meta/System Docs",
+      "homeViews": "Meta/Home Views",
+      "memory": "Meta/ai-memory",
+      "legacyMemory": "Meta/.ai-memory"
+    },
+    "requestTimeoutMs": 120000,
+    "sendWithEnter": false,
+    "enableStreaming": true,
+    "debugLogs": true,
+    "opencodeHomeDir": ".opencode-runtime",
+    "launchStrategy": "auto",
+    "wslDistro": "",
+    "mobileCapture": {
+      "provider": "deepseek",
+      "apiKey": "",
+      "baseUrl": "",
+      "model": "",
+      "dailyNotePath": "01-Capture/Daily Notes",
+      "ideaSectionHeader": "## Records",
+      "enableAiCleanup": true,
+      "enableUrlSummary": true,
+      "linkResolver": {
+        "enabled": true,
+        "provider": "tianapi",
+        "providerOrder": [
+          "tianapi",
+          "showapi",
+          "gugudata"
+        ],
+        "tianapiKey": "",
+        "showapiAppKey": "",
+        "gugudataAppKey": "",
+        "timeoutMs": 25000,
+        "retries": 2,
+        "maxConcurrency": 2,
+        "fallbackMode": "ai_then_plain"
+      }
+    },
+    "agentProvider": {
+      "enabled": true,
+      "mode": "direct",
+      "direct": {
+        "providerId": "deepseek",
+        "providerMode": "api",
+        "apiKeys": {},
+        "model": "deepseek-v4-flash",
+        "baseUrlOverride": "",
+        "userAgentOverride": "",
+        "versionHeaderOverride": "",
+        "stream": true,
+        "maxOutputTokens": 0
+      }
+    }
+  },
+  "runtimeState": {
+    "sessions": [
+      {
+        "id": "local-mqhsagzq-9ltjmg",
+        "title": "新会话",
+        "updatedAt": 1781683393670
+      },
+      {
+        "id": "local-mqhs9ryp-twg6ok",
+        "title": "ah-review",
+        "updatedAt": 1781683361268,
+        "lastUserPrompt": "/ah-review"
+      }
+    ],
+    "activeSessionId": "local-mqhsagzq-9ltjmg",
+    "messagesBySession": {
+      "local-mqhs9ryp-twg6ok": [
+        {
+          "id": "msg-1781683361268-dc816a",
+          "role": "user",
+          "text": "/ah-review",
+          "createdAt": 1781683361268,
+          "linkedContextFiles": []
+        },
+        {
+          "id": "msg-1781683361268-b1f407",
+          "role": "assistant",
+          "text": "Request failed: No API key configured for provider \"DeepSeek\".",
+          "reasoning": "",
+          "meta": "",
+          "blocks": [],
+          "createdAt": 1781683361268,
+          "pending": false,
+          "error": "No API key configured for provider \"DeepSeek\"."
+        }
+      ]
+    },
+    "deletedSessionIds": [],
+    "modelCatalogCache": {
+      "updatedAt": 1781681842025,
+      "models": [
+        "opencode/big-pickle",
+        "opencode/deepseek-v4-flash-free",
+        "opencode/mimo-v2.5-free",
+        "opencode/nemotron-3-ultra-free",
+        "opencode/north-mini-code-free"
+      ],
+      "connectedProviders": [
+        "opencode"
+      ]
+    },
+    "migrationFlags": {},
+    "lastLaunchProfile": {
+      "mode": "native",
+      "command": "/Users/mb/.opencode/bin/opencode",
+      "args": [
+        "serve",
+        "--hostname",
+        "127.0.0.1",
+        "--port",
+        "0",
+        "--cors",
+        "app://obsidian.md",
+        "--print-logs"
+      ],
+      "shell": false,
+      "distro": "",
+      "at": 1781681841610
+    },
+    "lastPluginVersion": "0.5.11",
+    "bundledSkillsStamp": "0.5.11:ah,ah-archive,ah-capture,ah-card,ah-inbox,ah-init,ah-legacy,ah-memory,ah-month,ah-note,ah-project,ah-read,ah-review,ah-think,ah-week,ah-year,defuddle,json-canvas,obsidian-bases,obsidian-cli,obsidian-markdown:7a5d4e68109aa79ee3cee6aa01c7c06cbe3ffe4b:locale=en"
+  }
+}

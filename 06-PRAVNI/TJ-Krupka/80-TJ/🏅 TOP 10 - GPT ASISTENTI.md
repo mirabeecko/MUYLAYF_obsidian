@@ -22,28 +22,28 @@ tags:
 	- Code Wizard
 	- kódový našeptávač - porazil GPT 4-o, CoPilot atd.
 
-- Grimoire+
+- **Grimoire+**
 	- Interpret kódu a analýza dat
 	- Obrázky DALL E
 	- Procházení
 
-- Healthy Chef
-	- analýza ledničky podle fotky
+- **Healthy Chef**
+	- **analýza ledn**ičky podle fotky
 
 - **VIDEO AI**
 	- Tvorba videa AI
  
-- LOGO CREATOR
+- **LOGO CREATOR**
 	- 
 
-- Photo Realistic Image GPT
+- **Photo Realistic Image GPT**
 
 - Midjourney Prompter
 
-- Escape the Haunt
+- **Escape the Haunt**
 	- něco jako dračí doupě...
 
-- Website Generator
+- **Website Generator**
 	- b12.io
 ---
 

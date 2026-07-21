@@ -6,6 +6,37 @@ aliases:
   - STAROSTA
 cssclasses:
 ---
+SPORT KRUPKA jednatel Jan Kuzma : zapsáno **21. února 2023** | vymazáno **25. ledna 2025**
+SPORT KRUPKA jednatel Adolf Vítů  : zapsáno  **25. ledna 2025**
+
+
+[[BOKOČ A KUZMA excalidraw]]
+[[❌ VORLÍČEK jednání s Lesy ČR]]
+
+
+KUZMA DAL za rok 2025 a 2026 dotace:
+- KST KRUPKA - **310.000 Kč**
+- KARATE KRUPKA - **409.000 Kč**
+
+----
+22.6.2026 - den po tom, co jsem mu napsal o schůzku, objevili se v areálu 2 z města , že prý byla nařízena kontrola kontrolním výborem
+
+
+
+JAN KUZMA , dat. nar. 24. září 1966
+Úzká 74, Soběchleby, 417 42 Krupka
+Den vzniku funkce: 20. února 2023 / Den zániku funkce: 31. prosince 2024
+zapsáno 21. února 2023 | **vymazáno 25. ledna 2025**
+
+---
+
+# Kuzmovo LŽI
+- jeho pomocná ruka
+- kontrola 
+
+
+
+---
 
 - [[FINAL TOUCH GPT RADY]]
 
@@ -22,12 +53,12 @@ cssclasses:
 	- 
 - promo článek pro jednotu 
 - K platné jízdence na vlek - **jízda** lanovkou 🚡 **ZDARMA** ! 
-- 
+
 
 **CO ZA TO DOSTANE** 
 - PR
 - Veřejné díky
-- 
+
 # Docs
 [[Zastupitelstvo města Krupka 2022-2026]]
 

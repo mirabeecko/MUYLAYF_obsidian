@@ -22,5 +22,8 @@
   "obsidian-tasks-plugin",
   "card-board",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "flownote",
+  "tasknotes",
+  "workspace-plus-plus"
 ]
