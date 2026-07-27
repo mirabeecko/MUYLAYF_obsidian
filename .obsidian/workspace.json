@@ -75,12 +75,62 @@
             "id": "a4f900008b8c8195",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📀 API ONE"
+            }
+          },
+          {
+            "id": "68f9bec73165b6e6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "99-PUVODNI/Excalidraw/⭐️ AKTUAL ALL 2026.excalidraw.md"
+                "file": "Excalidraw/HTML FILES USEFUL.excalidraw.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "⭐️ AKTUAL ALL 2026.excalidraw"
+              "title": "HTML FILES USEFUL.excalidraw"
+            }
+          },
+          {
+            "id": "195586155b51e1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-PUVODNI/Excalidraw/VIDEO NÁMĚT MĚSTO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "VIDEO NÁMĚT MĚSTO"
             }
           },
           {
@@ -297,31 +347,17 @@
             }
           },
           {
-            "id": "4e336eeb6802d7be",
+            "id": "5c1b2a0478e958a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Milo_Agent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Milo_Agent"
+              "type": "flownote-view",
+              "state": {},
+              "icon": "flownote-journal-glow",
+              "title": "FLOWnote"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -353,7 +389,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nečinnost",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -374,11 +410,13 @@
               "title": "Záložky"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "d747d256b563506f",
@@ -509,19 +547,9 @@
               "icon": "network",
               "title": "Mxmind"
             }
-          },
-          {
-            "id": "5c1b2a0478e958a5",
-            "type": "leaf",
-            "state": {
-              "type": "flownote-view",
-              "state": {},
-              "icon": "flownote-journal-glow",
-              "title": "FLOWnote"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "27d8840a62f1ade5",
@@ -632,38 +660,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "02c5e21e97b14dce",
+  "active": "af781e69aefbe3a5",
   "lastOpenFiles": [
-    "12_Archiv/Poznamka_Migrace.md",
+    "Excalidraw/BOKOČ A KUZMA excalidraw.md",
+    "👩‍⚖️ JUDIKÁTY T-Mobile a Město Krupka.md",
+    "99-PUVODNI/Excalidraw/VIDEO NÁMĚT MĚSTO.md",
+    "Excalidraw/HTML FILES USEFUL.excalidraw.md",
+    "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
+    "01-PROJEKTY/❤️ webdo24.cz/⭐️ webdo24.cz.md",
+    "📡 VYSÍLAČ T-MOBILE.md",
+    "Excalidraw/Drawing 2026-06-30 20.44.45.excalidraw.md",
+    "Clippings/Anatomie hádky když se ve vztahu splaší amygdala.md",
+    "Milo_Agent.md",
+    "06-PRAVNI/TJ-Krupka/80-TJ/Zastupitelstvo města Krupka 2022-2026.md",
+    "99-PUVODNI/Excalidraw/⭐️ AKTUAL ALL 2026.excalidraw.md",
+    "99-PUVODNI/ALFA DASHBOARD.md",
     "90 ❌ POLICIE/👮🏼 POVINNOST POLICIE KONAT.md",
+    "KDYŽ 158 ZLOBÍ.md",
+    "12_Archiv/Poznamka_Migrace.md",
     "90 ❌ POLICIE/👮🏼 KDYŽ NECHTĚJ KONAT.md",
     "TaskNotes/Views/agenda-default.base",
     "09_Judikatura/Index_Judikatury.md",
     "Bez názvu",
     "90 ❌ POLICIE",
     "11_Chronologie/Kompletni_Chronologie.md",
-    "Milo_Agent.md",
     "Clippings/Multi-Agent Coding Team Tools.md",
     "03-LIDI/⚜ 👨‍👩‍👧‍👦 Lidičky zlatý Lidi BLÁZNIVÝ.md",
     "⭐️ Klaška Rudolf - zastupitel města Krupka za ANO.md",
     "03-LIDI/People 1/⭐ Jan Kuzma.md",
-    "📡 VYSÍLAČ T-MOBILE.md",
-    "Excalidraw/Drawing 2026-06-30 20.44.45.excalidraw.md",
-    "99-PUVODNI/ALFA DASHBOARD.md",
-    "06-PRAVNI/TJ-Krupka/80-TJ/Zastupitelstvo města Krupka 2022-2026.md",
     "KANO - PROČ SE TO DĚJE FURT MNĚ ?.md",
     "KDO SI A CO JSI.md",
     "99-PUVODNI/🧠 MOJE ŠÍLENSTVÍ.md",
-    "99-PUVODNI/0-1-archive/⌨️ 👾 ✍︎ VÝVOJÁŘ/📀 API ONE.md",
-    "PŘEVZETÍ NEEXISTUJÍCÍHO DLUHU.md",
-    "99-PUVODNI/📚 VÝVOJÁŘ MOC.md",
-    "99-PUVODNI/Ai GRAFIKA PRO APLIKACE.md",
-    "Clippings/Nový chat.md",
     "Clippings",
-    "❌ VORLÍČEK jednání s Lesy ČR.md",
-    "Excalidraw/BOKOČ A KUZMA excalidraw.md",
-    "03-LIDI/People 1/⭐️ JAN BOKOČ.md",
-    "do ZMRDŮ.md",
     "Bez názvu.canvas",
     "MASTER PLAN CANVAS 2026.canvas",
     "⭐️ AIOOOOOOOOS",

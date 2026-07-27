@@ -8,7 +8,7 @@ up:
 ---
 
 Policie obecně při oznamování trestního oznámené vytváří snahu 
-# [[KDYŽ 158 ZLOBÍ]]
+# [[👮🏼 KDYŽ NECHTĚJ KONAT]]
 
 # **POVINNOST POLICIE** KONAT !
 Pokud policie je svědkem trestného činu, má povinnost zasáhnout podle platných zákonů a pravidel. Tato povinnost je definována v zákonech o Policii České republiky a dalších příslušných právních předpisech. Konkrétní kroky zahrnují:
@@ -92,3 +92,7 @@ Pokud by policista v rámci výslechu nebo jiné činnosti zjistil důvody k pod
 - **Porušení** těchto povinností **může mít vážné důsledky** jak pro **postup** trestního řízení, tak pro **práva** postižených osob.
 
 #claude_tjkrupka
+
+
+
+
